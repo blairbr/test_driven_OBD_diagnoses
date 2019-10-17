@@ -8,9 +8,9 @@ class Test_Car_Doctor(unittest.TestCase):
     def test_get_gas_cap_suggestion_for_441(self):
         expected_suggestion = 'Try tightening your gas cap'
         # here need to mock out the call and tell it to get a specific code back
-        errorcode = CarDoctor.get_error_codes();
+        errorcode = CarDoctor.get_error_codes()
+#here i'd mock the response from get error codes
         actual_suggestion = CarDoctor.append_troubleshooting_suggestion(self, errorcode)
-
         self.assertEqual(expected_suggestion, actual_suggestion)
 
 
