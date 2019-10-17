@@ -20,8 +20,14 @@ class CarDoctor:
             current_DT = datetime.datetime.now()
             return current_DT
 
-        def append_troubleshooting_suggestion(self):
-            return 'Try tightening your gas cap'
+        def append_troubleshooting_suggestion(self, errorcode):
+            if 299 < errorcode < 305:
+                return 'Your engine is misfiring. One or more of the cylinders is not working properly. See a mechanic.'
+            elif errorcode is 441:
+                return 'Try tightening your gas cap'
+            else:
+                return 'Unrecognized code. No suggestions for you yet'
+
 
         def log_information(self):
             logging.basicConfig(format='%(levelname)s:%(message)s', level=logging.DEBUG)
