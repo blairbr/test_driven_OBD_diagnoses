@@ -41,3 +41,9 @@ class Test_Car_Doctor(unittest.TestCase):
         actual_suggestion = CarDoctor.append_troubleshooting_suggestion(self, mocked_error_code)
 
         self.assertEqual(expected_suggestion, actual_suggestion)
+
+    def test_yaml_file_can_be_read(self):
+        expected_yaml_data = 'this test should fail'
+
+        actual_yaml_data = CarDoctor.print_yaml_file(self)
+        self.assertEqual(expected_yaml_data, actual_yaml_data)

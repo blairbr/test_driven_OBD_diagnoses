@@ -47,7 +47,13 @@ class CarDoctor:
             logging.basicConfig(format='%(levelname)s:%(message)s', level=logging.DEBUG)
             logging.debug(self.dtc_codes)
 
+        def print_yaml_file(self):
+            with open(r'C:\Users\Blair\Projects\PythonProjects\CarDoctorFolder\test_driven_OBD_diagnoses\venv\error_codes.yaml') as file:
+                # The FullLoader parameter handles the conversion from YAML
+                # scalar values to Python the dictionary format
+                error_codes_list = yaml.load(file, Loader=yaml.FullLoader)
 
+                return error_codes_list
             #Future steps:
             #make the error codes dictionary a global variable
             #move it into a yaml file
