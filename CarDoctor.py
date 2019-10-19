@@ -1,7 +1,7 @@
 import obd
 import datetime
 import logging
-import requests
+import yaml
 
 class CarDoctor:
     # obd.commands.FREEZE_DTC
@@ -9,7 +9,7 @@ class CarDoctor:
 
 
         error_104 = [("P0104", "Mass or Volume Air Flow Circuit Intermittent")]
-        error_441 = [("P0441", "Try tightening your gas cap.")]  # was this an array??
+        error_441 = [("P0441", "Try tightening your gas cap.")]
         error_300 = [("P0300", "Random/Multiple cylinder misfire detected.")]
         def get_error_codes(self):
             connection = obd.OBD()
@@ -50,6 +50,7 @@ class CarDoctor:
 
             #Future steps:
             #make the error codes dictionary a global variable
+            #move it into a yaml file
 
 
 

@@ -1,4 +1,5 @@
 import unittest
+import yaml
 from unittest.mock import Mock
 from CarDoctor import CarDoctor
 
@@ -8,8 +9,6 @@ class Test_Car_Doctor(unittest.TestCase):
 
     def test_get_check_wires_suggestion_for_104(self):
         expected_suggestion = 'Check for frayed wires or loose connections to your MAF sensor.'
-
-        # here need to mock out the call and tell it to get a specific code back??
 
         mock = Mock()
         mock.CarDoctor.get_error_codes.return_value = [("P0104", "Mass or Volume Air Flow Circuit Intermittent")]
