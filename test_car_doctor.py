@@ -43,7 +43,16 @@ class Test_Car_Doctor(unittest.TestCase):
         self.assertEqual(expected_suggestion, actual_suggestion)
 
     def test_yaml_file_can_be_read(self):
-        expected_yaml_data = 'this test should fail'
+        expected_yaml_data = [{'P0104': {'definition': 'Mass or Volume Air Flow Circuit Intermittent',
+                    'suggestion': 'Check for frayed wires or loose connections to your '
+                                  'MAF sensor.'}},
+         {'P0441': {'definition': 'Evaporative Emission Control System Incorrect Purge '
+                                  'Flow',
+                    'suggestion': 'Try tightening your gas cap.'}},
+         {'P0300': {'definition': 'Random/Multiple cylinder misfire detected.',
+                    'suggestion': 'Your engine is misfiring. One or more of the '
+                                  'cylinders is not working properly. See a '
+                                  'mechanic.'}}]
 
         actual_yaml_data = CarDoctor.print_yaml_file(self)
         self.assertEqual(expected_yaml_data, actual_yaml_data)
