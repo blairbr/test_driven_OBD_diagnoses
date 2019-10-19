@@ -1,0 +1,10 @@
+P0104:
+  definition: Mass or Volume Air Flow Circuit Intermittent
+  suggestion: Check for frayed wires or loose connections to your MAF sensor.
+P0300:
+  definition: One or more of the cylinders is not working properly. See a mechanic.
+  suggestion: Your engine is misfiring. One or more of the cylinders is not working
+    properly. See a mechanic.
+P0441:
+  definition: Evaporative Emission Control System Incorrect Purge Flow
+  suggestion: Try tightening your gas cap.

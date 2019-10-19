@@ -6,8 +6,6 @@ import yaml
 class CarDoctor:
     # obd.commands.FREEZE_DTC
 
-
-
         error_104 = [("P0104", "Mass or Volume Air Flow Circuit Intermittent")]
         error_441 = [("P0441", "Try tightening your gas cap.")]
         error_300 = [("P0300", "Random/Multiple cylinder misfire detected.")]
@@ -24,7 +22,7 @@ class CarDoctor:
             current_DT = datetime.datetime.now()
             return current_DT
 
-        def append_troubleshooting_suggestion(self, errorcode):
+        def retrieve_troubleshooting_suggestion(self, errorcode):
 
             error_codes = {
                 "P0104": {
@@ -40,15 +38,20 @@ class CarDoctor:
                     "suggestion": "Your engine is misfiring. One or more of the cylinders is not working properly. See a mechanic."
                 }
             }
-            return error_codes.get(errorcode[0][0]).get('suggestion')
+           # return error_codes.get(errorcode[0][0]).get('suggestion')
+            # read from the yaml and get the suggestion here.
+            with open(r'C:\Users\Blair\Projects\PythonProjects\CarDoctorFolder\test_driven_OBD_diagnoses\venv\error_codes_yaml.yaml') as yaml_file:
+                doc = yaml.load(yaml_file, Loader=yaml.FullLoader)
 
+            suggestion = doc["P0104"]["suggestion"]
+            return(suggestion)
 
         def log_information(self):
             logging.basicConfig(format='%(levelname)s:%(message)s', level=logging.DEBUG)
             logging.debug(self.dtc_codes)
 
-        def print_yaml_file(self):
-            with open(r'C:\Users\Blair\Projects\PythonProjects\CarDoctorFolder\test_driven_OBD_diagnoses\venv\error_codes.yaml') as file:
+        def retrieve_yaml_file(self):
+            with open(r'C:\Users\Blair\Projects\PythonProjects\CarDoctorFolder\test_driven_OBD_diagnoses\venv\error_codes_yaml.yaml') as file:
                 # The FullLoader parameter handles the conversion from YAML
                 # scalar values to Python the dictionary format
                 error_codes_list = yaml.load(file, Loader=yaml.FullLoader)
