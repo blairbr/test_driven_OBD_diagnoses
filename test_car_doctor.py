@@ -47,6 +47,14 @@ class Test_Car_Doctor(unittest.TestCase):
 
         self.assertEqual(expected_suggestion, actual_suggestion)
 
+    def test_trim_dtc_returns_four_digit_error_code(self):
+        error_104 = [("P0104", "Mass or Volume Air Flow Circuit Intermittent")]
+
+        expected = 'P0104'
+        actual = CarDoctor.trim_dtc_code_to_four_digit_error_code(self, error_104)
+        self.assertEqual(expected, actual)
+
+
     def test_yaml_file_can_be_read(self):
         expected_yaml_data = {'P0104': {'definition': 'Mass or Volume Air Flow Circuit Intermittent',
            'suggestion': 'Check for frayed wires or loose connections to your '
