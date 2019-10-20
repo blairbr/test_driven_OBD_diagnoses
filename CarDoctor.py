@@ -22,7 +22,7 @@ class CarDoctor:
             current_DT = datetime.datetime.now()
             return current_DT
 
-        def retrieve_troubleshooting_suggestion(self, errorcode):
+        def retrieve_troubleshooting_suggestion(self, error_code):
 
             error_codes = {
                 "P0104": {
@@ -43,7 +43,7 @@ class CarDoctor:
             with open(r'C:\Users\Blair\Projects\PythonProjects\CarDoctorFolder\test_driven_OBD_diagnoses\venv\error_codes_yaml.yaml') as yaml_file:
                 doc = yaml.load(yaml_file, Loader=yaml.FullLoader)
 
-            suggestion = doc["P0104"]["suggestion"]
+            suggestion = doc[error_code]["suggestion"]
             return(suggestion)
 
         def log_information(self):
