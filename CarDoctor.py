@@ -23,7 +23,7 @@ class CarDoctor:
 
     # note to self - fix this to the relative path so it'll work on other humans' machines
     def retrieve_troubleshooting_suggestion(self, error_code):
-        with open(r'C:\Users\Blair\Projects\PythonProjects\CarDoctorFolder\test_driven_OBD_diagnoses\venv\error_codes_yaml.yaml') as yaml_file:
+        with open(r'venv\error_codes_yaml.yaml') as yaml_file:
             doc = yaml.load(yaml_file, Loader=yaml.FullLoader)
 
         suggestion = doc[error_code]["suggestion"]
@@ -35,7 +35,7 @@ class CarDoctor:
 
     # note to self - fix this to the relative path so it'll work on other humans' machines
     def retrieve_yaml_file(self):
-        with open(r'C:\Users\Blair\Projects\PythonProjects\CarDoctorFolder\test_driven_OBD_diagnoses\venv\error_codes_yaml.yaml') as file:
+        with open(r'venv\error_codes_yaml.yaml') as file:
             error_codes_list = yaml.load(file, Loader=yaml.FullLoader)
 
             return error_codes_list
