@@ -3,9 +3,9 @@ from unittest.mock import Mock
 from CarDoctor import CarDoctor
 
 #To-do
-#refactor in general and figure out how to make global variables, add in __init__ constructor
-#   https://stackoverflow.com/questions/37626662/get-yaml-key-value-in-python
+#refactor in general
 #clean up the tests so that they are fixtures that just pass in different stuff instead of all different tests
+#   https://stackoverflow.com/questions/37626662/get-yaml-key-value-in-python
 
 class Test_Car_Doctor(unittest.TestCase):
 
