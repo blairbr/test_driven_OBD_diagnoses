@@ -15,7 +15,8 @@ class CarDoctor:
             return 'no error codes found'
 
     def trim_dtc_code_to_four_digit_error_code(self, dtc):
-        return dtc[0][0]
+        if dtc[0][0] is not None:
+            return dtc[0][0]
 
     def print_timestamp(self):
         current_DT = datetime.datetime.now()
@@ -26,7 +27,12 @@ class CarDoctor:
         with open(r'venv/error_codes_yaml.yaml') as yaml_file:
             doc = yaml.load(yaml_file, Loader=yaml.FullLoader)
 
-        suggestion = doc[error_code]["suggestion"]
+        if error_code in doc:
+            if doc[error_code]["suggestion"] is not None:
+                suggestion = doc[error_code]["suggestion"]
+        else:
+            suggestion = "Suggestion not found."
+
         return suggestion
 
     def log_information(self):
