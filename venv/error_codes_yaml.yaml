@@ -8,3 +8,5 @@ P0300:
 P0441:
   definition: Evaporative Emission Control System Incorrect Purge Flow
   suggestion: Try tightening your gas cap.
+P0NS0:
+  definition: Testing When There's No Suggestion

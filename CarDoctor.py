@@ -22,15 +22,15 @@ class CarDoctor:
         current_DT = datetime.datetime.now()
         return current_DT
 
-    # note to self - probs should rework this to a try catch eventually
+    # note to self - probs should rework this to a try/exception eventually
     def retrieve_troubleshooting_suggestion(self, error_code):
         with open(r'venv/error_codes_yaml.yaml') as yaml_file:
             doc = yaml.load(yaml_file, Loader=yaml.FullLoader)
 
-        if error_code in doc and doc[error_code]["suggestion"] is not None:
-            suggestion = doc[error_code]["suggestion"]
-        else:
-            suggestion = "Suggestion not found."
+        suggestion = "Suggestion not found."
+
+        if error_code in doc and 'suggestion' in doc[error_code]:
+            suggestion = doc[error_code].get('suggestion')
 
         return suggestion
 

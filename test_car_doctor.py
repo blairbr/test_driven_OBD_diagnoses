@@ -59,6 +59,19 @@ class Test_Car_Doctor(unittest.TestCase):
 
         self.assertEqual(expected_suggestion, actual_suggestion)
 
+    def test_recognized_code_with_no_suggestion_in_yaml_returns_no_suggestion(self):
+        expected_suggestion = 'Suggestion not found.'
+
+        error_XYZ = [("P0NS0", "Testing When There's No Suggestion")]
+
+        self.mock.CarDoctor.get_error_codes.return_value = error_XYZ
+        mocked_dtc = self.mock.CarDoctor.get_error_codes()
+        trimmed_error_code = CarDoctor.trim_dtc_code_to_four_digit_error_code(self, mocked_dtc)
+
+        actual_suggestion = CarDoctor.retrieve_troubleshooting_suggestion(self, trimmed_error_code)
+
+        self.assertEqual(expected_suggestion, actual_suggestion)
+
     def test_trim_dtc_returns_four_digit_error_code(self):
         error_104 = [("P0104", "Mass or Volume Air Flow Circuit Intermittent")]
 
