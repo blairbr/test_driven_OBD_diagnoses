@@ -1,6 +1,5 @@
 import requests
 
-
 class WeatherApi:
 
     def __init__(self):
