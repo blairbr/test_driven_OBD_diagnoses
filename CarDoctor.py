@@ -2,8 +2,13 @@ import obd
 import datetime
 import logging
 import yaml
+from OBD2_codes import OBD2_codes
 
 class CarDoctor:
+    def format_yaml(self):
+        data = 'P0016: Crankshaft Position - Camshaft Position Correlation  P0017: Crankshaft  Position - Camshaft    Position   Correlation'
+        newYaml = data.replace(": ", ": suggestion: ")
+        return newYaml
 
     def get_error_codes(self):
         connection = obd.OBD()
@@ -43,3 +48,8 @@ class CarDoctor:
             error_codes_list = yaml.load(file, Loader=yaml.FullLoader)
 
             return error_codes_list
+
+    def write_to_yaml_file(self):
+        with open(r'venv/error_codes.yaml', 'w') as file:
+            documents = yaml.dump(OBD2_codes.pcodes, file)
+

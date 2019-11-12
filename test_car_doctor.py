@@ -2,6 +2,7 @@ import unittest
 from unittest.mock import Mock
 from CarDoctor import CarDoctor
 
+
 #To-do
 #refactor in general
 #clean up the tests so that they are fixtures that just pass in different stuff instead of all different tests
@@ -80,6 +81,15 @@ class Test_Car_Doctor(unittest.TestCase):
         actual = CarDoctor.trim_dtc_code_to_four_digit_error_code(self, error_104)
         self.assertEqual(expected, actual)
 
+    def test_yaml_is_written(self):
+        expected =''
+        actual = CarDoctor.write_to_yaml_file(self)
+        self.assertEqual(expected, actual)
+
+    def test_format_yaml(self):
+        expected = ''
+        actual = CarDoctor.format_yaml(self)
+        self.assertEqual(expected, actual)
 
     def test_yaml_file_can_be_read(self):
         expected_yaml_data = {'P0104': {'definition': 'Mass or Volume Air Flow Circuit Intermittent',
