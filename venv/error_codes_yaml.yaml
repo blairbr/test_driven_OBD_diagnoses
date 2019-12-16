@@ -1,12 +1,6164 @@
-P0104:
-  definition: Mass or Volume Air Flow Circuit Intermittent
-  suggestion: Check for frayed wires or loose connections to your MAF sensor.
-P0300:
-  definition: One or more of the cylinders is not working properly. See a mechanic.
-  suggestion: Your engine is misfiring. One or more of the cylinders is not working
-    properly. See a mechanic.
-P0441:
-  definition: Evaporative Emission Control System Incorrect Purge Flow
-  suggestion: Try tightening your gas cap.
 P0NS0:
   definition: Testing When There's No Suggestion
+P0001:
+ definition: Fuel Volume Regulator Control Circuit/Open
+ suggestion:
+P0002:
+ definition: Fuel Volume Regulator Control Circuit Range/Performance
+ suggestion:
+P0003:
+ definition: Fuel Volume Regulator Control Circuit Low
+ suggestion:
+P0004:
+ definition: Fuel Volume Regulator Control Circuit High
+ suggestion:
+P0005:
+ definition: Fuel Shutoff Valve 'A' Control Circuit/Open
+ suggestion:
+P0006:
+ definition: Fuel Shutoff Valve 'A' Control Circuit Low
+ suggestion:
+P0007:
+ definition: Fuel Shutoff Valve 'A' Control Circuit High
+ suggestion:
+P0008:
+ definition: Engine Position System Performance
+ suggestion:
+P0009:
+ definition: Engine Position System Performance
+ suggestion:
+P0016:
+ definition: Crankshaft Position - Camshaft Position Correlation
+ suggestion:
+P0017:
+ definition: Crankshaft Position - Camshaft Position Correlation
+ suggestion:
+P0018:
+ definition: Crankshaft Position - Camshaft Position Correlation
+ suggestion:
+P0019:
+ definition: Crankshaft Position - Camshaft Position Correlation
+ suggestion:
+P0026:
+ definition: Intake Valve Control Solenoid Circuit Range/Performance
+ suggestion:
+P0027:
+ definition: Exhaust Valve Control Solenoid Circuit Range/Performance
+ suggestion:
+P0028:
+ definition: Intake Valve Control Solenoid Circuit Range/Performance
+ suggestion:
+P0029:
+ definition: Exhaust Valve Control Solenoid Circuit Range/Performance
+ suggestion:
+P0030:
+ definition: HO2S Heater Control Circuit
+ suggestion:
+P0031:
+ definition: HO2S Heater Control Circuit Low
+ suggestion:
+P0032:
+ definition: HO2S Heater Control Circuit High
+ suggestion:
+P0033:
+ definition: Turbo Charger Bypass Valve Control Circuit
+ suggestion:
+P0034:
+ definition: Turbo Charger Bypass Valve Control Circuit Low
+ suggestion:
+P0035:
+ definition: Turbo Charger Bypass Valve Control Circuit High
+ suggestion:
+P0036:
+ definition: HO2S Heater Control Circuit
+ suggestion:
+P0037:
+ definition: HO2S Heater Control Circuit Low
+ suggestion:
+P0038:
+ definition: HO2S Heater Control Circuit High
+ suggestion:
+P0039:
+ definition: Turbo/Super Charger Bypass Valve Control Circuit Range/Performance
+ suggestion:
+P0040:
+ definition: O2 Sensor Signals Swapped Bank 1 Sensor 1/ Bank 2 Sensor 1
+ suggestion:
+P0041:
+ definition: O2 Sensor Signals Swapped Bank 1 Sensor 2/ Bank 2 Sensor 2
+ suggestion:
+P0042:
+ definition: HO2S Heater Control Circuit
+ suggestion:
+P0043:
+ definition: HO2S Heater Control Circuit Low
+ suggestion:
+P0044:
+ definition: HO2S Heater Control Circuit High
+ suggestion:
+P0045:
+ definition: Turbo/Super Charger Boost Control Solenoid Circuit/Open
+ suggestion:
+P0046:
+ definition: Turbo/Super Charger Boost Control Solenoid Circuit Range/Performance
+ suggestion:
+P0047:
+ definition: Turbo/Super Charger Boost Control Solenoid Circuit Low
+ suggestion:
+P0048:
+ definition: Turbo/Super Charger Boost Control Solenoid Circuit High
+ suggestion:
+P0049:
+ definition: Turbo/Super Charger Turbine Overspeed
+ suggestion:
+P0050:
+ definition: HO2S Heater Control Circuit
+ suggestion:
+P0051:
+ definition: HO2S Heater Control Circuit Low
+ suggestion:
+P0052:
+ definition: HO2S Heater Control Circuit High
+ suggestion:
+P0053:
+ definition: HO2S Heater Resistance
+ suggestion:
+P0054:
+ definition: HO2S Heater Resistance
+ suggestion:
+P0055:
+ definition: HO2S Heater Resistance
+ suggestion:
+P0056:
+ definition: HO2S Heater Control Circuit
+ suggestion:
+P0057:
+ definition: HO2S Heater Control Circuit Low
+ suggestion:
+P0058:
+ definition: HO2S Heater Control Circuit High
+ suggestion:
+P0059:
+ definition: HO2S Heater Resistance
+ suggestion:
+P0060:
+ definition: HO2S Heater Resistance
+ suggestion:
+P0061:
+ definition: HO2S Heater Resistance
+ suggestion:
+P0062:
+ definition: HO2S Heater Control Circuit
+ suggestion:
+P0063:
+ definition: HO2S Heater Control Circuit Low
+ suggestion:
+P0064:
+ definition: HO2S Heater Control Circuit High
+ suggestion:
+P0065:
+ definition: Air Assisted Injector Control Range/Performance
+ suggestion:
+P0066:
+ definition: Air Assisted Injector Control Circuit or Circuit Low
+ suggestion:
+P0067:
+ definition: Air Assisted Injector Control Circuit High
+ suggestion:
+P0068:
+ definition: MAP/MAF - Throttle Position Correlation
+ suggestion:
+P0069:
+ definition: Manifold Absolute Pressure - Barometric Pressure Correlation
+ suggestion:
+P0070:
+ definition: Ambient Air Temperature Sensor Circuit
+ suggestion:
+P0071:
+ definition: Ambient Air Temperature Sensor Range/Performance
+ suggestion:
+P0072:
+ definition: Ambient Air Temperature Sensor Circuit Low
+ suggestion:
+P0073:
+ definition: Ambient Air Temperature Sensor Circuit High
+ suggestion:
+P0074:
+ definition: Ambient Air Temperature Sensor Circuit Intermittent
+ suggestion:
+P0075:
+ definition: Intake Valve Control Solenoid Circuit
+ suggestion:
+P0076:
+ definition: Intake Valve Control Solenoid Circuit Low
+ suggestion:
+P0077:
+ definition: Intake Valve Control Solenoid Circuit High
+ suggestion:
+P0078:
+ definition: Exhaust Valve Control Solenoid Circuit
+ suggestion:
+P0079:
+ definition: Exhaust Valve Control Solenoid Circuit Low
+ suggestion:
+P0080:
+ definition: Exhaust Valve Control Solenoid Circuit High
+ suggestion:
+P0081:
+ definition: Intake Valve Control Solenoid Circuit
+ suggestion:
+P0082:
+ definition: Intake Valve Control Solenoid Circuit Low
+ suggestion:
+P0083:
+ definition: Intake Valve Control Solenoid Circuit High
+ suggestion:
+P0084:
+ definition: Exhaust Valve Control Solenoid Circuit
+ suggestion:
+P0085:
+ definition: Exhaust Valve Control Solenoid Circuit Low
+ suggestion:
+P0086:
+ definition: Exhaust Valve Control Solenoid Circuit High
+ suggestion:
+P0087:
+ definition: Fuel Rail/System Pressure - Too Low
+ suggestion:
+P0088:
+ definition: Fuel Rail/System Pressure - Too High
+ suggestion:
+P0089:
+ definition: Fuel Pressure Regulator 1 Performance
+ suggestion:
+P0090:
+ definition: Fuel Pressure Regulator 1 Control Circuit
+ suggestion:
+P0091:
+ definition: Fuel Pressure Regulator 1 Control Circuit Low
+ suggestion:
+P0092:
+ definition: Fuel Pressure Regulator 1 Control Circuit High
+ suggestion:
+P0093:
+ definition: Fuel System Leak Detected - Large Leak
+ suggestion:
+P0094:
+ definition: Fuel System Leak Detected - Small Leak
+ suggestion:
+P0095:
+ definition: Intake Air Temperature Sensor 2 Circuit
+ suggestion:
+P0096:
+ definition: Intake Air Temperature Sensor 2 Circuit Range/Performance
+ suggestion:
+P0097:
+ definition: Intake Air Temperature Sensor 2 Circuit Low
+ suggestion:
+P0098:
+ definition: Intake Air Temperature Sensor 2 Circuit High
+ suggestion:
+P0099:
+ definition: Intake Air Temperature Sensor 2 Circuit Intermittent/Erratic
+ suggestion:
+P0100:
+ definition: Mass or Volume Air Flow Circuit
+ suggestion:
+P0101:
+ definition: Mass or Volume Air Flow Circuit Range/Performance
+ suggestion:
+P0102:
+ definition: Mass or Volume Air Flow Circuit Low Input
+ suggestion:
+P0103:
+ definition: Mass or Volume Air Flow Circuit High Input
+ suggestion:
+P0104:
+ definition: Mass or Volume Air Flow Circuit Intermittent
+ suggestion: Check for frayed wires or loose connections to your MAF sensor.
+P0105:
+ definition: Manifold Absolute Pressure/Barometric Pressure Circuit
+ suggestion:
+P0106:
+ definition: Manifold Absolute Pressure/Barometric Pressure Circuit Range/Performance
+ suggestion:
+P0107:
+ definition: Manifold Absolute Pressure/Barometric Pressure Circuit Low Input
+ suggestion:
+P0108:
+ definition: Manifold Absolute Pressure/Barometric Pressure Circuit High Input
+ suggestion:
+P0109:
+ definition: Manifold Absolute Pressure/Barometric Pressure Circuit Intermittent
+ suggestion:
+P0110:
+ definition: Intake Air Temperature Sensor 1 Circuit
+ suggestion:
+P0111:
+ definition: Intake Air Temperature Sensor 1 Circuit Range/Performance
+ suggestion:
+P0112:
+ definition: Intake Air Temperature Sensor 1 Circuit Low
+ suggestion:
+P0113:
+ definition: Intake Air Temperature Sensor 1 Circuit High
+ suggestion:
+P0114:
+ definition: Intake Air Temperature Sensor 1 Circuit Intermittent
+ suggestion:
+P0115:
+ definition: Engine Coolant Temperature Circuit
+ suggestion:
+P0116:
+ definition: Engine Coolant Temperature Circuit Range/Performance
+ suggestion:
+P0117:
+ definition: Engine Coolant Temperature Circuit Low
+ suggestion:
+P0118:
+ definition: Engine Coolant Temperature Circuit High
+ suggestion:
+P0119:
+ definition: Engine Coolant Temperature Circuit Intermittent
+ suggestion:
+P0120:
+ definition: Throttle/Pedal Position Sensor/Switch 'A' Circuit
+ suggestion:
+P0121:
+ definition: Throttle/Pedal Position Sensor/Switch 'A' Circuit Range/Performance
+ suggestion:
+P0122:
+ definition: Throttle/Pedal Position Sensor/Switch 'A' Circuit Low
+ suggestion:
+P0123:
+ definition: Throttle/Pedal Position Sensor/Switch 'A' Circuit High
+ suggestion:
+P0124:
+ definition: Throttle/Pedal Position Sensor/Switch 'A' Circuit Intermittent
+ suggestion:
+P0125:
+ definition: Insufficient Coolant Temperature for Closed Loop Fuel Control
+ suggestion:
+P0126:
+ definition: Insufficient Coolant Temperature for Stable Operation
+ suggestion:
+P0127:
+ definition: Intake Air Temperature Too High
+ suggestion:
+P0128:
+ definition: Coolant Thermostat (Coolant Temperature Below Thermostat Regulating Temperature)
+ suggestion:
+P0129:
+ definition: Barometric Pressure Too Low
+ suggestion:
+P0130:
+ definition: O2 Sensor Circuit
+ suggestion:
+P0131:
+ definition: O2 Sensor Circuit Low Voltage
+ suggestion:
+P0132:
+ definition: O2 Sensor Circuit High Voltage
+ suggestion:
+P0133:
+ definition: O2 Sensor Circuit Slow Response
+ suggestion:
+P0134:
+ definition: O2 Sensor Circuit No Activity Detected
+ suggestion:
+P0135:
+ definition: O2 Sensor Heater Circuit
+ suggestion:
+P0136:
+ definition: O2 Sensor Circuit
+ suggestion:
+P0137:
+ definition: O2 Sensor Circuit Low Voltage
+ suggestion:
+P0138:
+ definition: O2 Sensor Circuit High Voltage
+ suggestion:
+P0139:
+ definition: O2 Sensor Circuit Slow Response
+ suggestion:
+P0140:
+ definition: O2 Sensor Circuit No Activity Detected
+ suggestion:
+P0141:
+ definition: O2 Sensor Heater Circuit
+ suggestion:
+P0142:
+ definition: O2 Sensor Circuit
+ suggestion:
+P0143:
+ definition: O2 Sensor Circuit Low Voltage
+ suggestion:
+P0144:
+ definition: O2 Sensor Circuit High Voltage
+ suggestion:
+P0145:
+ definition: O2 Sensor Circuit Slow Response
+ suggestion:
+P0146:
+ definition: O2 Sensor Circuit No Activity Detected
+ suggestion:
+P0147:
+ definition: O2 Sensor Heater Circuit
+ suggestion:
+P0148:
+ definition: Fuel Delivery Error
+ suggestion:
+P0149:
+ definition: Fuel Timing Error
+ suggestion:
+P0150:
+ definition: O2 Sensor Circuit
+ suggestion:
+P0151:
+ definition: O2 Sensor Circuit Low Voltage
+ suggestion:
+P0152:
+ definition: O2 Sensor Circuit High Voltage
+ suggestion:
+P0153:
+ definition: O2 Sensor Circuit Slow Response
+ suggestion:
+P0154:
+ definition: O2 Sensor Circuit No Activity Detected
+ suggestion:
+P0155:
+ definition: O2 Sensor Heater Circuit
+ suggestion:
+P0156:
+ definition: O2 Sensor Circuit
+ suggestion:
+P0157:
+ definition: O2 Sensor Circuit Low Voltage
+ suggestion:
+P0158:
+ definition: O2 Sensor Circuit High Voltage
+ suggestion:
+P0159:
+ definition: O2 Sensor Circuit Slow Response
+ suggestion:
+P0160:
+ definition: O2 Sensor Circuit No Activity Detected
+ suggestion:
+P0161:
+ definition: O2 Sensor Heater Circuit
+ suggestion:
+P0162:
+ definition: O2 Sensor Circuit
+ suggestion:
+P0163:
+ definition: O2 Sensor Circuit Low Voltage
+ suggestion:
+P0164:
+ definition: O2 Sensor Circuit High Voltage
+ suggestion:
+P0165:
+ definition: O2 Sensor Circuit Slow Response
+ suggestion:
+P0166:
+ definition: O2 Sensor Circuit No Activity Detected
+ suggestion:
+P0167:
+ definition: O2 Sensor Heater Circuit
+ suggestion:
+P0168:
+ definition: Fuel Temperature Too High
+ suggestion:
+P0169:
+ definition: Incorrect Fuel Composition
+ suggestion:
+P0170:
+ definition: Fuel Trim
+ suggestion:
+P0171:
+ definition: System Too Lean
+ suggestion:
+P0172:
+ definition: System Too Rich
+ suggestion:
+P0173:
+ definition: Fuel Trim
+ suggestion:
+P0174:
+ definition: System Too Lean
+ suggestion:
+P0175:
+ definition: System Too Rich
+ suggestion:
+P0176:
+ definition: Fuel Composition Sensor Circuit
+ suggestion:
+P0177:
+ definition: Fuel Composition Sensor Circuit Range/Performance
+ suggestion:
+P0178:
+ definition: Fuel Composition Sensor Circuit Low
+ suggestion:
+P0179:
+ definition: Fuel Composition Sensor Circuit High
+ suggestion:
+P0180:
+ definition: Fuel Temperature Sensor A Circuit
+ suggestion:
+P0181:
+ definition: Fuel Temperature Sensor A Circuit Range/Performance
+ suggestion:
+P0182:
+ definition: Fuel Temperature Sensor A Circuit Low
+ suggestion:
+P0183:
+ definition: Fuel Temperature Sensor A Circuit High
+ suggestion:
+P0184:
+ definition: Fuel Temperature Sensor A Circuit Intermittent
+ suggestion:
+P0185:
+ definition: Fuel Temperature Sensor B Circuit
+ suggestion:
+P0186:
+ definition: Fuel Temperature Sensor B Circuit Range/Performance
+ suggestion:
+P0187:
+ definition: Fuel Temperature Sensor B Circuit Low
+ suggestion:
+P0188:
+ definition: Fuel Temperature Sensor B Circuit High
+ suggestion:
+P0189:
+ definition: Fuel Temperature Sensor B Circuit Intermittent
+ suggestion:
+P0190:
+ definition: Fuel Rail Pressure Sensor Circuit
+ suggestion:
+P0191:
+ definition: Fuel Rail Pressure Sensor Circuit Range/Performance
+ suggestion:
+P0192:
+ definition: Fuel Rail Pressure Sensor Circuit Low
+ suggestion:
+P0193:
+ definition: Fuel Rail Pressure Sensor Circuit High
+ suggestion:
+P0194:
+ definition: Fuel Rail Pressure Sensor Circuit Intermittent
+ suggestion:
+P0195:
+ definition: Engine Oil Temperature Sensor
+ suggestion:
+P0196:
+ definition: Engine Oil Temperature Sensor Range/Performance
+ suggestion:
+P0197:
+ definition: Engine Oil Temperature Sensor Low
+ suggestion:
+P0198:
+ definition: Engine Oil Temperature Sensor High
+ suggestion:
+P0199:
+ definition: Engine Oil Temperature Sensor Intermittent
+ suggestion:
+P0200:
+ definition: Injector Circuit/Open
+ suggestion:
+P0201:
+ definition: Injector Circuit/Open - Cylinder 1
+ suggestion:
+P0202:
+ definition: Injector Circuit/Open - Cylinder 2
+ suggestion:
+P0203:
+ definition: Injector Circuit/Open - Cylinder 3
+ suggestion:
+P0204:
+ definition: Injector Circuit/Open - Cylinder 4
+ suggestion:
+P0205:
+ definition: Injector Circuit/Open - Cylinder 5
+ suggestion:
+P0206:
+ definition: Injector Circuit/Open - Cylinder 6
+ suggestion:
+P0207:
+ definition: Injector Circuit/Open - Cylinder 7
+ suggestion:
+P0208:
+ definition: Injector Circuit/Open - Cylinder 8
+ suggestion:
+P0209:
+ definition: Injector Circuit/Open - Cylinder 9
+ suggestion:
+P0210:
+ definition: Injector Circuit/Open - Cylinder 10
+ suggestion:
+P0211:
+ definition: Injector Circuit/Open - Cylinder 11
+ suggestion:
+P0212:
+ definition: Injector Circuit/Open - Cylinder 12
+ suggestion:
+P0213:
+ definition: Cold Start Injector 1
+ suggestion:
+P0214:
+ definition: Cold Start Injector 2
+ suggestion:
+P0215:
+ definition: Engine Shutoff Solenoid
+ suggestion:
+P0216:
+ definition: Injector/Injection Timing Control Circuit
+ suggestion:
+P0217:
+ definition: Engine Coolant Over Temperature Condition
+ suggestion:
+P0218:
+ definition: Transmission Fluid Over Temperature Condition
+ suggestion:
+P0219:
+ definition: Engine Overspeed Condition
+ suggestion:
+P0220:
+ definition: Throttle/Pedal Position Sensor/Switch 'B' Circuit
+ suggestion:
+P0221:
+ definition: Throttle/Pedal Position Sensor/Switch 'B' Circuit Range/Performance
+ suggestion:
+P0222:
+ definition: Throttle/Pedal Position Sensor/Switch 'B' Circuit Low
+ suggestion:
+P0223:
+ definition: Throttle/Pedal Position Sensor/Switch 'B' Circuit High
+ suggestion:
+P0224:
+ definition: Throttle/Pedal Position Sensor/Switch 'B' Circuit Intermittent
+ suggestion:
+P0225:
+ definition: Throttle/Pedal Position Sensor/Switch 'C' Circuit
+ suggestion:
+P0226:
+ definition: Throttle/Pedal Position Sensor/Switch 'C' Circuit Range/Performance
+ suggestion:
+P0227:
+ definition: Throttle/Pedal Position Sensor/Switch 'C' Circuit Low
+ suggestion:
+P0228:
+ definition: Throttle/Pedal Position Sensor/Switch 'C' Circuit High
+ suggestion:
+P0229:
+ definition: Throttle/Pedal Position Sensor/Switch 'C' Circuit Intermittent
+ suggestion:
+P0230:
+ definition: Fuel Pump Primary Circuit
+ suggestion:
+P0231:
+ definition: Fuel Pump Secondary Circuit Low
+ suggestion:
+P0232:
+ definition: Fuel Pump Secondary Circuit High
+ suggestion:
+P0233:
+ definition: Fuel Pump Secondary Circuit Intermittent
+ suggestion:
+P0234:
+ definition: Turbo/Super Charger Overboost Condition
+ suggestion:
+P0235:
+ definition: Turbo/Super Charger Boost Sensor 'A' Circuit
+ suggestion:
+P0236:
+ definition: Turbo/Super Charger Boost Sensor 'A' Circuit Range/Performance
+ suggestion:
+P0237:
+ definition: Turbo/Super Charger Boost Sensor 'A' Circuit Low
+ suggestion:
+P0238:
+ definition: Turbo/Super Charger Boost Sensor 'A' Circuit High
+ suggestion:
+P0239:
+ definition: Turbo/Super Charger Boost Sensor 'B' Circuit
+ suggestion:
+P0240:
+ definition: Turbo/Super Charger Boost Sensor 'B' Circuit Range/Performance
+ suggestion:
+P0241:
+ definition: Turbo/Super Charger Boost Sensor 'B' Circuit Low
+ suggestion:
+P0242:
+ definition: Turbo/Super Charger Boost Sensor 'B' Circuit High
+ suggestion:
+P0243:
+ definition: Turbo/Super Charger Wastegate Solenoid 'A'
+ suggestion:
+P0244:
+ definition: Turbo/Super Charger Wastegate Solenoid 'A' Range/Performance
+ suggestion:
+P0245:
+ definition: Turbo/Super Charger Wastegate Solenoid 'A' Low
+ suggestion:
+P0246:
+ definition: Turbo/Super Charger Wastegate Solenoid 'A' High
+ suggestion:
+P0247:
+ definition: Turbo/Super Charger Wastegate Solenoid 'B'
+ suggestion:
+P0248:
+ definition: Turbo/Super Charger Wastegate Solenoid 'B' Range/Performance
+ suggestion:
+P0249:
+ definition: Turbo/Super Charger Wastegate Solenoid 'B' Low
+ suggestion:
+P0250:
+ definition: Turbo/Super Charger Wastegate Solenoid 'B' High
+ suggestion:
+P0251:
+ definition: Injection Pump Fuel Metering Control 'A' (Cam/Rotor/Injector)
+ suggestion:
+P0252:
+ definition: Injection Pump Fuel Metering Control 'A' Range/Performance (Cam/Rotor/Injector)
+ suggestion:
+P0253:
+ definition: Injection Pump Fuel Metering Control 'A' Low (Cam/Rotor/Injector)
+ suggestion:
+P0254:
+ definition: Injection Pump Fuel Metering Control 'A' High (Cam/Rotor/Injector)
+ suggestion:
+P0255:
+ definition: Injection Pump Fuel Metering Control 'A' Intermittent (Cam/Rotor/Injector)
+ suggestion:
+P0256:
+ definition: Injection Pump Fuel Metering Control 'B' (Cam/Rotor/Injector)
+ suggestion:
+P0257:
+ definition: Injection Pump Fuel Metering Control 'B' Range/Performance (Cam/Rotor/Injector)
+ suggestion:
+P0258:
+ definition: Injection Pump Fuel Metering Control 'B' Low (Cam/Rotor/Injector)
+ suggestion:
+P0259:
+ definition: Injection Pump Fuel Metering Control 'B' High (Cam/Rotor/Injector)
+ suggestion:
+P0260:
+ definition: Injection Pump Fuel Metering Control 'B' Intermittent (Cam/Rotor/Injector)
+ suggestion:
+P0261:
+ definition: Cylinder 1 Injector Circuit Low
+ suggestion:
+P0262:
+ definition: Cylinder 1 Injector Circuit High
+ suggestion:
+P0263:
+ definition: Cylinder 1 Contribution/Balance
+ suggestion:
+P0264:
+ definition: Cylinder 2 Injector Circuit Low
+ suggestion:
+P0265:
+ definition: Cylinder 2 Injector Circuit High
+ suggestion:
+P0266:
+ definition: Cylinder 2 Contribution/Balance
+ suggestion:
+P0267:
+ definition: Cylinder 3 Injector Circuit Low
+ suggestion:
+P0268:
+ definition: Cylinder 3 Injector Circuit High
+ suggestion:
+P0269:
+ definition: Cylinder 3 Contribution/Balance
+ suggestion:
+P0270:
+ definition: Cylinder 4 Injector Circuit Low
+ suggestion:
+P0271:
+ definition: Cylinder 4 Injector Circuit High
+ suggestion:
+P0272:
+ definition: Cylinder 4 Contribution/Balance
+ suggestion:
+P0273:
+ definition: Cylinder 5 Injector Circuit Low
+ suggestion:
+P0274:
+ definition: Cylinder 5 Injector Circuit High
+ suggestion:
+P0275:
+ definition: Cylinder 5 Contribution/Balance
+ suggestion:
+P0276:
+ definition: Cylinder 6 Injector Circuit Low
+ suggestion:
+P0277:
+ definition: Cylinder 6 Injector Circuit High
+ suggestion:
+P0278:
+ definition: Cylinder 6 Contribution/Balance
+ suggestion:
+P0279:
+ definition: Cylinder 7 Injector Circuit Low
+ suggestion:
+P0280:
+ definition: Cylinder 7 Injector Circuit High
+ suggestion:
+P0281:
+ definition: Cylinder 7 Contribution/Balance
+ suggestion:
+P0282:
+ definition: Cylinder 8 Injector Circuit Low
+ suggestion:
+P0283:
+ definition: Cylinder 8 Injector Circuit High
+ suggestion:
+P0284:
+ definition: Cylinder 8 Contribution/Balance
+ suggestion:
+P0285:
+ definition: Cylinder 9 Injector Circuit Low
+ suggestion:
+P0286:
+ definition: Cylinder 9 Injector Circuit High
+ suggestion:
+P0287:
+ definition: Cylinder 9 Contribution/Balance
+ suggestion:
+P0288:
+ definition: Cylinder 10 Injector Circuit Low
+ suggestion:
+P0289:
+ definition: Cylinder 10 Injector Circuit High
+ suggestion:
+P0290:
+ definition: Cylinder 10 Contribution/Balance
+ suggestion:
+P0291:
+ definition: Cylinder 11 Injector Circuit Low
+ suggestion:
+P0292:
+ definition: Cylinder 11 Injector Circuit High
+ suggestion:
+P0293:
+ definition: Cylinder 11 Contribution/Balance
+ suggestion:
+P0294:
+ definition: Cylinder 12 Injector Circuit Low
+ suggestion:
+P0295:
+ definition: Cylinder 12 Injector Circuit High
+ suggestion:
+P0296:
+ definition: Cylinder 12 Contribution/Balance
+ suggestion:
+P0297:
+ definition: Vehicle Overspeed Condition
+ suggestion:
+P0298:
+ definition: Engine Oil Over Temperature
+ suggestion:
+P0299:
+ definition: Turbo/Super Charger Underboost
+ suggestion:
+P0300:
+ definition: Random/Multiple Cylinder Misfire Detected
+ suggestion: Your engine is misfiring. One or more of the cylinders is not working properly. See a mechanic.
+P0301:
+ definition: Cylinder 1 Misfire Detected
+ suggestion:
+P0302:
+ definition: Cylinder 2 Misfire Detected
+ suggestion:
+P0303:
+ definition: Cylinder 3 Misfire Detected
+ suggestion:
+P0304:
+ definition: Cylinder 4 Misfire Detected
+ suggestion:
+P0305:
+ definition: Cylinder 5 Misfire Detected
+ suggestion:
+P0306:
+ definition: Cylinder 6 Misfire Detected
+ suggestion:
+P0307:
+ definition: Cylinder 7 Misfire Detected
+ suggestion:
+P0308:
+ definition: Cylinder 8 Misfire Detected
+ suggestion:
+P0309:
+ definition: Cylinder 9 Misfire Detected
+ suggestion:
+P0310:
+ definition: Cylinder 10 Misfire Detected
+ suggestion:
+P0311:
+ definition: Cylinder 11 Misfire Detected
+ suggestion:
+P0312:
+ definition: Cylinder 12 Misfire Detected
+ suggestion:
+P0313:
+ definition: Misfire Detected with Low Fuel
+ suggestion:
+P0314:
+ definition: Single Cylinder Misfire (Cylinder not Specified)
+ suggestion:
+P0315:
+ definition: Crankshaft Position System Variation Not Learned
+ suggestion:
+P0316:
+ definition: Engine Misfire Detected on Startup (First 1000 Revolutions)
+ suggestion:
+P0317:
+ definition: Rough Road Hardware Not Present
+ suggestion:
+P0318:
+ definition: Rough Road Sensor 'A' Signal Circuit
+ suggestion:
+P0319:
+ definition: Rough Road Sensor 'B'
+ suggestion:
+P0320:
+ definition: Ignition/Distributor Engine Speed Input Circuit
+ suggestion:
+P0321:
+ definition: Ignition/Distributor Engine Speed Input Circuit Range/Performance
+ suggestion:
+P0322:
+ definition: Ignition/Distributor Engine Speed Input Circuit No Signal
+ suggestion:
+P0323:
+ definition: Ignition/Distributor Engine Speed Input Circuit Intermittent
+ suggestion:
+P0324:
+ definition: Knock Control System Error
+ suggestion:
+P0325:
+ definition: Knock Sensor 1 Circuit
+ suggestion:
+P0326:
+ definition: Knock Sensor 1 Circuit Range/Performance
+ suggestion:
+P0327:
+ definition: Knock Sensor 1 Circuit Low
+ suggestion:
+P0328:
+ definition: Knock Sensor 1 Circuit High
+ suggestion:
+P0329:
+ definition: Knock Sensor 1 Circuit Input Intermittent
+ suggestion:
+P0330:
+ definition: Knock Sensor 2 Circuit
+ suggestion:
+P0331:
+ definition: Knock Sensor 2 Circuit Range/Performance
+ suggestion:
+P0332:
+ definition: Knock Sensor 2 Circuit Low
+ suggestion:
+P0333:
+ definition: Knock Sensor 2 Circuit High
+ suggestion:
+P0334:
+ definition: Knock Sensor 2 Circuit Input Intermittent
+ suggestion:
+P0335:
+ definition: Crankshaft Position Sensor 'A' Circuit
+ suggestion:
+P0336:
+ definition: Crankshaft Position Sensor 'A' Circuit Range/Performance
+ suggestion:
+P0337:
+ definition: Crankshaft Position Sensor 'A' Circuit Low
+ suggestion:
+P0338:
+ definition: Crankshaft Position Sensor 'A' Circuit High
+ suggestion:
+P0339:
+ definition: Crankshaft Position Sensor 'A' Circuit Intermittent
+ suggestion:
+P0340:
+ definition: Camshaft Position Sensor 'A' Circuit
+ suggestion:
+P0341:
+ definition: Camshaft Position Sensor 'A' Circuit Range/Performance
+ suggestion:
+P0342:
+ definition: Camshaft Position Sensor 'A' Circuit Low
+ suggestion:
+P0343:
+ definition: Camshaft Position Sensor 'A' Circuit High
+ suggestion:
+P0344:
+ definition: Camshaft Position Sensor 'A' Circuit Intermittent
+ suggestion:
+P0345:
+ definition: Camshaft Position Sensor 'A' Circuit
+ suggestion:
+P0346:
+ definition: Camshaft Position Sensor 'A' Circuit Range/Performance
+ suggestion:
+P0347:
+ definition: Camshaft Position Sensor 'A' Circuit Low
+ suggestion:
+P0348:
+ definition: Camshaft Position Sensor 'A' Circuit High
+ suggestion:
+P0349:
+ definition: Camshaft Position Sensor 'A' Circuit Intermittent
+ suggestion:
+P0350:
+ definition: Ignition Coil Primary/Secondary Circuit
+ suggestion:
+P0351:
+ definition: Ignition Coil 'A' Primary/Secondary Circuit
+ suggestion:
+P0352:
+ definition: Ignition Coil 'B' Primary/Secondary Circuit
+ suggestion:
+P0353:
+ definition: Ignition Coil 'C' Primary/Secondary Circuit
+ suggestion:
+P0354:
+ definition: Ignition Coil 'D' Primary/Secondary Circuit
+ suggestion:
+P0355:
+ definition: Ignition Coil 'E' Primary/Secondary Circuit
+ suggestion:
+P0356:
+ definition: Ignition Coil 'F' Primary/Secondary Circuit
+ suggestion:
+P0357:
+ definition: Ignition Coil 'G' Primary/Secondary Circuit
+ suggestion:
+P0358:
+ definition: Ignition Coil 'H' Primary/Secondary Circuit
+ suggestion:
+P0359:
+ definition: Ignition Coil 'I' Primary/Secondary Circuit
+ suggestion:
+P0360:
+ definition: Ignition Coil 'J' Primary/Secondary Circuit
+ suggestion:
+P0361:
+ definition: Ignition Coil 'K' Primary/Secondary Circuit
+ suggestion:
+P0362:
+ definition: Ignition Coil 'L' Primary/Secondary Circuit
+ suggestion:
+P0363:
+ definition: Misfire Detected - Fueling Disabled
+ suggestion:
+P0364:
+ definition: Reserved
+ suggestion:
+P0365:
+ definition: Camshaft Position Sensor 'B' Circuit
+ suggestion:
+P0366:
+ definition: Camshaft Position Sensor 'B' Circuit Range/Performance
+ suggestion:
+P0367:
+ definition: Camshaft Position Sensor 'B' Circuit Low
+ suggestion:
+P0368:
+ definition: Camshaft Position Sensor 'B' Circuit High
+ suggestion:
+P0369:
+ definition: Camshaft Position Sensor 'B' Circuit Intermittent
+ suggestion:
+P0370:
+ definition: Timing Reference High Resolution Signal 'A'
+ suggestion:
+P0371:
+ definition: Timing Reference High Resolution Signal 'A' Too Many Pulses
+ suggestion:
+P0372:
+ definition: Timing Reference High Resolution Signal 'A' Too Few Pulses
+ suggestion:
+P0373:
+ definition: Timing Reference High Resolution Signal 'A' Intermittent/Erratic Pulses
+ suggestion:
+P0374:
+ definition: Timing Reference High Resolution Signal 'A' No Pulse
+ suggestion:
+P0375:
+ definition: Timing Reference High Resolution Signal 'B'
+ suggestion:
+P0376:
+ definition: Timing Reference High Resolution Signal 'B' Too Many Pulses
+ suggestion:
+P0377:
+ definition: Timing Reference High Resolution Signal 'B' Too Few Pulses
+ suggestion:
+P0378:
+ definition: Timing Reference High Resolution Signal 'B' Intermittent/Erratic Pulses
+ suggestion:
+P0379:
+ definition: Timing Reference High Resolution Signal 'B' No Pulses
+ suggestion:
+P0380:
+ definition: Glow Plug/Heater Circuit 'A'
+ suggestion:
+P0381:
+ definition: Glow Plug/Heater Indicator Circuit
+ suggestion:
+P0382:
+ definition: Glow Plug/Heater Circuit 'B'
+ suggestion:
+P0383:
+ definition: Reserved by SAE J2012
+ suggestion:
+P0384:
+ definition: Reserved by SAE J2012
+ suggestion:
+P0385:
+ definition: Crankshaft Position Sensor 'B' Circuit
+ suggestion:
+P0386:
+ definition: Crankshaft Position Sensor 'B' Circuit Range/Performance
+ suggestion:
+P0387:
+ definition: Crankshaft Position Sensor 'B' Circuit Low
+ suggestion:
+P0388:
+ definition: Crankshaft Position Sensor 'B' Circuit High
+ suggestion:
+P0389:
+ definition: Crankshaft Position Sensor 'B' Circuit Intermittent
+ suggestion:
+P0390:
+ definition: Camshaft Position Sensor 'B' Circuit
+ suggestion:
+P0391:
+ definition: Camshaft Position Sensor 'B' Circuit Range/Performance
+ suggestion:
+P0392:
+ definition: Camshaft Position Sensor 'B' Circuit Low
+ suggestion:
+P0393:
+ definition: Camshaft Position Sensor 'B' Circuit High
+ suggestion:
+P0394:
+ definition: Camshaft Position Sensor 'B' Circuit Intermittent
+ suggestion:
+P0400:
+ definition: Exhaust Gas Recirculation Flow
+ suggestion:
+P0401:
+ definition: Exhaust Gas Recirculation Flow Insufficient Detected
+ suggestion:
+P0402:
+ definition: Exhaust Gas Recirculation Flow Excessive Detected
+ suggestion:
+P0403:
+ definition: Exhaust Gas Recirculation Control Circuit
+ suggestion:
+P0404:
+ definition: Exhaust Gas Recirculation Control Circuit Range/Performance
+ suggestion:
+P0405:
+ definition: Exhaust Gas Recirculation Sensor 'A' Circuit Low
+ suggestion:
+P0406:
+ definition: Exhaust Gas Recirculation Sensor 'A' Circuit High
+ suggestion:
+P0407:
+ definition: Exhaust Gas Recirculation Sensor 'B' Circuit Low
+ suggestion:
+P0408:
+ definition: Exhaust Gas Recirculation Sensor 'B' Circuit High
+ suggestion:
+P0409:
+ definition: Exhaust Gas Recirculation Sensor 'A' Circuit
+ suggestion:
+P0410:
+ definition: Secondary Air Injection System
+ suggestion:
+P0411:
+ definition: Secondary Air Injection System Incorrect Flow Detected
+ suggestion:
+P0412:
+ definition: Secondary Air Injection System Switching Valve 'A' Circuit
+ suggestion:
+P0413:
+ definition: Secondary Air Injection System Switching Valve 'A' Circuit Open
+ suggestion:
+P0414:
+ definition: Secondary Air Injection System Switching Valve 'A' Circuit Shorted
+ suggestion:
+P0415:
+ definition: Secondary Air Injection System Switching Valve 'B' Circuit
+ suggestion:
+P0416:
+ definition: Secondary Air Injection System Switching Valve 'B' Circuit Open
+ suggestion:
+P0417:
+ definition: Secondary Air Injection System Switching Valve 'B' Circuit Shorted
+ suggestion:
+P0418:
+ definition: Secondary Air Injection System Control 'A' Circuit
+ suggestion:
+P0419:
+ definition: Secondary Air Injection System Control 'B' Circuit
+ suggestion:
+P0420:
+ definition: Catalyst System Efficiency Below Threshold
+ suggestion:
+P0421:
+ definition: Warm Up Catalyst Efficiency Below Threshold
+ suggestion:
+P0422:
+ definition: Main Catalyst Efficiency Below Threshold
+ suggestion:
+P0423:
+ definition: Heated Catalyst Efficiency Below Threshold
+ suggestion:
+P0424:
+ definition: Heated Catalyst Temperature Below Threshold
+ suggestion:
+P0425:
+ definition: Catalyst Temperature Sensor
+ suggestion:
+P0426:
+ definition: Catalyst Temperature Sensor Range/Performance
+ suggestion:
+P0427:
+ definition: Catalyst Temperature Sensor Low
+ suggestion:
+P0428:
+ definition: Catalyst Temperature Sensor High
+ suggestion:
+P0429:
+ definition: Catalyst Heater Control Circuit
+ suggestion:
+P0430:
+ definition: Catalyst System Efficiency Below Threshold
+ suggestion:
+P0431:
+ definition: Warm Up Catalyst Efficiency Below Threshold
+ suggestion:
+P0432:
+ definition: Main Catalyst Efficiency Below Threshold
+ suggestion:
+P0433:
+ definition: Heated Catalyst Efficiency Below Threshold
+ suggestion:
+P0434:
+ definition: Heated Catalyst Temperature Below Threshold
+ suggestion:
+P0435:
+ definition: Catalyst Temperature Sensor
+ suggestion:
+P0436:
+ definition: Catalyst Temperature Sensor Range/Performance
+ suggestion:
+P0437:
+ definition: Catalyst Temperature Sensor Low
+ suggestion:
+P0438:
+ definition: Catalyst Temperature Sensor High
+ suggestion:
+P0439:
+ definition: Catalyst Heater Control Circuit
+ suggestion:
+P0440:
+ definition: Evaporative Emission System
+ suggestion:
+P0441:
+ definition: Evaporative Emission System Incorrect Purge Flow
+ suggestion: Try tightening your gas cap.
+P0442:
+ definition: Evaporative Emission System Leak Detected (small leak)
+ suggestion:
+P0443:
+ definition: Evaporative Emission System Purge Control Valve Circuit
+ suggestion:
+P0444:
+ definition: Evaporative Emission System Purge Control Valve Circuit Open
+ suggestion:
+P0445:
+ definition: Evaporative Emission System Purge Control Valve Circuit Shorted
+ suggestion:
+P0446:
+ definition: Evaporative Emission System Vent Control Circuit
+ suggestion:
+P0447:
+ definition: Evaporative Emission System Vent Control Circuit Open
+ suggestion:
+P0448:
+ definition: Evaporative Emission System Vent Control Circuit Shorted
+ suggestion:
+P0449:
+ definition: Evaporative Emission System Vent Valve/Solenoid Circuit
+ suggestion:
+P0450:
+ definition: Evaporative Emission System Pressure Sensor/Switch
+ suggestion:
+P0451:
+ definition: Evaporative Emission System Pressure Sensor/Switch Range/Performance
+ suggestion:
+P0452:
+ definition: Evaporative Emission System Pressure Sensor/Switch Low
+ suggestion:
+P0453:
+ definition: Evaporative Emission System Pressure Sensor/Switch High
+ suggestion:
+P0454:
+ definition: Evaporative Emission System Pressure Sensor/Switch Intermittent
+ suggestion:
+P0455:
+ definition: Evaporative Emission System Leak Detected (large leak)
+ suggestion:
+P0456:
+ definition: Evaporative Emission System Leak Detected (very small leak)
+ suggestion:
+P0457:
+ definition: Evaporative Emission System Leak Detected (fuel cap loose/off)
+ suggestion:
+P0458:
+ definition: Evaporative Emission System Purge Control Valve Circuit Low
+ suggestion:
+P0459:
+ definition: Evaporative Emission System Purge Control Valve Circuit High
+ suggestion:
+P0460:
+ definition: Fuel Level Sensor 'A' Circuit
+ suggestion:
+P0461:
+ definition: Fuel Level Sensor 'A' Circuit Range/Performance
+ suggestion:
+P0462:
+ definition: Fuel Level Sensor 'A' Circuit Low
+ suggestion:
+P0463:
+ definition: Fuel Level Sensor 'A' Circuit High
+ suggestion:
+P0464:
+ definition: Fuel Level Sensor 'A' Circuit Intermittent
+ suggestion:
+P0465:
+ definition: EVAP Purge Flow Sensor Circuit
+ suggestion:
+P0466:
+ definition: EVAP Purge Flow Sensor Circuit Range/Performance
+ suggestion:
+P0467:
+ definition: EVAP Purge Flow Sensor Circuit Low
+ suggestion:
+P0468:
+ definition: EVAP Purge Flow Sensor Circuit High
+ suggestion:
+P0469:
+ definition: EVAP Purge Flow Sensor Circuit Intermittent
+ suggestion:
+P0470:
+ definition: Exhaust Pressure Sensor
+ suggestion:
+P0471:
+ definition: Exhaust Pressure Sensor Range/Performance
+ suggestion:
+P0472:
+ definition: Exhaust Pressure Sensor Low
+ suggestion:
+P0473:
+ definition: Exhaust Pressure Sensor High
+ suggestion:
+P0474:
+ definition: Exhaust Pressure Sensor Intermittent
+ suggestion:
+P0475:
+ definition: Exhaust Pressure Control Valve
+ suggestion:
+P0476:
+ definition: Exhaust Pressure Control Valve Range/Performance
+ suggestion:
+P0477:
+ definition: Exhaust Pressure Control Valve Low
+ suggestion:
+P0478:
+ definition: Exhaust Pressure Control Valve High
+ suggestion:
+P0479:
+ definition: Exhaust Pressure Control Valve Intermittent
+ suggestion:
+P0480:
+ definition: Fan 1 Control Circuit
+ suggestion:
+P0481:
+ definition: Fan 2 Control Circuit
+ suggestion:
+P0482:
+ definition: Fan 3 Control Circuit
+ suggestion:
+P0483:
+ definition: Fan Rationality Check
+ suggestion:
+P0484:
+ definition: Fan Circuit Over Current
+ suggestion:
+P0485:
+ definition: Fan Power/Ground Circuit
+ suggestion:
+P0486:
+ definition: Exhaust Gas Recirculation Sensor 'B' Circuit
+ suggestion:
+P0487:
+ definition: Exhaust Gas Recirculation Throttle Position Control Circuit
+ suggestion:
+P0488:
+ definition: Exhaust Gas Recirculation Throttle Position Control Range/Performance
+ suggestion:
+P0489:
+ definition: Exhaust Gas Recirculation Control Circuit Low
+ suggestion:
+P0490:
+ definition: Exhaust Gas Recirculation Control Circuit High
+ suggestion:
+P0491:
+ definition: Secondary Air Injection System Insufficient Flow
+ suggestion:
+P0492:
+ definition: Secondary Air Injection System Insufficient Flow
+ suggestion:
+P0493:
+ definition: Fan Overspeed
+ suggestion:
+P0494:
+ definition: Fan Speed Low
+ suggestion:
+P0495:
+ definition: Fan Speed High
+ suggestion:
+P0496:
+ definition: Evaporative Emission System High Purge Flow
+ suggestion:
+P0497:
+ definition: Evaporative Emission System Low Purge Flow
+ suggestion:
+P0498:
+ definition: Evaporative Emission System Vent Valve Control Circuit Low
+ suggestion:
+P0499:
+ definition: Evaporative Emission System Vent Valve Control Circuit High
+ suggestion:
+P0500:
+ definition: Vehicle Speed Sensor 'A'
+ suggestion:
+P0501:
+ definition: Vehicle Speed Sensor 'A' Range/Performance
+ suggestion:
+P0502:
+ definition: Vehicle Speed Sensor 'A' Circuit Low Input
+ suggestion:
+P0503:
+ definition: Vehicle Speed Sensor 'A' Intermittent/Erratic/High
+ suggestion:
+P0504:
+ definition: Brake Switch 'A'/'B' Correlation
+ suggestion:
+P0505:
+ definition: Idle Air Control System
+ suggestion:
+P0506:
+ definition: Idle Air Control System RPM Lower Than Expected
+ suggestion:
+P0507:
+ definition: Idle Air Control System RPM Higher Than Expected
+ suggestion:
+P0508:
+ definition: Idle Air Control System Circuit Low
+ suggestion:
+P0509:
+ definition: Idle Air Control System Circuit High
+ suggestion:
+P0510:
+ definition: Closed Throttle Position Switch
+ suggestion:
+P0511:
+ definition: Idle Air Control Circuit
+ suggestion:
+P0512:
+ definition: Starter Request Circuit
+ suggestion:
+P0513:
+ definition: Incorrect Immobilizer Key
+ suggestion:
+P0514:
+ definition: Battery Temperature Sensor Circuit Range/Performance
+ suggestion:
+P0515:
+ definition: Battery Temperature Sensor Circuit
+ suggestion:
+P0516:
+ definition: Battery Temperature Sensor Circuit Low
+ suggestion:
+P0517:
+ definition: Battery Temperature Sensor Circuit High
+ suggestion:
+P0518:
+ definition: Idle Air Control Circuit Intermittent
+ suggestion:
+P0519:
+ definition: Idle Air Control System Performance
+ suggestion:
+P0520:
+ definition: Engine Oil Pressure Sensor/Switch Circuit
+ suggestion:
+P0521:
+ definition: Engine Oil Pressure Sensor/Switch Range/Performance
+ suggestion:
+P0522:
+ definition: Engine Oil Pressure Sensor/Switch Low Voltage
+ suggestion:
+P0523:
+ definition: Engine Oil Pressure Sensor/Switch High Voltage
+ suggestion:
+P0524:
+ definition: Engine Oil Pressure Too Low
+ suggestion:
+P0525:
+ definition: Cruise Control Servo Control Circuit Range/Performance
+ suggestion:
+P0526:
+ definition: Fan Speed Sensor Circuit
+ suggestion:
+P0527:
+ definition: Fan Speed Sensor Circuit Range/Performance
+ suggestion:
+P0528:
+ definition: Fan Speed Sensor Circuit No Signal
+ suggestion:
+P0529:
+ definition: Fan Speed Sensor Circuit Intermittent
+ suggestion:
+P0530:
+ definition: A/C Refrigerant Pressure Sensor 'A' Circuit
+ suggestion:
+P0531:
+ definition: A/C Refrigerant Pressure Sensor 'A' Circuit Range/Performance
+ suggestion:
+P0532:
+ definition: A/C Refrigerant Pressure Sensor 'A' Circuit Low
+ suggestion:
+P0533:
+ definition: A/C Refrigerant Pressure Sensor 'A' Circuit High
+ suggestion:
+P0534:
+ definition: Air Conditioner Refrigerant Charge Loss
+ suggestion:
+P0535:
+ definition: A/C Evaporator Temperature Sensor Circuit
+ suggestion:
+P0536:
+ definition: A/C Evaporator Temperature Sensor Circuit Range/Performance
+ suggestion:
+P0537:
+ definition: A/C Evaporator Temperature Sensor Circuit Low
+ suggestion:
+P0538:
+ definition: A/C Evaporator Temperature Sensor Circuit High
+ suggestion:
+P0539:
+ definition: A/C Evaporator Temperature Sensor Circuit Intermittent
+ suggestion:
+P0540:
+ definition: Intake Air Heater 'A' Circuit
+ suggestion:
+P0541:
+ definition: Intake Air Heater 'A' Circuit Low
+ suggestion:
+P0542:
+ definition: Intake Air Heater 'A' Circuit High
+ suggestion:
+P0543:
+ definition: Intake Air Heater 'A' Circuit Open
+ suggestion:
+P0544:
+ definition: Exhaust Gas Temperature Sensor Circuit
+ suggestion:
+P0545:
+ definition: Exhaust Gas Temperature Sensor Circuit Low
+ suggestion:
+P0546:
+ definition: Exhaust Gas Temperature Sensor Circuit High
+ suggestion:
+P0547:
+ definition: Exhaust Gas Temperature Sensor Circuit
+ suggestion:
+P0548:
+ definition: Exhaust Gas Temperature Sensor Circuit Low
+ suggestion:
+P0549:
+ definition: Exhaust Gas Temperature Sensor Circuit High
+ suggestion:
+P0550:
+ definition: Power Steering Pressure Sensor/Switch Circuit
+ suggestion:
+P0551:
+ definition: Power Steering Pressure Sensor/Switch Circuit Range/Performance
+ suggestion:
+P0552:
+ definition: Power Steering Pressure Sensor/Switch Circuit Low Input
+ suggestion:
+P0553:
+ definition: Power Steering Pressure Sensor/Switch Circuit High Input
+ suggestion:
+P0554:
+ definition: Power Steering Pressure Sensor/Switch Circuit Intermittent
+ suggestion:
+P0555:
+ definition: Brake Booster Pressure Sensor Circuit
+ suggestion:
+P0556:
+ definition: Brake Booster Pressure Sensor Circuit Range/Performance
+ suggestion:
+P0557:
+ definition: Brake Booster Pressure Sensor Circuit Low Input
+ suggestion:
+P0558:
+ definition: Brake Booster Pressure Sensor Circuit High Input
+ suggestion:
+P0559:
+ definition: Brake Booster Pressure Sensor Circuit Intermittent
+ suggestion:
+P0560:
+ definition: System Voltage
+ suggestion:
+P0561:
+ definition: System Voltage Unstable
+ suggestion:
+P0562:
+ definition: System Voltage Low
+ suggestion:
+P0563:
+ definition: System Voltage High
+ suggestion:
+P0564:
+ definition: Cruise Control Multi-Function Input 'A' Circuit
+ suggestion:
+P0565:
+ definition: Cruise Control On Signal
+ suggestion:
+P0566:
+ definition: Cruise Control Off Signal
+ suggestion:
+P0567:
+ definition: Cruise Control Resume Signal
+ suggestion:
+P0568:
+ definition: Cruise Control Set Signal
+ suggestion:
+P0569:
+ definition: Cruise Control Coast Signal
+ suggestion:
+P0570:
+ definition: Cruise Control Accelerate Signal
+ suggestion:
+P0571:
+ definition: Brake Switch 'A' Circuit
+ suggestion:
+P0572:
+ definition: Brake Switch 'A' Circuit Low
+ suggestion:
+P0573:
+ definition: Brake Switch 'A' Circuit High
+ suggestion:
+P0574:
+ definition: Cruise Control System - Vehicle Speed Too High
+ suggestion:
+P0575:
+ definition: Cruise Control Input Circuit
+ suggestion:
+P0576:
+ definition: Cruise Control Input Circuit Low
+ suggestion:
+P0577:
+ definition: Cruise Control Input Circuit High
+ suggestion:
+P0578:
+ definition: Cruise Control Multi-Function Input 'A' Circuit Stuck
+ suggestion:
+P0579:
+ definition: Cruise Control Multi-Function Input 'A' Circuit Range/Performance
+ suggestion:
+P0580:
+ definition: Cruise Control Multi-Function Input 'A' Circuit Low
+ suggestion:
+P0581:
+ definition: Cruise Control Multi-Function Input 'A' Circuit High
+ suggestion:
+P0582:
+ definition: Cruise Control Vacuum Control Circuit/Open
+ suggestion:
+P0583:
+ definition: Cruise Control Vacuum Control Circuit Low
+ suggestion:
+P0584:
+ definition: Cruise Control Vacuum Control Circuit High
+ suggestion:
+P0585:
+ definition: Cruise Control Multi-Function Input 'A'/'B' Correlation
+ suggestion:
+P0586:
+ definition: Cruise Control Vent Control Circuit/Open
+ suggestion:
+P0587:
+ definition: Cruise Control Vent Control Circuit Low
+ suggestion:
+P0588:
+ definition: Cruise Control Vent Control Circuit High
+ suggestion:
+P0589:
+ definition: Cruise Control Multi-Function Input 'B' Circuit
+ suggestion:
+P0590:
+ definition: Cruise Control Multi-Function Input 'B' Circuit Stuck
+ suggestion:
+P0591:
+ definition: Cruise Control Multi-Function Input 'B' Circuit Range/Performance
+ suggestion:
+P0592:
+ definition: Cruise Control Multi-Function Input 'B' Circuit Low
+ suggestion:
+P0593:
+ definition: Cruise Control Multi-Function Input 'B' Circuit High
+ suggestion:
+P0594:
+ definition: Cruise Control Servo Control Circuit/Open
+ suggestion:
+P0595:
+ definition: Cruise Control Servo Control Circuit Low
+ suggestion:
+P0596:
+ definition: Cruise Control Servo Control Circuit High
+ suggestion:
+P0597:
+ definition: Thermostat Heater Control Circuit/Open
+ suggestion:
+P0598:
+ definition: Thermostat Heater Control Circuit Low
+ suggestion:
+P0599:
+ definition: Thermostat Heater Control Circuit High
+ suggestion:
+P0600:
+ definition: Serial Communication Link
+ suggestion:
+P0601:
+ definition: Internal Control Module Memory Check Sum Error
+ suggestion:
+P0602:
+ definition: Control Module Programming Error
+ suggestion:
+P0603:
+ definition: Internal Control Module Keep Alive Memory (KAM) Error
+ suggestion:
+P0604:
+ definition: Internal Control Module Random Access Memory (RAM) Error
+ suggestion:
+P0605:
+ definition: Internal Control Module Read Only Memory (ROM) Error
+ suggestion:
+P0606:
+ definition: ECM/PCM Processor
+ suggestion:
+P0607:
+ definition: Control Module Performance
+ suggestion:
+P0608:
+ definition: Control Module VSS Output 'A'
+ suggestion:
+P0609:
+ definition: Control Module VSS Output 'B'
+ suggestion:
+P0610:
+ definition: Control Module Vehicle Options Error
+ suggestion:
+P0611:
+ definition: Fuel Injector Control Module Performance
+ suggestion:
+P0612:
+ definition: Fuel Injector Control Module Relay Control
+ suggestion:
+P0613:
+ definition: TCM Processor
+ suggestion:
+P0614:
+ definition: ECM / TCM Incompatible
+ suggestion:
+P0615:
+ definition: Starter Relay Circuit
+ suggestion:
+P0616:
+ definition: Starter Relay Circuit Low
+ suggestion:
+P0617:
+ definition: Starter Relay Circuit High
+ suggestion:
+P0618:
+ definition: Alternative Fuel Control Module KAM Error
+ suggestion:
+P0619:
+ definition: Alternative Fuel Control Module RAM/ROM Error
+ suggestion:
+P0620:
+ definition: Generator Control Circuit
+ suggestion:
+P0621:
+ definition: Generator Lamp/L Terminal Circuit
+ suggestion:
+P0622:
+ definition: Generator Field/F Terminal Circuit
+ suggestion:
+P0623:
+ definition: Generator Lamp Control Circuit
+ suggestion:
+P0624:
+ definition: Fuel Cap Lamp Control Circuit
+ suggestion:
+P0625:
+ definition: Generator Field/F Terminal Circuit Low
+ suggestion:
+P0626:
+ definition: Generator Field/F Terminal Circuit High
+ suggestion:
+P0627:
+ definition: Fuel Pump 'A' Control Circuit /Open
+ suggestion:
+P0628:
+ definition: Fuel Pump 'A' Control Circuit Low
+ suggestion:
+P0629:
+ definition: Fuel Pump 'A' Control Circuit High
+ suggestion:
+P0630:
+ definition: VIN Not Programmed or Incompatible - ECM/PCM
+ suggestion:
+P0631:
+ definition: VIN Not Programmed or Incompatible - TCM
+ suggestion:
+P0632:
+ definition: Odometer Not Programmed - ECM/PCM
+ suggestion:
+P0633:
+ definition: Immobilizer Key Not Programmed - ECM/PCM
+ suggestion:
+P0634:
+ definition: PCM/ECM/TCM Internal Temperature Too High
+ suggestion:
+P0635:
+ definition: Power Steering Control Circuit
+ suggestion:
+P0636:
+ definition: Power Steering Control Circuit Low
+ suggestion:
+P0637:
+ definition: Power Steering Control Circuit High
+ suggestion:
+P0638:
+ definition: Throttle Actuator Control Range/Performance
+ suggestion:
+P0639:
+ definition: Throttle Actuator Control Range/Performance
+ suggestion:
+P0640:
+ definition: Intake Air Heater Control Circuit
+ suggestion:
+P0641:
+ definition: Sensor Reference Voltage 'A' Circuit/Open
+ suggestion:
+P0642:
+ definition: Sensor Reference Voltage 'A' Circuit Low
+ suggestion:
+P0643:
+ definition: Sensor Reference Voltage 'A' Circuit High
+ suggestion:
+P0644:
+ definition: Driver Display Serial Communication Circuit
+ suggestion:
+P0645:
+ definition: A/C Clutch Relay Control Circuit
+ suggestion:
+P0646:
+ definition: A/C Clutch Relay Control Circuit Low
+ suggestion:
+P0647:
+ definition: A/C Clutch Relay Control Circuit High
+ suggestion:
+P0648:
+ definition: Immobilizer Lamp Control Circuit
+ suggestion:
+P0649:
+ definition: Speed Control Lamp Control Circuit
+ suggestion:
+P0650:
+ definition: Malfunction Indicator Lamp (MIL) Control Circuit
+ suggestion:
+P0651:
+ definition: Sensor Reference Voltage 'B' Circuit/Open
+ suggestion:
+P0652:
+ definition: Sensor Reference Voltage 'B' Circuit Low
+ suggestion:
+P0653:
+ definition: Sensor Reference Voltage 'B' Circuit High
+ suggestion:
+P0654:
+ definition: Engine RPM Output Circuit
+ suggestion:
+P0655:
+ definition: Engine Hot Lamp Output Control Circuit
+ suggestion:
+P0656:
+ definition: Fuel Level Output Circuit
+ suggestion:
+P0657:
+ definition: Actuator Supply Voltage 'A' Circuit/Open
+ suggestion:
+P0658:
+ definition: Actuator Supply Voltage 'A' Circuit Low
+ suggestion:
+P0659:
+ definition: Actuator Supply Voltage 'A' Circuit High
+ suggestion:
+P0660:
+ definition: Intake Manifold Tuning Valve Control Circuit/Open
+ suggestion:
+P0661:
+ definition: Intake Manifold Tuning Valve Control Circuit Low
+ suggestion:
+P0662:
+ definition: Intake Manifold Tuning Valve Control Circuit High
+ suggestion:
+P0663:
+ definition: Intake Manifold Tuning Valve Control Circuit/Open
+ suggestion:
+P0664:
+ definition: Intake Manifold Tuning Valve Control Circuit Low
+ suggestion:
+P0665:
+ definition: Intake Manifold Tuning Valve Control Circuit High
+ suggestion:
+P0666:
+ definition: PCM/ECM/TCM Internal Temperature Sensor Circuit
+ suggestion:
+P0667:
+ definition: PCM/ECM/TCM Internal Temperature Sensor Range/Performance
+ suggestion:
+P0668:
+ definition: PCM/ECM/TCM Internal Temperature Sensor Circuit Low
+ suggestion:
+P0669:
+ definition: PCM/ECM/TCM Internal Temperature Sensor Circuit High
+ suggestion:
+P0670:
+ definition: Glow Plug Module Control Circuit
+ suggestion:
+P0671:
+ definition: Cylinder 1 Glow Plug Circuit
+ suggestion:
+P0672:
+ definition: Cylinder 2 Glow Plug Circuit
+ suggestion:
+P0673:
+ definition: Cylinder 3 Glow Plug Circuit
+ suggestion:
+P0674:
+ definition: Cylinder 4 Glow Plug Circuit
+ suggestion:
+P0675:
+ definition: Cylinder 5 Glow Plug Circuit
+ suggestion:
+P0676:
+ definition: Cylinder 6 Glow Plug Circuit
+ suggestion:
+P0677:
+ definition: Cylinder 7 Glow Plug Circuit
+ suggestion:
+P0678:
+ definition: Cylinder 8 Glow Plug Circuit
+ suggestion:
+P0679:
+ definition: Cylinder 9 Glow Plug Circuit
+ suggestion:
+P0680:
+ definition: Cylinder 10 Glow Plug Circuit
+ suggestion:
+P0681:
+ definition: Cylinder 11 Glow Plug Circuit
+ suggestion:
+P0682:
+ definition: Cylinder 12 Glow Plug Circuit
+ suggestion:
+P0683:
+ definition: Glow Plug Control Module to PCM Communication Circuit
+ suggestion:
+P0684:
+ definition: Glow Plug Control Module to PCM Communication Circuit Range/Performance
+ suggestion:
+P0685:
+ definition: ECM/PCM Power Relay Control Circuit /Open
+ suggestion:
+P0686:
+ definition: ECM/PCM Power Relay Control Circuit Low
+ suggestion:
+P0687:
+ definition: ECM/PCM Power Relay Control Circuit High
+ suggestion:
+P0688:
+ definition: ECM/PCM Power Relay Sense Circuit /Open
+ suggestion:
+P0689:
+ definition: ECM/PCM Power Relay Sense Circuit Low
+ suggestion:
+P0690:
+ definition: ECM/PCM Power Relay Sense Circuit High
+ suggestion:
+P0691:
+ definition: Fan 1 Control Circuit Low
+ suggestion:
+P0692:
+ definition: Fan 1 Control Circuit High
+ suggestion:
+P0693:
+ definition: Fan 2 Control Circuit Low
+ suggestion:
+P0694:
+ definition: Fan 2 Control Circuit High
+ suggestion:
+P0695:
+ definition: Fan 3 Control Circuit Low
+ suggestion:
+P0696:
+ definition: Fan 3 Control Circuit High
+ suggestion:
+P0697:
+ definition: Sensor Reference Voltage 'C' Circuit/Open
+ suggestion:
+P0698:
+ definition: Sensor Reference Voltage 'C' Circuit Low
+ suggestion:
+P0699:
+ definition: Sensor Reference Voltage 'C' Circuit High
+ suggestion:
+P0700:
+ definition: Transmission Control System (MIL Request)
+ suggestion:
+P0701:
+ definition: Transmission Control System Range/Performance
+ suggestion:
+P0702:
+ definition: Transmission Control System Electrical
+ suggestion:
+P0703:
+ definition: Brake Switch 'B' Circuit
+ suggestion:
+P0704:
+ definition: Clutch Switch Input Circuit Malfunction
+ suggestion:
+P0705:
+ definition: Transmission Range Sensor Circuit Malfunction (PRNDL Input)
+ suggestion:
+P0706:
+ definition: Transmission Range Sensor Circuit Range/Performance
+ suggestion:
+P0707:
+ definition: Transmission Range Sensor Circuit Low
+ suggestion:
+P0708:
+ definition: Transmission Range Sensor Circuit High
+ suggestion:
+P0709:
+ definition: Transmission Range Sensor Circuit Intermittent
+ suggestion:
+P0710:
+ definition: Transmission Fluid Temperature Sensor 'A' Circuit
+ suggestion:
+P0711:
+ definition: Transmission Fluid Temperature Sensor 'A' Circuit Range/Performance
+ suggestion:
+P0712:
+ definition: Transmission Fluid Temperature Sensor 'A' Circuit Low
+ suggestion:
+P0713:
+ definition: Transmission Fluid Temperature Sensor 'A' Circuit High
+ suggestion:
+P0714:
+ definition: Transmission Fluid Temperature Sensor 'A' Circuit Intermittent
+ suggestion:
+P0715:
+ definition: Input/Turbine Speed Sensor 'A' Circuit
+ suggestion:
+P0716:
+ definition: Input/Turbine Speed Sensor 'A' Circuit Range/Performance
+ suggestion:
+P0717:
+ definition: Input/Turbine Speed Sensor 'A' Circuit No Signal
+ suggestion:
+P0718:
+ definition: Input/Turbine Speed Sensor 'A' Circuit Intermittent
+ suggestion:
+P0719:
+ definition: Brake Switch 'B' Circuit Low
+ suggestion:
+P0720:
+ definition: Output Speed Sensor Circuit
+ suggestion:
+P0721:
+ definition: Output Speed Sensor Circuit Range/Performance
+ suggestion:
+P0722:
+ definition: Output Speed Sensor Circuit No Signal
+ suggestion:
+P0723:
+ definition: Output Speed Sensor Circuit Intermittent
+ suggestion:
+P0724:
+ definition: Brake Switch 'B' Circuit High
+ suggestion:
+P0725:
+ definition: Engine Speed Input Circuit
+ suggestion:
+P0726:
+ definition: Engine Speed Input Circuit Range/Performance
+ suggestion:
+P0727:
+ definition: Engine Speed Input Circuit No Signal
+ suggestion:
+P0728:
+ definition: Engine Speed Input Circuit Intermittent
+ suggestion:
+P0729:
+ definition: Gear 6 Incorrect Ratio
+ suggestion:
+P0730:
+ definition: Incorrect Gear Ratio
+ suggestion:
+P0731:
+ definition: Gear 1 Incorrect Ratio
+ suggestion:
+P0732:
+ definition: Gear 2 Incorrect Ratio
+ suggestion:
+P0733:
+ definition: Gear 3 Incorrect Ratio
+ suggestion:
+P0734:
+ definition: Gear 4 Incorrect Ratio
+ suggestion:
+P0735:
+ definition: Gear 5 Incorrect Ratio
+ suggestion:
+P0736:
+ definition: Reverse Incorrect Ratio
+ suggestion:
+P0737:
+ definition: TCM Engine Speed Output Circuit
+ suggestion:
+P0738:
+ definition: TCM Engine Speed Output Circuit Low
+ suggestion:
+P0739:
+ definition: TCM Engine Speed Output Circuit High
+ suggestion:
+P0740:
+ definition: Torque Converter Clutch Circuit/Open
+ suggestion:
+P0741:
+ definition: Torque Converter Clutch Circuit Performance or Stuck Off
+ suggestion:
+P0742:
+ definition: Torque Converter Clutch Circuit Stuck On
+ suggestion:
+P0743:
+ definition: Torque Converter Clutch Circuit Electrical
+ suggestion:
+P0744:
+ definition: Torque Converter Clutch Circuit Intermittent
+ suggestion:
+P0745:
+ definition: Pressure Control Solenoid 'A'
+ suggestion:
+P0746:
+ definition: Pressure Control Solenoid 'A' Performance or Stuck Off
+ suggestion:
+P0747:
+ definition: Pressure Control Solenoid 'A' Stuck On
+ suggestion:
+P0748:
+ definition: Pressure Control Solenoid 'A' Electrical
+ suggestion:
+P0749:
+ definition: Pressure Control Solenoid 'A' Intermittent
+ suggestion:
+P0750:
+ definition: Shift Solenoid 'A'
+ suggestion:
+P0751:
+ definition: Shift Solenoid 'A' Performance or Stuck Off
+ suggestion:
+P0752:
+ definition: Shift Solenoid 'A' Stuck On
+ suggestion:
+P0753:
+ definition: Shift Solenoid 'A' Electrical
+ suggestion:
+P0754:
+ definition: Shift Solenoid 'A' Intermittent
+ suggestion:
+P0755:
+ definition: Shift Solenoid 'B'
+ suggestion:
+P0756:
+ definition: Shift Solenoid 'B' Performance or Stuck Off
+ suggestion:
+P0757:
+ definition: Shift Solenoid 'B' Stuck On
+ suggestion:
+P0758:
+ definition: Shift Solenoid 'B' Electrical
+ suggestion:
+P0759:
+ definition: Shift Solenoid 'B' Intermittent
+ suggestion:
+P0760:
+ definition: Shift Solenoid 'C'
+ suggestion:
+P0761:
+ definition: Shift Solenoid 'C' Performance or Stuck Off
+ suggestion:
+P0762:
+ definition: Shift Solenoid 'C' Stuck On
+ suggestion:
+P0763:
+ definition: Shift Solenoid 'C' Electrical
+ suggestion:
+P0764:
+ definition: Shift Solenoid 'C' Intermittent
+ suggestion:
+P0765:
+ definition: Shift Solenoid 'D'
+ suggestion:
+P0766:
+ definition: Shift Solenoid 'D' Performance or Stuck Off
+ suggestion:
+P0767:
+ definition: Shift Solenoid 'D' Stuck On
+ suggestion:
+P0768:
+ definition: Shift Solenoid 'D' Electrical
+ suggestion:
+P0769:
+ definition: Shift Solenoid 'D' Intermittent
+ suggestion:
+P0770:
+ definition: Shift Solenoid 'E'
+ suggestion:
+P0771:
+ definition: Shift Solenoid 'E' Performance or Stuck Off
+ suggestion:
+P0772:
+ definition: Shift Solenoid 'E' Stuck On
+ suggestion:
+P0773:
+ definition: Shift Solenoid 'E' Electrical
+ suggestion:
+P0774:
+ definition: Shift Solenoid 'E' Intermittent
+ suggestion:
+P0775:
+ definition: Pressure Control Solenoid 'B'
+ suggestion:
+P0776:
+ definition: Pressure Control Solenoid 'B' Performance or Stuck off
+ suggestion:
+P0777:
+ definition: Pressure Control Solenoid 'B' Stuck On
+ suggestion:
+P0778:
+ definition: Pressure Control Solenoid 'B' Electrical
+ suggestion:
+P0779:
+ definition: Pressure Control Solenoid 'B' Intermittent
+ suggestion:
+P0780:
+ definition: Shift Error
+ suggestion:
+P0781:
+ definition: 1-2 Shift
+ suggestion:
+P0782:
+ definition: 2-3 Shift
+ suggestion:
+P0783:
+ definition: 3-4 Shift
+ suggestion:
+P0784:
+ definition: 4-5 Shift
+ suggestion:
+P0785:
+ definition: Shift/Timing Solenoid
+ suggestion:
+P0786:
+ definition: Shift/Timing Solenoid Range/Performance
+ suggestion:
+P0787:
+ definition: Shift/Timing Solenoid Low
+ suggestion:
+P0788:
+ definition: Shift/Timing Solenoid High
+ suggestion:
+P0789:
+ definition: Shift/Timing Solenoid Intermittent
+ suggestion:
+P0790:
+ definition: Normal/Performance Switch Circuit
+ suggestion:
+P0791:
+ definition: Intermediate Shaft Speed Sensor 'A' Circuit
+ suggestion:
+P0792:
+ definition: Intermediate Shaft Speed Sensor 'A' Circuit Range/Performance
+ suggestion:
+P0793:
+ definition: Intermediate Shaft Speed Sensor 'A' Circuit No Signal
+ suggestion:
+P0794:
+ definition: Intermediate Shaft Speed Sensor 'A' Circuit Intermittent
+ suggestion:
+P0795:
+ definition: Pressure Control Solenoid 'C'
+ suggestion:
+P0796:
+ definition: Pressure Control Solenoid 'C' Performance or Stuck off
+ suggestion:
+P0797:
+ definition: Pressure Control Solenoid 'C' Stuck On
+ suggestion:
+P0798:
+ definition: Pressure Control Solenoid 'C' Electrical
+ suggestion:
+P0799:
+ definition: Pressure Control Solenoid 'C' Intermittent
+ suggestion:
+P0800:
+ definition: Transfer Case Control System (MIL Request)
+ suggestion:
+P0801:
+ definition: Reverse Inhibit Control Circuit
+ suggestion:
+P0802:
+ definition: Transmission Control System MIL Request Circuit/Open
+ suggestion:
+P0803:
+ definition: 1-4 Upshift (Skip Shift) Solenoid Control Circuit
+ suggestion:
+P0804:
+ definition: 1-4 Upshift (Skip Shift) Lamp Control Circuit
+ suggestion:
+P0805:
+ definition: Clutch Position Sensor Circuit
+ suggestion:
+P0806:
+ definition: Clutch Position Sensor Circuit Range/Performance
+ suggestion:
+P0807:
+ definition: Clutch Position Sensor Circuit Low
+ suggestion:
+P0808:
+ definition: Clutch Position Sensor Circuit High
+ suggestion:
+P0809:
+ definition: Clutch Position Sensor Circuit Intermittent
+ suggestion:
+P0810:
+ definition: Clutch Position Control Error
+ suggestion:
+P0811:
+ definition: Excessive Clutch Slippage
+ suggestion:
+P0812:
+ definition: Reverse Input Circuit
+ suggestion:
+P0813:
+ definition: Reverse Output Circuit
+ suggestion:
+P0814:
+ definition: Transmission Range Display Circuit
+ suggestion:
+P0815:
+ definition: Upshift Switch Circuit
+ suggestion:
+P0816:
+ definition: Downshift Switch Circuit
+ suggestion:
+P0817:
+ definition: Starter Disable Circuit
+ suggestion:
+P0818:
+ definition: Driveline Disconnect Switch Input Circuit
+ suggestion:
+P0819:
+ definition: Up and Down Shift Switch to Transmission Range Correlation
+ suggestion:
+P0820:
+ definition: Gear Lever X-Y Position Sensor Circuit
+ suggestion:
+P0821:
+ definition: Gear Lever X Position Circuit
+ suggestion:
+P0822:
+ definition: Gear Lever Y Position Circuit
+ suggestion:
+P0823:
+ definition: Gear Lever X Position Circuit Intermittent
+ suggestion:
+P0824:
+ definition: Gear Lever Y Position Circuit Intermittent
+ suggestion:
+P0825:
+ definition: Gear Lever Push-Pull Switch (Shift Anticipate)
+ suggestion:
+P0826:
+ definition: Up and Down Shift Switch Circuit
+ suggestion:
+P0827:
+ definition: Up and Down Shift Switch Circuit Low
+ suggestion:
+P0828:
+ definition: Up and Down Shift Switch Circuit High
+ suggestion:
+P0829:
+ definition: 5-6 Shift
+ suggestion:
+P0830:
+ definition: Clutch Pedal Switch 'A' Circuit
+ suggestion:
+P0831:
+ definition: Clutch Pedal Switch 'A' Circuit Low
+ suggestion:
+P0832:
+ definition: Clutch Pedal Switch 'A' Circuit High
+ suggestion:
+P0833:
+ definition: Clutch Pedal Switch 'B' Circuit
+ suggestion:
+P0834:
+ definition: Clutch Pedal Switch 'B' Circuit Low
+ suggestion:
+P0835:
+ definition: Clutch Pedal Switch 'B' Circuit High
+ suggestion:
+P0836:
+ definition: Four Wheel Drive (4WD) Switch Circuit
+ suggestion:
+P0837:
+ definition: Four Wheel Drive (4WD) Switch Circuit Range/Performance
+ suggestion:
+P0838:
+ definition: Four Wheel Drive (4WD) Switch Circuit Low
+ suggestion:
+P0839:
+ definition: Four Wheel Drive (4WD) Switch Circuit High
+ suggestion:
+P0840:
+ definition: Transmission Fluid Pressure Sensor/Switch 'A' Circuit
+ suggestion:
+P0841:
+ definition: Transmission Fluid Pressure Sensor/Switch 'A' Circuit Range/Performance
+ suggestion:
+P0842:
+ definition: Transmission Fluid Pressure Sensor/Switch 'A' Circuit Low
+ suggestion:
+P0843:
+ definition: Transmission Fluid Pressure Sensor/Switch 'A' Circuit High
+ suggestion:
+P0844:
+ definition: Transmission Fluid Pressure Sensor/Switch 'A' Circuit Intermittent
+ suggestion:
+P0845:
+ definition: Transmission Fluid Pressure Sensor/Switch 'B' Circuit
+ suggestion:
+P0846:
+ definition: Transmission Fluid Pressure Sensor/Switch 'B' Circuit Range/Performance
+ suggestion:
+P0847:
+ definition: Transmission Fluid Pressure Sensor/Switch 'B' Circuit Low
+ suggestion:
+P0848:
+ definition: Transmission Fluid Pressure Sensor/Switch 'B' Circuit High
+ suggestion:
+P0849:
+ definition: Transmission Fluid Pressure Sensor/Switch 'B' Circuit Intermittent
+ suggestion:
+P0850:
+ definition: Park/Neutral Switch Input Circuit
+ suggestion:
+P0851:
+ definition: Park/Neutral Switch Input Circuit Low
+ suggestion:
+P0852:
+ definition: Park/Neutral Switch Input Circuit High
+ suggestion:
+P0853:
+ definition: Drive Switch Input Circuit
+ suggestion:
+P0854:
+ definition: Drive Switch Input Circuit Low
+ suggestion:
+P0855:
+ definition: Drive Switch Input Circuit High
+ suggestion:
+P0856:
+ definition: Traction Control Input Signal
+ suggestion:
+P0857:
+ definition: Traction Control Input Signal Range/Performance
+ suggestion:
+P0858:
+ definition: Traction Control Input Signal Low
+ suggestion:
+P0859:
+ definition: Traction Control Input Signal High
+ suggestion:
+P0860:
+ definition: Gear Shift Module Communication Circuit
+ suggestion:
+P0861:
+ definition: Gear Shift Module Communication Circuit Low
+ suggestion:
+P0862:
+ definition: Gear Shift Module Communication Circuit High
+ suggestion:
+P0863:
+ definition: TCM Communication Circuit
+ suggestion:
+P0864:
+ definition: TCM Communication Circuit Range/Performance
+ suggestion:
+P0865:
+ definition: TCM Communication Circuit Low
+ suggestion:
+P0866:
+ definition: TCM Communication Circuit High
+ suggestion:
+P0867:
+ definition: Transmission Fluid Pressure
+ suggestion:
+P0868:
+ definition: Transmission Fluid Pressure Low
+ suggestion:
+P0869:
+ definition: Transmission Fluid Pressure High
+ suggestion:
+P0870:
+ definition: Transmission Fluid Pressure Sensor/Switch 'C' Circuit
+ suggestion:
+P0871:
+ definition: Transmission Fluid Pressure Sensor/Switch 'C' Circuit Range/Performance
+ suggestion:
+P0872:
+ definition: Transmission Fluid Pressure Sensor/Switch 'C' Circuit Low
+ suggestion:
+P0873:
+ definition: Transmission Fluid Pressure Sensor/Switch 'C' Circuit High
+ suggestion:
+P0874:
+ definition: Transmission Fluid Pressure Sensor/Switch 'C' Circuit Intermittent
+ suggestion:
+P0875:
+ definition: Transmission Fluid Pressure Sensor/Switch 'D' Circuit
+ suggestion:
+P0876:
+ definition: Transmission Fluid Pressure Sensor/Switch 'D' Circuit Range/Performance
+ suggestion:
+P0877:
+ definition: Transmission Fluid Pressure Sensor/Switch 'D' Circuit Low
+ suggestion:
+P0878:
+ definition: Transmission Fluid Pressure Sensor/Switch 'D' Circuit High
+ suggestion:
+P0879:
+ definition: Transmission Fluid Pressure Sensor/Switch 'D' Circuit Intermittent
+ suggestion:
+P0880:
+ definition: TCM Power Input Signal
+ suggestion:
+P0881:
+ definition: TCM Power Input Signal Range/Performance
+ suggestion:
+P0882:
+ definition: TCM Power Input Signal Low
+ suggestion:
+P0883:
+ definition: TCM Power Input Signal High
+ suggestion:
+P0884:
+ definition: TCM Power Input Signal Intermittent
+ suggestion:
+P0885:
+ definition: TCM Power Relay Control Circuit/Open
+ suggestion:
+P0886:
+ definition: TCM Power Relay Control Circuit Low
+ suggestion:
+P0887:
+ definition: TCM Power Relay Control Circuit High
+ suggestion:
+P0888:
+ definition: TCM Power Relay Sense Circuit
+ suggestion:
+P0889:
+ definition: TCM Power Relay Sense Circuit Range/Performance
+ suggestion:
+P0890:
+ definition: TCM Power Relay Sense Circuit Low
+ suggestion:
+P0891:
+ definition: TCM Power Relay Sense Circuit High
+ suggestion:
+P0892:
+ definition: TCM Power Relay Sense Circuit Intermittent
+ suggestion:
+P0893:
+ definition: Multiple Gears Engaged
+ suggestion:
+P0894:
+ definition: Transmission Component Slipping
+ suggestion:
+P0895:
+ definition: Shift Time Too Short
+ suggestion:
+P0896:
+ definition: Shift Time Too Long
+ suggestion:
+P0897:
+ definition: Transmission Fluid Deteriorated
+ suggestion:
+P0898:
+ definition: Transmission Control System MIL Request Circuit Low
+ suggestion:
+P0899:
+ definition: Transmission Control System MIL Request Circuit High
+ suggestion:
+P0900:
+ definition: Clutch Actuator Circuit/Open
+ suggestion:
+P0901:
+ definition: Clutch Actuator Circuit Range/Performance
+ suggestion:
+P0902:
+ definition: Clutch Actuator Circuit Low
+ suggestion:
+P0903:
+ definition: Clutch Actuator Circuit High
+ suggestion:
+P0904:
+ definition: Gate Select Position Circuit
+ suggestion:
+P0905:
+ definition: Gate Select Position Circuit Range/Performance
+ suggestion:
+P0906:
+ definition: Gate Select Position Circuit Low
+ suggestion:
+P0907:
+ definition: Gate Select Position Circuit High
+ suggestion:
+P0908:
+ definition: Gate Select Position Circuit Intermittent
+ suggestion:
+P0909:
+ definition: Gate Select Control Error
+ suggestion:
+P0910:
+ definition: Gate Select Actuator Circuit/Open
+ suggestion:
+P0911:
+ definition: Gate Select Actuator Circuit Range/Performance
+ suggestion:
+P0912:
+ definition: Gate Select Actuator Circuit Low
+ suggestion:
+P0913:
+ definition: Gate Select Actuator Circuit High
+ suggestion:
+P0914:
+ definition: Gear Shift Position Circuit
+ suggestion:
+P0915:
+ definition: Gear Shift Position Circuit Range/Performance
+ suggestion:
+P0916:
+ definition: Gear Shift Position Circuit Low
+ suggestion:
+P0917:
+ definition: Gear Shift Position Circuit High
+ suggestion:
+P0918:
+ definition: Gear Shift Position Circuit Intermittent
+ suggestion:
+P0919:
+ definition: Gear Shift Position Control Error
+ suggestion:
+P0920:
+ definition: Gear Shift Forward Actuator Circuit/Open
+ suggestion:
+P0921:
+ definition: Gear Shift Forward Actuator Circuit Range/Performance
+ suggestion:
+P0922:
+ definition: Gear Shift Forward Actuator Circuit Low
+ suggestion:
+P0923:
+ definition: Gear Shift Forward Actuator Circuit High
+ suggestion:
+P0924:
+ definition: Gear Shift Reverse Actuator Circuit/Open
+ suggestion:
+P0925:
+ definition: Gear Shift Reverse Actuator Circuit Range/Performance
+ suggestion:
+P0926:
+ definition: Gear Shift Reverse Actuator Circuit Low
+ suggestion:
+P0927:
+ definition: Gear Shift Reverse Actuator Circuit High
+ suggestion:
+P0928:
+ definition: Gear Shift Lock Solenoid Control Circuit/Open
+ suggestion:
+P0929:
+ definition: Gear Shift Lock Solenoid Control Circuit Range/Performance
+ suggestion:
+P0930:
+ definition: Gear Shift Lock Solenoid Control Circuit Low
+ suggestion:
+P0931:
+ definition: Gear Shift Lock Solenoid Control Circuit High
+ suggestion:
+P0932:
+ definition: Hydraulic Pressure Sensor Circuit
+ suggestion:
+P0933:
+ definition: Hydraulic Pressure Sensor Range/Performance
+ suggestion:
+P0934:
+ definition: Hydraulic Pressure Sensor Circuit Low
+ suggestion:
+P0935:
+ definition: Hydraulic Pressure Sensor Circuit High
+ suggestion:
+P0936:
+ definition: Hydraulic Pressure Sensor Circuit Intermittent
+ suggestion:
+P0937:
+ definition: Hydraulic Oil Temperature Sensor Circuit
+ suggestion:
+P0938:
+ definition: Hydraulic Oil Temperature Sensor Range/Performance
+ suggestion:
+P0939:
+ definition: Hydraulic Oil Temperature Sensor Circuit Low
+ suggestion:
+P0940:
+ definition: Hydraulic Oil Temperature Sensor Circuit High
+ suggestion:
+P0941:
+ definition: Hydraulic Oil Temperature Sensor Circuit Intermittent
+ suggestion:
+P0942:
+ definition: Hydraulic Pressure Unit
+ suggestion:
+P0943:
+ definition: Hydraulic Pressure Unit Cycling Period Too Short
+ suggestion:
+P0944:
+ definition: Hydraulic Pressure Unit Loss of Pressure
+ suggestion:
+P0945:
+ definition: Hydraulic Pump Relay Circuit/Open
+ suggestion:
+P0946:
+ definition: Hydraulic Pump Relay Circuit Range/Performance
+ suggestion:
+P0947:
+ definition: Hydraulic Pump Relay Circuit Low
+ suggestion:
+P0948:
+ definition: Hydraulic Pump Relay Circuit High
+ suggestion:
+P0949:
+ definition: Auto Shift Manual Adaptive Learning Not Complete
+ suggestion:
+P0950:
+ definition: Auto Shift Manual Control Circuit
+ suggestion:
+P0951:
+ definition: Auto Shift Manual Control Circuit Range/Performance
+ suggestion:
+P0952:
+ definition: Auto Shift Manual Control Circuit Low
+ suggestion:
+P0953:
+ definition: Auto Shift Manual Control Circuit High
+ suggestion:
+P0954:
+ definition: Auto Shift Manual Control Circuit Intermittent
+ suggestion:
+P0955:
+ definition: Auto Shift Manual Mode Circuit
+ suggestion:
+P0956:
+ definition: Auto Shift Manual Mode Circuit Range/Performance
+ suggestion:
+P0957:
+ definition: Auto Shift Manual Mode Circuit Low
+ suggestion:
+P0958:
+ definition: Auto Shift Manual Mode Circuit High
+ suggestion:
+P0959:
+ definition: Auto Shift Manual Mode Circuit Intermittent
+ suggestion:
+P0960:
+ definition: Pressure Control Solenoid 'A' Control Circuit/Open
+ suggestion:
+P0961:
+ definition: Pressure Control Solenoid 'A' Control Circuit Range/Performance
+ suggestion:
+P0962:
+ definition: Pressure Control Solenoid 'A' Control Circuit Low
+ suggestion:
+P0963:
+ definition: Pressure Control Solenoid 'A' Control Circuit High
+ suggestion:
+P0964:
+ definition: Pressure Control Solenoid 'B' Control Circuit/Open
+ suggestion:
+P0965:
+ definition: Pressure Control Solenoid 'B' Control Circuit Range/Performance
+ suggestion:
+P0966:
+ definition: Pressure Control Solenoid 'B' Control Circuit Low
+ suggestion:
+P0967:
+ definition: Pressure Control Solenoid 'B' Control Circuit High
+ suggestion:
+P0968:
+ definition: Pressure Control Solenoid 'C' Control Circuit/Open
+ suggestion:
+P0969:
+ definition: Pressure Control Solenoid 'C' Control Circuit Range/Performance
+ suggestion:
+P0970:
+ definition: Pressure Control Solenoid 'C' Control Circuit Low
+ suggestion:
+P0971:
+ definition: Pressure Control Solenoid 'C' Control Circuit High
+ suggestion:
+P0972:
+ definition: Shift Solenoid 'A' Control Circuit Range/Performance
+ suggestion:
+P0973:
+ definition: Shift Solenoid 'A' Control Circuit Low
+ suggestion:
+P0974:
+ definition: Shift Solenoid 'A' Control Circuit High
+ suggestion:
+P0975:
+ definition: Shift Solenoid 'B' Control Circuit Range/Performance
+ suggestion:
+P0976:
+ definition: Shift Solenoid 'B' Control Circuit Low
+ suggestion:
+P0977:
+ definition: Shift Solenoid 'B' Control Circuit High
+ suggestion:
+P0978:
+ definition: Shift Solenoid 'C' Control Circuit Range/Performance
+ suggestion:
+P0979:
+ definition: Shift Solenoid 'C' Control Circuit Low
+ suggestion:
+P0980:
+ definition: Shift Solenoid 'C' Control Circuit High
+ suggestion:
+P0981:
+ definition: Shift Solenoid 'D' Control Circuit Range/Performance
+ suggestion:
+P0982:
+ definition: Shift Solenoid 'D' Control Circuit Low
+ suggestion:
+P0983:
+ definition: Shift Solenoid 'D' Control Circuit High
+ suggestion:
+P0984:
+ definition: Shift Solenoid 'E' Control Circuit Range/Performance
+ suggestion:
+P0985:
+ definition: Shift Solenoid 'E' Control Circuit Low
+ suggestion:
+P0986:
+ definition: Shift Solenoid 'E' Control Circuit High
+ suggestion:
+P0987:
+ definition: Transmission Fluid Pressure Sensor/Switch 'E' Circuit
+ suggestion:
+P0988:
+ definition: Transmission Fluid Pressure Sensor/Switch 'E' Circuit Range/Performance
+ suggestion:
+P0989:
+ definition: Transmission Fluid Pressure Sensor/Switch 'E' Circuit Low
+ suggestion:
+P0990:
+ definition: Transmission Fluid Pressure Sensor/Switch 'E' Circuit High
+ suggestion:
+P0991:
+ definition: Transmission Fluid Pressure Sensor/Switch 'E' Circuit Intermittent
+ suggestion:
+P0992:
+ definition: Transmission Fluid Pressure Sensor/Switch 'F' Circuit
+ suggestion:
+P0993:
+ definition: Transmission Fluid Pressure Sensor/Switch 'F' Circuit Range/Performance
+ suggestion:
+P0994:
+ definition: Transmission Fluid Pressure Sensor/Switch 'F' Circuit Low
+ suggestion:
+P0995:
+ definition: Transmission Fluid Pressure Sensor/Switch 'F' Circuit High
+ suggestion:
+P0996:
+ definition: Transmission Fluid Pressure Sensor/Switch 'F' Circuit Intermittent
+ suggestion:
+P0997:
+ definition: Shift Solenoid 'F' Control Circuit Range/Performance
+ suggestion:
+P0998:
+ definition: Shift Solenoid 'F' Control Circuit Low
+ suggestion:
+P0999:
+ definition: Shift Solenoid 'F' Control Circuit High
+ suggestion:
+P0A00:
+ definition: Motor Electronics Coolant Temperature Sensor Circuit
+ suggestion:
+P0A01:
+ definition: Motor Electronics Coolant Temperature Sensor Circuit Range/Performance
+ suggestion:
+P0A02:
+ definition: Motor Electronics Coolant Temperature Sensor Circuit Low
+ suggestion:
+P0A03:
+ definition: Motor Electronics Coolant Temperature Sensor Circuit High
+ suggestion:
+P0A04:
+ definition: Motor Electronics Coolant Temperature Sensor Circuit Intermittent
+ suggestion:
+P0A05:
+ definition: Motor Electronics Coolant Pump Control Circuit/Open
+ suggestion:
+P0A06:
+ definition: Motor Electronics Coolant Pump Control Circuit Low
+ suggestion:
+P0A07:
+ definition: Motor Electronics Coolant Pump Control Circuit High
+ suggestion:
+P0A08:
+ definition: DC/DC Converter Status Circuit
+ suggestion:
+P0A09:
+ definition: DC/DC Converter Status Circuit Low Input
+ suggestion:
+P0A10:
+ definition: DC/DC Converter Status Circuit High Input
+ suggestion:
+P0A11:
+ definition: DC/DC Converter Enable Circuit/Open
+ suggestion:
+P0A12:
+ definition: DC/DC Converter Enable Circuit Low
+ suggestion:
+P0A13:
+ definition: DC/DC Converter Enable Circuit High
+ suggestion:
+P0A14:
+ definition: Engine Mount Control Circuit/Open
+ suggestion:
+P0A15:
+ definition: Engine Mount Control Circuit Low
+ suggestion:
+P0A16:
+ definition: Engine Mount Control Circuit High
+ suggestion:
+P0A17:
+ definition: Motor Torque Sensor Circuit
+ suggestion:
+P0A18:
+ definition: Motor Torque Sensor Circuit Range/Performance
+ suggestion:
+P0A19:
+ definition: Motor Torque Sensor Circuit Low
+ suggestion:
+P0A20:
+ definition: Motor Torque Sensor Circuit High
+ suggestion:
+P0A21:
+ definition: Motor Torque Sensor Circuit Intermittent
+ suggestion:
+P0A22:
+ definition: Generator Torque Sensor Circuit
+ suggestion:
+P0A23:
+ definition: Generator Torque Sensor Circuit Range/Performance
+ suggestion:
+P0A24:
+ definition: Generator Torque Sensor Circuit Low
+ suggestion:
+P0A25:
+ definition: Generator Torque Sensor Circuit High
+ suggestion:
+P0A26:
+ definition: Generator Torque Sensor Circuit Intermittent
+ suggestion:
+P0A27:
+ definition: Battery Power Off Circuit
+ suggestion:
+P0A28:
+ definition: Battery Power Off Circuit Low
+ suggestion:
+P0A29:
+ definition: Battery Power Off Circuit High
+ suggestion:
+P2000:
+ definition: NOx Trap Efficiency Below Threshold
+ suggestion:
+P2001:
+ definition: NOx Trap Efficiency Below Threshold
+ suggestion:
+P2002:
+ definition: Particulate Trap Efficiency Below Threshold
+ suggestion:
+P2003:
+ definition: Particulate Trap Efficiency Below Threshold
+ suggestion:
+P2004:
+ definition: Intake Manifold Runner Control Stuck Open
+ suggestion:
+P2005:
+ definition: Intake Manifold Runner Control Stuck Open
+ suggestion:
+P2006:
+ definition: Intake Manifold Runner Control Stuck Closed
+ suggestion:
+P2007:
+ definition: Intake Manifold Runner Control Stuck Closed
+ suggestion:
+P2008:
+ definition: Intake Manifold Runner Control Circuit/Open
+ suggestion:
+P2009:
+ definition: Intake Manifold Runner Control Circuit Low
+ suggestion:
+P2010:
+ definition: Intake Manifold Runner Control Circuit High
+ suggestion:
+P2011:
+ definition: Intake Manifold Runner Control Circuit/Open
+ suggestion:
+P2012:
+ definition: Intake Manifold Runner Control Circuit Low
+ suggestion:
+P2013:
+ definition: Intake Manifold Runner Control Circuit High
+ suggestion:
+P2014:
+ definition: Intake Manifold Runner Position Sensor/Switch Circuit
+ suggestion:
+P2015:
+ definition: Intake Manifold Runner Position Sensor/Switch Circuit Range/Performance
+ suggestion:
+P2016:
+ definition: Intake Manifold Runner Position Sensor/Switch Circuit Low
+ suggestion:
+P2017:
+ definition: Intake Manifold Runner Position Sensor/Switch Circuit High
+ suggestion:
+P2018:
+ definition: Intake Manifold Runner Position Sensor/Switch Circuit Intermittent
+ suggestion:
+P2019:
+ definition: Intake Manifold Runner Position Sensor/Switch Circuit
+ suggestion:
+P2020:
+ definition: Intake Manifold Runner Position Sensor/Switch Circuit Range/Performance
+ suggestion:
+P2021:
+ definition: Intake Manifold Runner Position Sensor/Switch Circuit Low
+ suggestion:
+P2022:
+ definition: Intake Manifold Runner Position Sensor/Switch Circuit High
+ suggestion:
+P2023:
+ definition: Intake Manifold Runner Position Sensor/Switch Circuit Intermittent
+ suggestion:
+P2024:
+ definition: Evaporative Emissions (EVAP) Fuel Vapor Temperature Sensor Circuit
+ suggestion:
+P2025:
+ definition: Evaporative Emissions (EVAP) Fuel Vapor Temperature Sensor Performance
+ suggestion:
+P2026:
+ definition: Evaporative Emissions (EVAP) Fuel Vapor Temperature Sensor Circuit Low Voltage
+ suggestion:
+P2027:
+ definition: Evaporative Emissions (EVAP) Fuel Vapor Temperature Sensor Circuit High Voltage
+ suggestion:
+P2028:
+ definition: Evaporative Emissions (EVAP) Fuel Vapor Temperature Sensor Circuit Intermittent
+ suggestion:
+P2029:
+ definition: Fuel Fired Heater Disabled
+ suggestion:
+P2030:
+ definition: Fuel Fired Heater Performance
+ suggestion:
+P2031:
+ definition: Exhaust Gas Temperature Sensor Circuit
+ suggestion:
+P2032:
+ definition: Exhaust Gas Temperature Sensor Circuit Low
+ suggestion:
+P2033:
+ definition: Exhaust Gas Temperature Sensor Circuit High
+ suggestion:
+P2034:
+ definition: Exhaust Gas Temperature Sensor Circuit
+ suggestion:
+P2035:
+ definition: Exhaust Gas Temperature Sensor Circuit Low
+ suggestion:
+P2036:
+ definition: Exhaust Gas Temperature Sensor Circuit High
+ suggestion:
+P2037:
+ definition: Reductant Injection Air Pressure Sensor Circuit
+ suggestion:
+P2038:
+ definition: Reductant Injection Air Pressure Sensor Circuit Range/Performance
+ suggestion:
+P2039:
+ definition: Reductant Injection Air Pressure Sensor Circuit Low Input
+ suggestion:
+P2040:
+ definition: Reductant Injection Air Pressure Sensor Circuit High Input
+ suggestion:
+P2041:
+ definition: Reductant Injection Air Pressure Sensor Circuit Intermittent
+ suggestion:
+P2042:
+ definition: Reductant Temperature Sensor Circuit
+ suggestion:
+P2043:
+ definition: Reductant Temperature Sensor Circuit Range/Performance
+ suggestion:
+P2044:
+ definition: Reductant Temperature Sensor Circuit Low Input
+ suggestion:
+P2045:
+ definition: Reductant Temperature Sensor Circuit High Input
+ suggestion:
+P2046:
+ definition: Reductant Temperature Sensor Circuit Intermittent
+ suggestion:
+P2047:
+ definition: Reductant Injector Circuit/Open
+ suggestion:
+P2048:
+ definition: Reductant Injector Circuit Low
+ suggestion:
+P2049:
+ definition: Reductant Injector Circuit High
+ suggestion:
+P2050:
+ definition: Reductant Injector Circuit/Open
+ suggestion:
+P2051:
+ definition: Reductant Injector Circuit Low
+ suggestion:
+P2052:
+ definition: Reductant Injector Circuit High
+ suggestion:
+P2053:
+ definition: Reductant Injector Circuit/Open
+ suggestion:
+P2054:
+ definition: Reductant Injector Circuit Low
+ suggestion:
+P2055:
+ definition: Reductant Injector Circuit High
+ suggestion:
+P2056:
+ definition: Reductant Injector Circuit/Open
+ suggestion:
+P2057:
+ definition: Reductant Injector Circuit Low
+ suggestion:
+P2058:
+ definition: Reductant Injector Circuit High
+ suggestion:
+P2059:
+ definition: Reductant Injection Air Pump Control Circuit/Open
+ suggestion:
+P2060:
+ definition: Reductant Injection Air Pump Control Circuit Low
+ suggestion:
+P2061:
+ definition: Reductant Injection Air Pump Control Circuit High
+ suggestion:
+P2062:
+ definition: Reductant Supply Control Circuit/Open
+ suggestion:
+P2063:
+ definition: Reductant Supply Control Circuit Low
+ suggestion:
+P2064:
+ definition: Reductant Supply Control Circuit High
+ suggestion:
+P2065:
+ definition: Fuel Level Sensor 'B' Circuit
+ suggestion:
+P2066:
+ definition: Fuel Level Sensor 'B' Performance
+ suggestion:
+P2067:
+ definition: Fuel Level Sensor 'B' Circuit Low
+ suggestion:
+P2068:
+ definition: Fuel Level Sensor 'B' Circuit High
+ suggestion:
+P2069:
+ definition: Fuel Level Sensor 'B' Circuit Intermittent
+ suggestion:
+P2070:
+ definition: Intake Manifold Tuning (IMT) Valve Stuck Open
+ suggestion:
+P2071:
+ definition: Intake Manifold Tuning (IMT) Valve Stuck Closed
+ suggestion:
+P2075:
+ definition: Intake Manifold Tuning (IMT) Valve Position Sensor/Switch Circuit
+ suggestion:
+P2076:
+ definition: Intake Manifold Tuning (IMT) Valve Position Sensor/Switch Circuit Range/Performance
+ suggestion:
+P2077:
+ definition: Intake Manifold Tuning (IMT) Valve Position Sensor/Switch Circuit Low
+ suggestion:
+P2078:
+ definition: Intake Manifold Tuning (IMT) Valve Position Sensor/Switch Circuit High
+ suggestion:
+P2079:
+ definition: Intake Manifold Tuning (IMT) Valve Position Sensor/Switch Circuit Intermittent
+ suggestion:
+P2080:
+ definition: Exhaust Gas Temperature Sensor Circuit Range/Performance
+ suggestion:
+P2081:
+ definition: Exhaust Gas Temperature Sensor Circuit Intermittent
+ suggestion:
+P2082:
+ definition: Exhaust Gas Temperature Sensor Circuit Range/Performance
+ suggestion:
+P2083:
+ definition: Exhaust Gas Temperature Sensor Circuit Intermittent
+ suggestion:
+P2084:
+ definition: Exhaust Gas Temperature Sensor Circuit Range/Performance
+ suggestion:
+P2085:
+ definition: Exhaust Gas Temperature Sensor Circuit Intermittent
+ suggestion:
+P2086:
+ definition: Exhaust Gas Temperature Sensor Circuit Range/Performance
+ suggestion:
+P2087:
+ definition: Exhaust Gas Temperature Sensor Circuit Intermittent
+ suggestion:
+P2088:
+ definition: '''A'' Camshaft Position Actuator Control Circuit Low'
+ suggestion:
+P2089:
+ definition: '''A'' Camshaft Position Actuator Control Circuit High'
+ suggestion:
+P2090:
+ definition: '''B'' Camshaft Position Actuator Control Circuit Low'
+ suggestion:
+P2091:
+ definition: '''B'' Camshaft Position Actuator Control Circuit High'
+ suggestion:
+P2092:
+ definition: '''A'' Camshaft Position Actuator Control Circuit Low'
+ suggestion:
+P2093:
+ definition: '''A'' Camshaft Position Actuator Control Circuit High'
+ suggestion:
+P2094:
+ definition: '''B'' Camshaft Position Actuator Control Circuit Low'
+ suggestion:
+P2095:
+ definition: '''B'' Camshaft Position Actuator Control Circuit High'
+ suggestion:
+P2096:
+ definition: Post Catalyst Fuel Trim System Too Lean
+ suggestion:
+P2097:
+ definition: Post Catalyst Fuel Trim System Too Rich
+ suggestion:
+P2098:
+ definition: Post Catalyst Fuel Trim System Too Lean
+ suggestion:
+P2099:
+ definition: Post Catalyst Fuel Trim System Too Rich
+ suggestion:
+P2100:
+ definition: Throttle Actuator Control Motor Circuit/Open
+ suggestion:
+P2101:
+ definition: Throttle Actuator Control Motor Circuit Range/Performance
+ suggestion:
+P2102:
+ definition: Throttle Actuator Control Motor Circuit Low
+ suggestion:
+P2103:
+ definition: Throttle Actuator Control Motor Circuit High
+ suggestion:
+P2104:
+ definition: Throttle Actuator Control System - Forced Idle
+ suggestion:
+P2105:
+ definition: Throttle Actuator Control System - Forced Engine Shutdown
+ suggestion:
+P2106:
+ definition: Throttle Actuator Control System - Forced Limited Power
+ suggestion:
+P2107:
+ definition: Throttle Actuator Control Module Processor
+ suggestion:
+P2108:
+ definition: Throttle Actuator Control Module Performance
+ suggestion:
+P2109:
+ definition: Throttle/Pedal Position Sensor 'A' Minimum Stop Performance
+ suggestion:
+P2110:
+ definition: Throttle Actuator Control System - Forced Limited RPM
+ suggestion:
+P2111:
+ definition: Throttle Actuator Control System - Stuck Open
+ suggestion:
+P2112:
+ definition: Throttle Actuator Control System - Stuck Closed
+ suggestion:
+P2113:
+ definition: Throttle/Pedal Position Sensor 'B' Minimum Stop Performance
+ suggestion:
+P2114:
+ definition: Throttle/Pedal Position Sensor 'C' Minimum Stop Performance
+ suggestion:
+P2115:
+ definition: Throttle/Pedal Position Sensor 'D' Minimum Stop Performance
+ suggestion:
+P2116:
+ definition: Throttle/Pedal Position Sensor 'E' Minimum Stop Performance
+ suggestion:
+P2117:
+ definition: Throttle/Pedal Position Sensor 'F' Minimum Stop Performance
+ suggestion:
+P2118:
+ definition: Throttle Actuator Control Motor Current Range/Performance
+ suggestion:
+P2119:
+ definition: Throttle Actuator Control Throttle Body Range/Performance
+ suggestion:
+P2120:
+ definition: Throttle/Pedal Position Sensor/Switch 'D' Circuit
+ suggestion:
+P2121:
+ definition: Throttle/Pedal Position Sensor/Switch 'D' Circuit Range/Performance
+ suggestion:
+P2122:
+ definition: Throttle/Pedal Position Sensor/Switch 'D' Circuit Low Input
+ suggestion:
+P2123:
+ definition: Throttle/Pedal Position Sensor/Switch 'D' Circuit High Input
+ suggestion:
+P2124:
+ definition: Throttle/Pedal Position Sensor/Switch 'D' Circuit Intermittent
+ suggestion:
+P2125:
+ definition: Throttle/Pedal Position Sensor/Switch 'E' Circuit
+ suggestion:
+P2126:
+ definition: Throttle/Pedal Position Sensor/Switch 'E' Circuit Range/Performance
+ suggestion:
+P2127:
+ definition: Throttle/Pedal Position Sensor/Switch 'E' Circuit Low Input
+ suggestion:
+P2128:
+ definition: Throttle/Pedal Position Sensor/Switch 'E' Circuit High Input
+ suggestion:
+P2129:
+ definition: Throttle/Pedal Position Sensor/Switch 'E' Circuit Intermittent
+ suggestion:
+P2130:
+ definition: Throttle/Pedal Position Sensor/Switch 'F' Circuit
+ suggestion:
+P2131:
+ definition: Throttle/Pedal Position Sensor/Switch 'F' Circuit Range Performance
+ suggestion:
+P2132:
+ definition: Throttle/Pedal Position Sensor/Switch 'F' Circuit Low Input
+ suggestion:
+P2133:
+ definition: Throttle/Pedal Position Sensor/Switch 'F' Circuit High Input
+ suggestion:
+P2134:
+ definition: Throttle/Pedal Position Sensor/Switch 'F' Circuit Intermittent
+ suggestion:
+P2135:
+ definition: Throttle/Pedal Position Sensor/Switch 'A' / 'B' Voltage Correlation
+ suggestion:
+P2136:
+ definition: Throttle/Pedal Position Sensor/Switch 'A' / 'C' Voltage Correlation
+ suggestion:
+P2137:
+ definition: Throttle/Pedal Position Sensor/Switch 'B' / 'C' Voltage Correlation
+ suggestion:
+P2138:
+ definition: Throttle/Pedal Position Sensor/Switch 'D' / 'E' Voltage Correlation
+ suggestion:
+P2139:
+ definition: Throttle/Pedal Position Sensor/Switch 'D' / 'F' Voltage Correlation
+ suggestion:
+P2140:
+ definition: Throttle/Pedal Position Sensor/Switch 'E' / 'F' Voltage Correlation
+ suggestion:
+P2141:
+ definition: Exhaust Gas Recirculation Throttle Control Circuit Low
+ suggestion:
+P2142:
+ definition: Exhaust Gas Recirculation Throttle Control Circuit High
+ suggestion:
+P2143:
+ definition: Exhaust Gas Recirculation Vent Control Circuit/Open
+ suggestion:
+P2144:
+ definition: Exhaust Gas Recirculation Vent Control Circuit Low
+ suggestion:
+P2145:
+ definition: Exhaust Gas Recirculation Vent Control Circuit High
+ suggestion:
+P2146:
+ definition: Fuel Injector Group 'A' Supply Voltage Circuit/Open
+ suggestion:
+P2147:
+ definition: Fuel Injector Group 'A' Supply Voltage Circuit Low
+ suggestion:
+P2148:
+ definition: Fuel Injector Group 'A' Supply Voltage Circuit High
+ suggestion:
+P2149:
+ definition: Fuel Injector Group 'B' Supply Voltage Circuit/Open
+ suggestion:
+P2150:
+ definition: Fuel Injector Group 'B' Supply Voltage Circuit Low
+ suggestion:
+P2151:
+ definition: Fuel Injector Group 'B' Supply Voltage Circuit High
+ suggestion:
+P2152:
+ definition: Fuel Injector Group 'C' Supply Voltage Circuit/Open
+ suggestion:
+P2153:
+ definition: Fuel Injector Group 'C' Supply Voltage Circuit Low
+ suggestion:
+P2154:
+ definition: Fuel Injector Group 'C' Supply Voltage Circuit High
+ suggestion:
+P2155:
+ definition: Fuel Injector Group 'D' Supply Voltage Circuit/Open
+ suggestion:
+P2156:
+ definition: Fuel Injector Group 'D' Supply Voltage Circuit Low
+ suggestion:
+P2157:
+ definition: Fuel Injector Group 'D' Supply Voltage Circuit High
+ suggestion:
+P2158:
+ definition: Vehicle Speed Sensor 'B'
+ suggestion:
+P2159:
+ definition: Vehicle Speed Sensor 'B' Range/Performance
+ suggestion:
+P2160:
+ definition: Vehicle Speed Sensor 'B' Circuit Low
+ suggestion:
+P2161:
+ definition: Vehicle Speed Sensor 'B' Intermittent/Erratic
+ suggestion:
+P2162:
+ definition: Vehicle Speed Sensor 'A' / 'B' Correlation
+ suggestion:
+P2163:
+ definition: Throttle/Pedal Position Sensor 'A' Maximum Stop Performance
+ suggestion:
+P2164:
+ definition: Throttle/Pedal Position Sensor 'B' Maximum Stop Performance
+ suggestion:
+P2165:
+ definition: Throttle/Pedal Position Sensor 'C' Maximum Stop Performance
+ suggestion:
+P2166:
+ definition: Throttle/Pedal Position Sensor 'D' Maximum Stop Performance
+ suggestion:
+P2167:
+ definition: Throttle/Pedal Position Sensor 'E' Maximum Stop Performance
+ suggestion:
+P2168:
+ definition: Throttle/Pedal Position Sensor 'F' Maximum Stop Performance
+ suggestion:
+P2169:
+ definition: Exhaust Pressure Regulator Vent Solenoid Control Circuit/Open
+ suggestion:
+P2170:
+ definition: Exhaust Pressure Regulator Vent Solenoid Control Circuit Low
+ suggestion:
+P2171:
+ definition: Exhaust Pressure Regulator Vent Solenoid Control Circuit High
+ suggestion:
+P2172:
+ definition: Throttle Actuator Control System - Sudden High Airflow Detected
+ suggestion:
+P2173:
+ definition: Throttle Actuator Control System - High Airflow Detected
+ suggestion:
+P2174:
+ definition: Throttle Actuator Control System - Sudden Low Airflow Detected
+ suggestion:
+P2175:
+ definition: Throttle Actuator Control System - Low Airflow Detected
+ suggestion:
+P2176:
+ definition: Throttle Actuator Control System - Idle Position Not Learned
+ suggestion:
+P2177:
+ definition: System Too Lean Off Idle
+ suggestion:
+P2178:
+ definition: System Too Rich Off Idle
+ suggestion:
+P2179:
+ definition: System Too Lean Off Idle
+ suggestion:
+P2180:
+ definition: System Too Rich Off Idle
+ suggestion:
+P2181:
+ definition: Cooling System Performance
+ suggestion:
+P2182:
+ definition: Engine Coolant Temperature Sensor 2 Circuit
+ suggestion:
+P2183:
+ definition: Engine Coolant Temperature Sensor 2 Circuit Range/Performance
+ suggestion:
+P2184:
+ definition: Engine Coolant Temperature Sensor 2 Circuit Low
+ suggestion:
+P2185:
+ definition: Engine Coolant Temperature Sensor 2 Circuit High
+ suggestion:
+P2186:
+ definition: Engine Coolant Temperature Sensor 2 Circuit Intermittent/Erratic
+ suggestion:
+P2187:
+ definition: System Too Lean at Idle
+ suggestion:
+P2188:
+ definition: System Too Rich at Idle
+ suggestion:
+P2189:
+ definition: System Too Lean at Idle
+ suggestion:
+P2190:
+ definition: System Too Rich at Idle
+ suggestion:
+P2191:
+ definition: System Too Lean at Higher Load
+ suggestion:
+P2192:
+ definition: System Too Rich at Higher Load
+ suggestion:
+P2193:
+ definition: System Too Lean at Higher Load
+ suggestion:
+P2194:
+ definition: System Too Rich at Higher Load
+ suggestion:
+P2195:
+ definition: O2 Sensor Signal Stuck Lean
+ suggestion:
+P2196:
+ definition: O2 Sensor Signal Stuck Rich
+ suggestion:
+P2197:
+ definition: O2 Sensor Signal Stuck Lean
+ suggestion:
+P2198:
+ definition: O2 Sensor Signal Stuck Rich
+ suggestion:
+P2199:
+ definition: Intake Air Temperature Sensor 1 / 2 Correlation
+ suggestion:
+P2200:
+ definition: NOx Sensor Circuit
+ suggestion:
+P2201:
+ definition: NOx Sensor Circuit Range/Performance
+ suggestion:
+P2202:
+ definition: NOx Sensor Circuit Low Input
+ suggestion:
+P2203:
+ definition: NOx Sensor Circuit High Input
+ suggestion:
+P2204:
+ definition: NOx Sensor Circuit Intermittent Input
+ suggestion:
+P2205:
+ definition: NOx Sensor Heater Control Circuit/Open
+ suggestion:
+P2206:
+ definition: NOx Sensor Heater Control Circuit Low
+ suggestion:
+P2207:
+ definition: NOx Sensor Heater Control Circuit High
+ suggestion:
+P2208:
+ definition: NOx Sensor Heater Sense Circuit
+ suggestion:
+P2209:
+ definition: NOx Sensor Heater Sense Circuit Range/Performance
+ suggestion:
+P2210:
+ definition: NOx Sensor Heater Sense Circuit Low Input
+ suggestion:
+P2211:
+ definition: NOx Sensor Heater Sense Circuit High Input
+ suggestion:
+P2212:
+ definition: NOx Sensor Heater Sense Circuit Intermittent
+ suggestion:
+P2213:
+ definition: NOx Sensor Circuit
+ suggestion:
+P2214:
+ definition: NOx Sensor Circuit Range/Performance
+ suggestion:
+P2215:
+ definition: NOx Sensor Circuit Low Input
+ suggestion:
+P2216:
+ definition: NOx Sensor Circuit High Input
+ suggestion:
+P2217:
+ definition: NOx Sensor Circuit Intermittent Input
+ suggestion:
+P2218:
+ definition: NOx Sensor Heater Control Circuit/Open
+ suggestion:
+P2219:
+ definition: NOx Sensor Heater Control Circuit Low
+ suggestion:
+P2220:
+ definition: NOx Sensor Heater Control Circuit High
+ suggestion:
+P2221:
+ definition: NOx Sensor Heater Sense Circuit
+ suggestion:
+P2222:
+ definition: NOx Sensor Heater Sense Circuit Range/Performance
+ suggestion:
+P2223:
+ definition: NOx Sensor Heater Sense Circuit Low
+ suggestion:
+P2224:
+ definition: NOx Sensor Heater Sense Circuit High
+ suggestion:
+P2225:
+ definition: NOx Sensor Heater Sense Circuit Intermittent
+ suggestion:
+P2226:
+ definition: Barometric Pressure Circuit
+ suggestion:
+P2227:
+ definition: Barometric Pressure Circuit Range/Performance
+ suggestion:
+P2228:
+ definition: Barometric Pressure Circuit Low
+ suggestion:
+P2229:
+ definition: Barometric Pressure Circuit High
+ suggestion:
+P2230:
+ definition: Barometric Pressure Circuit Intermittent
+ suggestion:
+P2231:
+ definition: O2 Sensor Signal Circuit Shorted to Heater Circuit
+ suggestion:
+P2232:
+ definition: O2 Sensor Signal Circuit Shorted to Heater Circuit
+ suggestion:
+P2233:
+ definition: O2 Sensor Signal Circuit Shorted to Heater Circuit
+ suggestion:
+P2234:
+ definition: O2 Sensor Signal Circuit Shorted to Heater Circuit
+ suggestion:
+P2235:
+ definition: O2 Sensor Signal Circuit Shorted to Heater Circuit
+ suggestion:
+P2236:
+ definition: O2 Sensor Signal Circuit Shorted to Heater Circuit
+ suggestion:
+P2237:
+ definition: O2 Sensor Positive Current Control Circuit/Open
+ suggestion:
+P2238:
+ definition: O2 Sensor Positive Current Control Circuit Low
+ suggestion:
+P2239:
+ definition: O2 Sensor Positive Current Control Circuit High
+ suggestion:
+P2240:
+ definition: O2 Sensor Positive Current Control Circuit/Open
+ suggestion:
+P2241:
+ definition: O2 Sensor Positive Current Control Circuit Low
+ suggestion:
+P2242:
+ definition: O2 Sensor Positive Current Control Circuit High
+ suggestion:
+P2243:
+ definition: O2 Sensor Reference Voltage Circuit/Open
+ suggestion:
+P2244:
+ definition: O2 Sensor Reference Voltage Performance
+ suggestion:
+P2245:
+ definition: O2 Sensor Reference Voltage Circuit Low
+ suggestion:
+P2246:
+ definition: O2 Sensor Reference Voltage Circuit High
+ suggestion:
+P2247:
+ definition: O2 Sensor Reference Voltage Circuit/Open
+ suggestion:
+P2248:
+ definition: O2 Sensor Reference Voltage Performance
+ suggestion:
+P2249:
+ definition: O2 Sensor Reference Voltage Circuit Low
+ suggestion:
+P2250:
+ definition: O2 Sensor Reference Voltage Circuit High
+ suggestion:
+P2251:
+ definition: O2 Sensor Negative Current Control Circuit/Open
+ suggestion:
+P2252:
+ definition: O2 Sensor Negative Current Control Circuit Low
+ suggestion:
+P2253:
+ definition: O2 Sensor Negative Current Control Circuit High
+ suggestion:
+P2254:
+ definition: O2 Sensor Negative Current Control Circuit/Open
+ suggestion:
+P2255:
+ definition: O2 Sensor Negative Current Control Circuit Low
+ suggestion:
+P2256:
+ definition: O2 Sensor Negative Current Control Circuit High
+ suggestion:
+P2257:
+ definition: Secondary Air Injection System Control 'A' Circuit Low
+ suggestion:
+P2258:
+ definition: Secondary Air Injection System Control 'A' Circuit High
+ suggestion:
+P2259:
+ definition: Secondary Air Injection System Control 'B' Circuit Low
+ suggestion:
+P2260:
+ definition: Secondary Air Injection System Control 'B' Circuit High
+ suggestion:
+P2261:
+ definition: Turbo/Super Charger Bypass Valve - Mechanical
+ suggestion:
+P2262:
+ definition: Turbo Boost Pressure Not Detected - Mechanical
+ suggestion:
+P2263:
+ definition: Turbo/Super Charger Boost System Performance
+ suggestion:
+P2264:
+ definition: Water in Fuel Sensor Circuit
+ suggestion:
+P2265:
+ definition: Water in Fuel Sensor Circuit Range/Performance
+ suggestion:
+P2266:
+ definition: Water in Fuel Sensor Circuit Low
+ suggestion:
+P2267:
+ definition: Water in Fuel Sensor Circuit High
+ suggestion:
+P2268:
+ definition: Water in Fuel Sensor Circuit Intermittent
+ suggestion:
+P2269:
+ definition: Water in Fuel Condition
+ suggestion:
+P2270:
+ definition: O2 Sensor Signal Stuck Lean
+ suggestion:
+P2271:
+ definition: O2 Sensor Signal Stuck Rich
+ suggestion:
+P2272:
+ definition: O2 Sensor Signal Stuck Lean
+ suggestion:
+P2273:
+ definition: O2 Sensor Signal Stuck Rich
+ suggestion:
+P2274:
+ definition: O2 Sensor Signal Stuck Lean
+ suggestion:
+P2275:
+ definition: O2 Sensor Signal Stuck Rich
+ suggestion:
+P2276:
+ definition: O2 Sensor Signal Stuck Lean
+ suggestion:
+P2277:
+ definition: O2 Sensor Signal Stuck Rich
+ suggestion:
+P2278:
+ definition: O2 Sensor Signals Swapped Bank 1 Sensor 3 / Bank 2 Sensor 3
+ suggestion:
+P2279:
+ definition: Intake Air System Leak
+ suggestion:
+P2280:
+ definition: Air Flow Restriction / Air Leak Between Air Filter and MAF
+ suggestion:
+P2281:
+ definition: Air Leak Between MAF and Throttle Body
+ suggestion:
+P2282:
+ definition: Air Leak Between Throttle Body and Intake Valves
+ suggestion:
+P2283:
+ definition: Injector Control Pressure Sensor Circuit
+ suggestion:
+P2284:
+ definition: Injector Control Pressure Sensor Circuit Range/Performance
+ suggestion:
+P2285:
+ definition: Injector Control Pressure Sensor Circuit Low
+ suggestion:
+P2286:
+ definition: Injector Control Pressure Sensor Circuit High
+ suggestion:
+P2287:
+ definition: Injector Control Pressure Sensor Circuit Intermittent
+ suggestion:
+P2288:
+ definition: Injector Control Pressure Too High
+ suggestion:
+P2289:
+ definition: Injector Control Pressure Too High - Engine Off
+ suggestion:
+P2290:
+ definition: Injector Control Pressure Too Low
+ suggestion:
+P2291:
+ definition: Injector Control Pressure Too Low - Engine Cranking
+ suggestion:
+P2292:
+ definition: Injector Control Pressure Erratic
+ suggestion:
+P2293:
+ definition: Fuel Pressure Regulator 2 Performance
+ suggestion:
+P2294:
+ definition: Fuel Pressure Regulator 2 Control Circuit
+ suggestion:
+P2295:
+ definition: Fuel Pressure Regulator 2 Control Circuit Low
+ suggestion:
+P2296:
+ definition: Fuel Pressure Regulator 2 Control Circuit High
+ suggestion:
+P2297:
+ definition: O2 Sensor Out of Range During Deceleration
+ suggestion:
+P2298:
+ definition: O2 Sensor Out of Range During Deceleration
+ suggestion:
+P2299:
+ definition: Brake Pedal Position / Accelerator Pedal Position Incompatible
+ suggestion:
+P2300:
+ definition: Ignition Coil 'A' Primary Control Circuit Low
+ suggestion:
+P2301:
+ definition: Ignition Coil 'A' Primary Control Circuit High
+ suggestion:
+P2302:
+ definition: Ignition Coil 'A' Secondary Circuit
+ suggestion:
+P2303:
+ definition: Ignition Coil 'B' Primary Control Circuit Low
+ suggestion:
+P2304:
+ definition: Ignition Coil 'B' Primary Control Circuit High
+ suggestion:
+P2305:
+ definition: Ignition Coil 'B' Secondary Circuit
+ suggestion:
+P2306:
+ definition: Ignition Coil 'C' Primary Control Circuit Low
+ suggestion:
+P2307:
+ definition: Ignition Coil 'C' Primary Control Circuit High
+ suggestion:
+P2308:
+ definition: Ignition Coil 'C' Secondary Circuit
+ suggestion:
+P2309:
+ definition: Ignition Coil 'D' Primary Control Circuit Low
+ suggestion:
+P2310:
+ definition: Ignition Coil 'D' Primary Control Circuit High
+ suggestion:
+P2311:
+ definition: Ignition Coil 'D' Secondary Circuit
+ suggestion:
+P2312:
+ definition: Ignition Coil 'E' Primary Control Circuit Low
+ suggestion:
+P2313:
+ definition: Ignition Coil 'E' Primary Control Circuit High
+ suggestion:
+P2314:
+ definition: Ignition Coil 'E' Secondary Circuit
+ suggestion:
+P2315:
+ definition: Ignition Coil 'F' Primary Control Circuit Low
+ suggestion:
+P2316:
+ definition: Ignition Coil 'F' Primary Control Circuit High
+ suggestion:
+P2317:
+ definition: Ignition Coil 'F' Secondary Circuit
+ suggestion:
+P2318:
+ definition: Ignition Coil 'G' Primary Control Circuit Low
+ suggestion:
+P2319:
+ definition: Ignition Coil 'G' Primary Control Circuit High
+ suggestion:
+P2320:
+ definition: Ignition Coil 'G' Secondary Circuit
+ suggestion:
+P2321:
+ definition: Ignition Coil 'H' Primary Control Circuit Low
+ suggestion:
+P2322:
+ definition: Ignition Coil 'H' Primary Control Circuit High
+ suggestion:
+P2323:
+ definition: Ignition Coil 'H' Secondary Circuit
+ suggestion:
+P2324:
+ definition: Ignition Coil 'I' Primary Control Circuit Low
+ suggestion:
+P2325:
+ definition: Ignition Coil 'I' Primary Control Circuit High
+ suggestion:
+P2326:
+ definition: Ignition Coil 'I' Secondary Circuit
+ suggestion:
+P2327:
+ definition: Ignition Coil 'J' Primary Control Circuit Low
+ suggestion:
+P2328:
+ definition: Ignition Coil 'J' Primary Control Circuit High
+ suggestion:
+P2329:
+ definition: Ignition Coil 'J' Secondary Circuit
+ suggestion:
+P2330:
+ definition: Ignition Coil 'K' Primary Control Circuit Low
+ suggestion:
+P2331:
+ definition: Ignition Coil 'K' Primary Control Circuit High
+ suggestion:
+P2332:
+ definition: Ignition Coil 'K' Secondary Circuit
+ suggestion:
+P2333:
+ definition: Ignition Coil 'L' Primary Control Circuit Low
+ suggestion:
+P2334:
+ definition: Ignition Coil 'L' Primary Control Circuit High
+ suggestion:
+P2335:
+ definition: Ignition Coil 'L' Secondary Circuit
+ suggestion:
+P2336:
+ definition: 'Cylinder #1 Above Knock Threshold'
+ suggestion:
+P2337:
+ definition: 'Cylinder #2 Above Knock Threshold'
+ suggestion:
+P2338:
+ definition: 'Cylinder #3 Above Knock Threshold'
+ suggestion:
+P2339:
+ definition: 'Cylinder #4 Above Knock Threshold'
+ suggestion:
+P2340:
+ definition: 'Cylinder #5 Above Knock Threshold'
+ suggestion:
+P2341:
+ definition: 'Cylinder #6 Above Knock Threshold'
+ suggestion:
+P2342:
+ definition: 'Cylinder #7 Above Knock Threshold'
+ suggestion:
+P2343:
+ definition: 'Cylinder #8 Above Knock Threshold'
+ suggestion:
+P2344:
+ definition: 'Cylinder #9 Above Knock Threshold'
+ suggestion:
+P2345:
+ definition: 'Cylinder #10 Above Knock Threshold'
+ suggestion:
+P2346:
+ definition: 'Cylinder #11 Above Knock Threshold'
+ suggestion:
+P2347:
+ definition: 'Cylinder #12 Above Knock Threshold'
+ suggestion:
+P2400:
+ definition: Evaporative Emission System Leak Detection Pump Control Circuit/Open
+ suggestion:
+P2401:
+ definition: Evaporative Emission System Leak Detection Pump Control Circuit Low
+ suggestion:
+P2402:
+ definition: Evaporative Emission System Leak Detection Pump Control Circuit High
+ suggestion:
+P2403:
+ definition: Evaporative Emission System Leak Detection Pump Sense Circuit/Open
+ suggestion:
+P2404:
+ definition: Evaporative Emission System Leak Detection Pump Sense Circuit Range/Performance
+ suggestion:
+P2405:
+ definition: Evaporative Emission System Leak Detection Pump Sense Circuit Low
+ suggestion:
+P2406:
+ definition: Evaporative Emission System Leak Detection Pump Sense Circuit High
+ suggestion:
+P2407:
+ definition: Evaporative Emission System Leak Detection Pump Sense Circuit Intermittent/Erratic
+ suggestion:
+P2408:
+ definition: Fuel Cap Sensor/Switch Circuit
+ suggestion:
+P2409:
+ definition: Fuel Cap Sensor/Switch Circuit Range/Performance
+ suggestion:
+P2410:
+ definition: Fuel Cap Sensor/Switch Circuit Low
+ suggestion:
+P2411:
+ definition: Fuel Cap Sensor/Switch Circuit High
+ suggestion:
+P2412:
+ definition: Fuel Cap Sensor/Switch Circuit Intermittent/Erratic
+ suggestion:
+P2413:
+ definition: Exhaust Gas Recirculation System Performance
+ suggestion:
+P2414:
+ definition: O2 Sensor Exhaust Sample Error
+ suggestion:
+P2415:
+ definition: O2 Sensor Exhaust Sample Error
+ suggestion:
+P2416:
+ definition: O2 Sensor Signals Swapped Bank 1 Sensor 2 / Bank 1 Sensor 3
+ suggestion:
+P2417:
+ definition: O2 Sensor Signals Swapped Bank 2 Sensor 2 / Bank 2 Sensor 3
+ suggestion:
+P2418:
+ definition: Evaporative Emission System Switching Valve Control Circuit / Open
+ suggestion:
+P2419:
+ definition: Evaporative Emission System Switching Valve Control Circuit Low
+ suggestion:
+P2420:
+ definition: Evaporative Emission System Switching Valve Control Circuit High
+ suggestion:
+P2421:
+ definition: Evaporative Emission System Vent Valve Stuck Open
+ suggestion:
+P2422:
+ definition: Evaporative Emission System Vent Valve Stuck Closed
+ suggestion:
+P2423:
+ definition: HC Adsorption Catalyst Efficiency Below Threshold
+ suggestion:
+P2424:
+ definition: HC Adsorption Catalyst Efficiency Below Threshold
+ suggestion:
+P2425:
+ definition: Exhaust Gas Recirculation Cooling Valve Control Circuit/Open
+ suggestion:
+P2426:
+ definition: Exhaust Gas Recirculation Cooling Valve Control Circuit Low
+ suggestion:
+P2427:
+ definition: Exhaust Gas Recirculation Cooling Valve Control Circuit High
+ suggestion:
+P2428:
+ definition: Exhaust Gas Temperature Too High
+ suggestion:
+P2429:
+ definition: Exhaust Gas Temperature Too High
+ suggestion:
+P2430:
+ definition: Secondary Air Injection System Air Flow/Pressure Sensor Circuit
+ suggestion:
+P2431:
+ definition: Secondary Air Injection System Air Flow/Pressure Sensor Circuit Range/Performance
+ suggestion:
+P2432:
+ definition: Secondary Air Injection System Air Flow/Pressure Sensor Circuit Low
+ suggestion:
+P2433:
+ definition: Secondary Air Injection System Air Flow/Pressure Sensor Circuit High
+ suggestion:
+P2434:
+ definition: Secondary Air Injection System Air Flow/Pressure Sensor Circuit Intermittent/Erratic
+ suggestion:
+P2435:
+ definition: Secondary Air Injection System Air Flow/Pressure Sensor Circuit
+ suggestion:
+P2436:
+ definition: Secondary Air Injection System Air Flow/Pressure Sensor Circuit Range/Performance
+ suggestion:
+P2437:
+ definition: Secondary Air Injection System Air Flow/Pressure Sensor Circuit Low
+ suggestion:
+P2438:
+ definition: Secondary Air Injection System Air Flow/Pressure Sensor Circuit High
+ suggestion:
+P2439:
+ definition: Secondary Air Injection System Air Flow/Pressure Sensor Circuit Intermittent/Erratic
+ suggestion:
+P2440:
+ definition: Secondary Air Injection System Switching Valve Stuck Open
+ suggestion:
+P2441:
+ definition: Secondary Air Injection System Switching Valve Stuck Closed
+ suggestion:
+P2442:
+ definition: Secondary Air Injection System Switching Valve Stuck Open
+ suggestion:
+P2443:
+ definition: Secondary Air Injection System Switching Valve Stuck Closed
+ suggestion:
+P2444:
+ definition: Secondary Air Injection System Pump Stuck On
+ suggestion:
+P2445:
+ definition: Secondary Air Injection System Pump Stuck Off
+ suggestion:
+P2446:
+ definition: Secondary Air Injection System Pump Stuck On
+ suggestion:
+P2447:
+ definition: Secondary Air Injection System Pump Stuck Off
+ suggestion:
+P2500:
+ definition: Generator Lamp/L-Terminal Circuit Low
+ suggestion:
+P2501:
+ definition: Generator Lamp/L-Terminal Circuit High
+ suggestion:
+P2502:
+ definition: Charging System Voltage
+ suggestion:
+P2503:
+ definition: Charging System Voltage Low
+ suggestion:
+P2504:
+ definition: Charging System Voltage High
+ suggestion:
+P2505:
+ definition: ECM/PCM Power Input Signal
+ suggestion:
+P2506:
+ definition: ECM/PCM Power Input Signal Range/Performance
+ suggestion:
+P2507:
+ definition: ECM/PCM Power Input Signal Low
+ suggestion:
+P2508:
+ definition: ECM/PCM Power Input Signal High
+ suggestion:
+P2509:
+ definition: ECM/PCM Power Input Signal Intermittent
+ suggestion:
+P2510:
+ definition: ECM/PCM Power Relay Sense Circuit Range/Performance
+ suggestion:
+P2511:
+ definition: ECM/PCM Power Relay Sense Circuit Intermittent
+ suggestion:
+P2512:
+ definition: Event Data Recorder Request Circuit/ Open
+ suggestion:
+P2513:
+ definition: Event Data Recorder Request Circuit Low
+ suggestion:
+P2514:
+ definition: Event Data Recorder Request Circuit High
+ suggestion:
+P2515:
+ definition: A/C Refrigerant Pressure Sensor 'B' Circuit
+ suggestion:
+P2516:
+ definition: A/C Refrigerant Pressure Sensor 'B' Circuit Range/Performance
+ suggestion:
+P2517:
+ definition: A/C Refrigerant Pressure Sensor 'B' Circuit Low
+ suggestion:
+P2518:
+ definition: A/C Refrigerant Pressure Sensor 'B' Circuit High
+ suggestion:
+P2519:
+ definition: A/C Request 'A' Circuit
+ suggestion:
+P2520:
+ definition: A/C Request 'A' Circuit Low
+ suggestion:
+P2521:
+ definition: A/C Request 'A' Circuit High
+ suggestion:
+P2522:
+ definition: A/C Request 'B' Circuit
+ suggestion:
+P2523:
+ definition: A/C Request 'B' Circuit Low
+ suggestion:
+P2524:
+ definition: A/C Request 'B' Circuit High
+ suggestion:
+P2525:
+ definition: Vacuum Reservoir Pressure Sensor Circuit
+ suggestion:
+P2526:
+ definition: Vacuum Reservoir Pressure Sensor Circuit Range/Performance
+ suggestion:
+P2527:
+ definition: Vacuum Reservoir Pressure Sensor Circuit Low
+ suggestion:
+P2528:
+ definition: Vacuum Reservoir Pressure Sensor Circuit High
+ suggestion:
+P2529:
+ definition: Vacuum Reservoir Pressure Sensor Circuit Intermittent
+ suggestion:
+P2530:
+ definition: Ignition Switch Run Position Circuit
+ suggestion:
+P2531:
+ definition: Ignition Switch Run Position Circuit Low
+ suggestion:
+P2532:
+ definition: Ignition Switch Run Position Circuit High
+ suggestion:
+P2533:
+ definition: Ignition Switch Run/Start Position Circuit
+ suggestion:
+P2534:
+ definition: Ignition Switch Run/Start Position Circuit Low
+ suggestion:
+P2535:
+ definition: Ignition Switch Run/Start Position Circuit High
+ suggestion:
+P2536:
+ definition: Ignition Switch Accessory Position Circuit
+ suggestion:
+P2537:
+ definition: Ignition Switch Accessory Position Circuit Low
+ suggestion:
+P2538:
+ definition: Ignition Switch Accessory Position Circuit High
+ suggestion:
+P2539:
+ definition: Low Pressure Fuel System Sensor Circuit
+ suggestion:
+P2540:
+ definition: Low Pressure Fuel System Sensor Circuit Range/Performance
+ suggestion:
+P2541:
+ definition: Low Pressure Fuel System Sensor Circuit Low
+ suggestion:
+P2542:
+ definition: Low Pressure Fuel System Sensor Circuit High
+ suggestion:
+P2543:
+ definition: Low Pressure Fuel System Sensor Circuit Intermittent
+ suggestion:
+P2544:
+ definition: Torque Management Request Input Signal 'A'
+ suggestion:
+P2545:
+ definition: Torque Management Request Input Signal 'A' Range/Performance
+ suggestion:
+P2546:
+ definition: Torque Management Request Input Signal 'A' Low
+ suggestion:
+P2547:
+ definition: Torque Management Request Input Signal 'A' High
+ suggestion:
+P2548:
+ definition: Torque Management Request Input Signal 'B'
+ suggestion:
+P2549:
+ definition: Torque Management Request Input Signal 'B' Range/Performance
+ suggestion:
+P2550:
+ definition: Torque Management Request Input Signal 'B' Low
+ suggestion:
+P2551:
+ definition: Torque Management Request Input Signal 'B' High
+ suggestion:
+P2552:
+ definition: Throttle/Fuel Inhibit Circuit
+ suggestion:
+P2553:
+ definition: Throttle/Fuel Inhibit Circuit Range/Performance
+ suggestion:
+P2554:
+ definition: Throttle/Fuel Inhibit Circuit Low
+ suggestion:
+P2555:
+ definition: Throttle/Fuel Inhibit Circuit High
+ suggestion:
+P2556:
+ definition: Engine Coolant Level Sensor/Switch Circuit
+ suggestion:
+P2557:
+ definition: Engine Coolant Level Sensor/Switch Circuit Range/Performance
+ suggestion:
+P2558:
+ definition: Engine Coolant Level Sensor/Switch Circuit Low
+ suggestion:
+P2559:
+ definition: Engine Coolant Level Sensor/Switch Circuit High
+ suggestion:
+P2560:
+ definition: Engine Coolant Level Low
+ suggestion:
+P2561:
+ definition: A/C Control Module Requested MIL Illumination
+ suggestion:
+P2562:
+ definition: Turbocharger Boost Control Position Sensor Circuit
+ suggestion:
+P2563:
+ definition: Turbocharger Boost Control Position Sensor Circuit Range/Performance
+ suggestion:
+P2564:
+ definition: Turbocharger Boost Control Position Sensor Circuit Low
+ suggestion:
+P2565:
+ definition: Turbocharger Boost Control Position Sensor Circuit High
+ suggestion:
+P2566:
+ definition: Turbocharger Boost Control Position Sensor Circuit Intermittent
+ suggestion:
+P2567:
+ definition: Direct Ozone Reduction Catalyst Temperature Sensor Circuit
+ suggestion:
+P2568:
+ definition: Direct Ozone Reduction Catalyst Temperature Sensor Circuit Range/Performance
+ suggestion:
+P2569:
+ definition: Direct Ozone Reduction Catalyst Temperature Sensor Circuit Low
+ suggestion:
+P2570:
+ definition: Direct Ozone Reduction Catalyst Temperature Sensor Circuit High
+ suggestion:
+P2571:
+ definition: Direct Ozone Reduction Catalyst Temperature Sensor Circuit Intermittent/Erratic
+ suggestion:
+P2572:
+ definition: Direct Ozone Reduction Catalyst Deterioration Sensor Circuit
+ suggestion:
+P2573:
+ definition: Direct Ozone Reduction Catalyst Deterioration Sensor Circuit Range/Performance
+ suggestion:
+P2574:
+ definition: Direct Ozone Reduction Catalyst Deterioration Sensor Circuit Low
+ suggestion:
+P2575:
+ definition: Direct Ozone Reduction Catalyst Deterioration Sensor Circuit High
+ suggestion:
+P2576:
+ definition: Direct Ozone Reduction Catalyst Deterioration Sensor Circuit Intermittent/Erratic
+ suggestion:
+P2577:
+ definition: Direct Ozone Reduction Catalyst Efficiency Below Threshold
+ suggestion:
+P2600:
+ definition: Coolant Pump Control Circuit/Open
+ suggestion:
+P2601:
+ definition: Coolant Pump Control Circuit Range/Performance
+ suggestion:
+P2602:
+ definition: Coolant Pump Control Circuit Low
+ suggestion:
+P2603:
+ definition: Coolant Pump Control Circuit High
+ suggestion:
+P2604:
+ definition: Intake Air Heater 'A' Circuit Range/Performance
+ suggestion:
+P2605:
+ definition: Intake Air Heater 'A' Circuit/Open
+ suggestion:
+P2606:
+ definition: Intake Air Heater 'B' Circuit Range/Performance
+ suggestion:
+P2607:
+ definition: Intake Air Heater 'B' Circuit Low
+ suggestion:
+P2608:
+ definition: Intake Air Heater 'B' Circuit High
+ suggestion:
+P2609:
+ definition: Intake Air Heater System Performance
+ suggestion:
+P2610:
+ definition: ECM/PCM Internal Engine Off Timer Performance
+ suggestion:
+P2611:
+ definition: A/C Refrigerant Distribution Valve Control Circuit/Open
+ suggestion:
+P2612:
+ definition: A/C Refrigerant Distribution Valve Control Circuit Low
+ suggestion:
+P2613:
+ definition: A/C Refrigerant Distribution Valve Control Circuit High
+ suggestion:
+P2614:
+ definition: Camshaft Position Signal Output Circuit/Open
+ suggestion:
+P2615:
+ definition: Camshaft Position Signal Output Circuit Low
+ suggestion:
+P2616:
+ definition: Camshaft Position Signal Output Circuit High
+ suggestion:
+P2617:
+ definition: Crankshaft Position Signal Output Circuit/Open
+ suggestion:
+P2618:
+ definition: Crankshaft Position Signal Output Circuit Low
+ suggestion:
+P2619:
+ definition: Crankshaft Position Signal Output Circuit High
+ suggestion:
+P2620:
+ definition: Throttle Position Output Circuit/Open
+ suggestion:
+P2621:
+ definition: Throttle Position Output Circuit Low
+ suggestion:
+P2622:
+ definition: Throttle Position Output Circuit High
+ suggestion:
+P2623:
+ definition: Injector Control Pressure Regulator Circuit/Open
+ suggestion:
+P2624:
+ definition: Injector Control Pressure Regulator Circuit Low
+ suggestion:
+P2625:
+ definition: Injector Control Pressure Regulator Circuit High
+ suggestion:
+P2626:
+ definition: O2 Sensor Pumping Current Trim Circuit/Open
+ suggestion:
+P2627:
+ definition: O2 Sensor Pumping Current Trim Circuit Low
+ suggestion:
+P2628:
+ definition: O2 Sensor Pumping Current Trim Circuit High
+ suggestion:
+P2629:
+ definition: O2 Sensor Pumping Current Trim Circuit/Open
+ suggestion:
+P2630:
+ definition: O2 Sensor Pumping Current Trim Circuit Low
+ suggestion:
+P2631:
+ definition: O2 Sensor Pumping Current Trim Circuit High
+ suggestion:
+P2632:
+ definition: Fuel Pump 'B' Control Circuit /Open
+ suggestion:
+P2633:
+ definition: Fuel Pump 'B' Control Circuit Low
+ suggestion:
+P2634:
+ definition: Fuel Pump 'B' Control Circuit High
+ suggestion:
+P2635:
+ definition: Fuel Pump 'A' Low Flow / Performance
+ suggestion:
+P2636:
+ definition: Fuel Pump 'B' Low Flow / Performance
+ suggestion:
+P2637:
+ definition: Torque Management Feedback Signal 'A'
+ suggestion:
+P2638:
+ definition: Torque Management Feedback Signal 'A' Range/Performance
+ suggestion:
+P2639:
+ definition: Torque Management Feedback Signal 'A' Low
+ suggestion:
+P2640:
+ definition: Torque Management Feedback Signal 'A' High
+ suggestion:
+P2641:
+ definition: Torque Management Feedback Signal 'B'
+ suggestion:
+P2642:
+ definition: Torque Management Feedback Signal 'B' Range/Performance
+ suggestion:
+P2643:
+ definition: Torque Management Feedback Signal 'B' Low
+ suggestion:
+P2644:
+ definition: Torque Management Feedback Signal 'B' High
+ suggestion:
+P2645:
+ definition: '''A'' Rocker Arm Actuator Control Circuit/Open'
+ suggestion:
+P2646:
+ definition: '''A'' Rocker Arm Actuator System Performance or Stuck Off'
+ suggestion:
+P2647:
+ definition: '''A'' Rocker Arm Actuator System Stuck On'
+ suggestion:
+P2648:
+ definition: '''A'' Rocker Arm Actuator Control Circuit Low'
+ suggestion:
+P2649:
+ definition: '''A'' Rocker Arm Actuator Control Circuit High'
+ suggestion:
+P2650:
+ definition: '''B'' Rocker Arm Actuator Control Circuit/Open'
+ suggestion:
+P2651:
+ definition: '''B'' Rocker Arm Actuator System Performance or Stuck Off'
+ suggestion:
+P2652:
+ definition: '''B'' Rocker Arm Actuator System Stuck On'
+ suggestion:
+P2653:
+ definition: '''B'' Rocker Arm Actuator Control Circuit Low'
+ suggestion:
+P2654:
+ definition: '''B'' Rocker Arm Actuator Control Circuit High'
+ suggestion:
+P2655:
+ definition: '''A'' Rocker Arm Actuator Control Circuit/Open'
+ suggestion:
+P2656:
+ definition: '''A'' Rocker Arm Actuator System Performance or Stuck Off'
+ suggestion:
+P2657:
+ definition: '''A'' Rocker Arm Actuator System Stuck On'
+ suggestion:
+P2658:
+ definition: '''A'' Rocker Arm Actuator Control Circuit Low'
+ suggestion:
+P2659:
+ definition: '''A'' Rocker Arm Actuator Control Circuit High'
+ suggestion:
+P2660:
+ definition: '''B'' Rocker Arm Actuator Control Circuit/Open'
+ suggestion:
+P2661:
+ definition: '''B'' Rocker Arm Actuator System Performance or Stuck Off'
+ suggestion:
+P2662:
+ definition: '''B'' Rocker Arm Actuator System Stuck On'
+ suggestion:
+P2663:
+ definition: '''B'' Rocker Arm Actuator Control Circuit Low'
+ suggestion:
+P2664:
+ definition: '''B'' Rocker Arm Actuator Control Circuit High'
+ suggestion:
+P2665:
+ definition: Fuel Shutoff Valve 'B' Control Circuit/Open
+ suggestion:
+P2666:
+ definition: Fuel Shutoff Valve 'B' Control Circuit Low
+ suggestion:
+P2667:
+ definition: Fuel Shutoff Valve 'B' Control Circuit High
+ suggestion:
+P2668:
+ definition: Fuel Mode Indicator Lamp Control Circuit
+ suggestion:
+P2669:
+ definition: Actuator Supply Voltage 'B' Circuit /Open
+ suggestion:
+P2670:
+ definition: Actuator Supply Voltage 'B' Circuit Low
+ suggestion:
+P2671:
+ definition: Actuator Supply Voltage 'B' Circuit High
+ suggestion:
+P2700:
+ definition: Transmission Friction Element 'A' Apply Time Range/Performance
+ suggestion:
+P2701:
+ definition: Transmission Friction Element 'B' Apply Time Range/Performance
+ suggestion:
+P2702:
+ definition: Transmission Friction Element 'C' Apply Time Range/Performance
+ suggestion:
+P2703:
+ definition: Transmission Friction Element 'D' Apply Time Range/Performance
+ suggestion:
+P2704:
+ definition: Transmission Friction Element 'E' Apply Time Range/Performance
+ suggestion:
+P2705:
+ definition: Transmission Friction Element 'F' Apply Time Range/Performance
+ suggestion:
+P2706:
+ definition: Shift Solenoid 'F'
+ suggestion:
+P2707:
+ definition: Shift Solenoid 'F' Performance or Stuck Off
+ suggestion:
+P2708:
+ definition: Shift Solenoid 'F' Stuck On
+ suggestion:
+P2709:
+ definition: Shift Solenoid 'F' Electrical
+ suggestion:
+P2710:
+ definition: Shift Solenoid 'F' Intermittent
+ suggestion:
+P2711:
+ definition: Unexpected Mechanical Gear Disengagement
+ suggestion:
+P2712:
+ definition: Hydraulic Power Unit Leakage
+ suggestion:
+P2713:
+ definition: Pressure Control Solenoid 'D'
+ suggestion:
+P2714:
+ definition: Pressure Control Solenoid 'D' Performance or Stuck Off
+ suggestion:
+P2715:
+ definition: Pressure Control Solenoid 'D' Stuck On
+ suggestion:
+P2716:
+ definition: Pressure Control Solenoid 'D' Electrical
+ suggestion:
+P2717:
+ definition: Pressure Control Solenoid 'D' Intermittent
+ suggestion:
+P2718:
+ definition: Pressure Control Solenoid 'D' Control Circuit / Open
+ suggestion:
+P2719:
+ definition: Pressure Control Solenoid 'D' Control Circuit Range/Performance
+ suggestion:
+P2720:
+ definition: Pressure Control Solenoid 'D' Control Circuit Low
+ suggestion:
+P2721:
+ definition: Pressure Control Solenoid 'D' Control Circuit High
+ suggestion:
+P2722:
+ definition: Pressure Control Solenoid 'E'
+ suggestion:
+P2723:
+ definition: Pressure Control Solenoid 'E' Performance or Stuck Off
+ suggestion:
+P2724:
+ definition: Pressure Control Solenoid 'E' Stuck On
+ suggestion:
+P2725:
+ definition: Pressure Control Solenoid 'E' Electrical
+ suggestion:
+P2726:
+ definition: Pressure Control Solenoid 'E' Intermittent
+ suggestion:
+P2727:
+ definition: Pressure Control Solenoid 'E' Control Circuit / Open
+ suggestion:
+P2728:
+ definition: Pressure Control Solenoid 'E' Control Circuit Range/Performance
+ suggestion:
+P2729:
+ definition: Pressure Control Solenoid 'E' Control Circuit Low
+ suggestion:
+P2730:
+ definition: Pressure Control Solenoid 'E' Control Circuit High
+ suggestion:
+P2731:
+ definition: Pressure Control Solenoid 'F'
+ suggestion:
+P2732:
+ definition: Pressure Control Solenoid 'F' Performance or Stuck Off
+ suggestion:
+P2733:
+ definition: Pressure Control Solenoid 'F' Stuck On
+ suggestion:
+P2734:
+ definition: Pressure Control Solenoid 'F' Electrical
+ suggestion:
+P2735:
+ definition: Pressure Control Solenoid 'F' Intermittent
+ suggestion:
+P2736:
+ definition: Pressure Control Solenoid 'F' Control Circuit/Open
+ suggestion:
+P2737:
+ definition: Pressure Control Solenoid 'F' Control Circuit Range/Performance
+ suggestion:
+P2738:
+ definition: Pressure Control Solenoid 'F' Control Circuit Low
+ suggestion:
+P2739:
+ definition: Pressure Control Solenoid 'F' Control Circuit High
+ suggestion:
+P2740:
+ definition: Transmission Fluid Temperature Sensor 'B' Circuit
+ suggestion:
+P2741:
+ definition: Transmission Fluid Temperature Sensor 'B' Circuit Range Performance
+ suggestion:
+P2742:
+ definition: Transmission Fluid Temperature Sensor 'B' Circuit Low
+ suggestion:
+P2743:
+ definition: Transmission Fluid Temperature Sensor 'B' Circuit High
+ suggestion:
+P2744:
+ definition: Transmission Fluid Temperature Sensor 'B' Circuit Intermittent
+ suggestion:
+P2745:
+ definition: Intermediate Shaft Speed Sensor 'B' Circuit
+ suggestion:
+P2746:
+ definition: Intermediate Shaft Speed Sensor 'B' Circuit Range/Performance
+ suggestion:
+P2747:
+ definition: Intermediate Shaft Speed Sensor 'B' Circuit No Signal
+ suggestion:
+P2748:
+ definition: Intermediate Shaft Speed Sensor 'B' Circuit Intermittent
+ suggestion:
+P2749:
+ definition: Intermediate Shaft Speed Sensor 'C' Circuit
+ suggestion:
+P2750:
+ definition: Intermediate Shaft Speed Sensor 'C' Circuit Range/Performance
+ suggestion:
+P2751:
+ definition: Intermediate Shaft Speed Sensor 'C' Circuit No Signal
+ suggestion:
+P2752:
+ definition: Intermediate Shaft Speed Sensor 'C' Circuit Intermittent
+ suggestion:
+P2753:
+ definition: Transmission Fluid Cooler Control Circuit/Open
+ suggestion:
+P2754:
+ definition: Transmission Fluid Cooler Control Circuit Low
+ suggestion:
+P2755:
+ definition: Transmission Fluid Cooler Control Circuit High
+ suggestion:
+P2756:
+ definition: Torque Converter Clutch Pressure Control Solenoid
+ suggestion:
+P2757:
+ definition: Torque Converter Clutch Pressure Control Solenoid Control Circuit Performance or Stuck Off
+ suggestion:
+P2758:
+ definition: Torque Converter Clutch Pressure Control Solenoid Control Circuit Stuck On
+ suggestion:
+P2759:
+ definition: Torque Converter Clutch Pressure Control Solenoid Control Circuit Electrical
+ suggestion:
+P2760:
+ definition: Torque Converter Clutch Pressure Control Solenoid Control Circuit Intermittent
+ suggestion:
+P2761:
+ definition: Torque Converter Clutch Pressure Control Solenoid Control Circuit/Open
+ suggestion:
+P2762:
+ definition: Torque Converter Clutch Pressure Control Solenoid Control Circuit Range/Performance
+ suggestion:
+P2763:
+ definition: Torque Converter Clutch Pressure Control Solenoid Control Circuit High
+ suggestion:
+P2764:
+ definition: Torque Converter Clutch Pressure Control Solenoid Control Circuit Low
+ suggestion:
+P2765:
+ definition: Input/Turbine Speed Sensor 'B' Circuit
+ suggestion:
+P2766:
+ definition: Input/Turbine Speed Sensor 'B' Circuit Range/Performance
+ suggestion:
+P2767:
+ definition: Input/Turbine Speed Sensor 'B' Circuit No Signal
+ suggestion:
+P2768:
+ definition: Input/Turbine Speed Sensor 'B' Circuit Intermittent
+ suggestion:
+P2769:
+ definition: Torque Converter Clutch Circuit Low
+ suggestion:
+P2770:
+ definition: Torque Converter Clutch Circuit High
+ suggestion:
+P2771:
+ definition: Four Wheel Drive (4WD) Low Switch Circuit
+ suggestion:
+P2772:
+ definition: Four Wheel Drive (4WD) Low Switch Circuit Range/Performance
+ suggestion:
+P2773:
+ definition: Four Wheel Drive (4WD) Low Switch Circuit Low
+ suggestion:
+P2774:
+ definition: Four Wheel Drive (4WD) Low Switch Circuit High
+ suggestion:
+P2775:
+ definition: Upshift Switch Circuit Range/Performance
+ suggestion:
+P2776:
+ definition: Upshift Switch Circuit Low
+ suggestion:
+P2777:
+ definition: Upshift Switch Circuit High
+ suggestion:
+P2778:
+ definition: Upshift Switch Circuit Intermittent/Erratic
+ suggestion:
+P2779:
+ definition: Downshift Switch Circuit Range/Performance
+ suggestion:
+P2780:
+ definition: Downshift Switch Circuit Low
+ suggestion:
+P2781:
+ definition: Downshift Switch Circuit High
+ suggestion:
+P2782:
+ definition: Downshift Switch Circuit Intermittent/Erratic
+ suggestion:
+P2783:
+ definition: Torque Converter Temperature Too High
+ suggestion:
+P2784:
+ definition: Input/Turbine Speed Sensor 'A'/'B' Correlation
+ suggestion:
+P2785:
+ definition: Clutch Actuator Temperature Too High
+ suggestion:
+P2786:
+ definition: Gear Shift Actuator Temperature Too High
+ suggestion:
+P2787:
+ definition: Clutch Temperature Too High
+ suggestion:
+P2788:
+ definition: Auto Shift Manual Adaptive Learning at Limit
+ suggestion:
+P2789:
+ definition: Clutch Adaptive Learning at Limit
+ suggestion:
+P2790:
+ definition: Gate Select Direction Circuit
+ suggestion:
+P2791:
+ definition: Gate Select Direction Circuit Low
+ suggestion:
+P2792:
+ definition: Gate Select Direction Circuit High
+ suggestion:
+P2793:
+ definition: Gear Shift Direction Circuit
+ suggestion:
+P2794:
+ definition: Gear Shift Direction Circuit Low
+ suggestion:
+P2795:
+ definition: Gear Shift Direction Circuit High
+ suggestion:
+P2A00:
+ definition: O2 Sensor Circuit Range/Performance
+ suggestion:
+P2A01:
+ definition: O2 Sensor Circuit Range/Performance
+ suggestion:
+P2A02:
+ definition: O2 Sensor Circuit Range/Performance
+ suggestion:
+P2A03:
+ definition: O2 Sensor Circuit Range/Performance
+ suggestion:
+P2A04:
+ definition: O2 Sensor Circuit Range/Performance
+ suggestion:
+P2A05:
+ definition: O2 Sensor Circuit Range/Performance
+ suggestion:
+P3400:
+ definition: Cylinder Deactivation System
+ suggestion:
+P3401:
+ definition: Cylinder 1 Deactivation/lntake Valve Control Circuit/Open
+ suggestion:
+P3402:
+ definition: Cylinder 1 Deactivation/lntake Valve Control Performance
+ suggestion:
+P3403:
+ definition: Cylinder 1 Deactivation/lntake Valve Control Circuit Low
+ suggestion:
+P3404:
+ definition: Cylinder 1 Deactivation/lntake Valve Control Circuit High
+ suggestion:
+P3405:
+ definition: Cylinder 1 Exhaust Valve Control Circuit/Open
+ suggestion:
+P3406:
+ definition: Cylinder 1 Exhaust Valve Control Performance
+ suggestion:
+P3407:
+ definition: Cylinder 1 Exhaust Valve Control Circuit Low
+ suggestion:
+P3408:
+ definition: Cylinder 1 Exhaust Valve Control Circuit High
+ suggestion:
+P3409:
+ definition: Cylinder 2 Deactivation/lntake Valve Control Circuit/Open
+ suggestion:
+P3410:
+ definition: Cylinder 2 Deactivation/lntake Valve Control Performance
+ suggestion:
+P3411:
+ definition: Cylinder 2 Deactivation/lntake Valve Control Circuit Low
+ suggestion:
+P3412:
+ definition: Cylinder 2 Deactivation/lntake Valve Control Circuit High
+ suggestion:
+P3413:
+ definition: Cylinder 2 Exhaust Valve Control Circuit/Open
+ suggestion:
+P3414:
+ definition: Cylinder 2 Exhaust Valve Control Performance
+ suggestion:
+P3415:
+ definition: Cylinder 2 Exhaust Valve Control Circuit Low
+ suggestion:
+P3416:
+ definition: Cylinder 2 Exhaust Valve Control Circuit High
+ suggestion:
+P3417:
+ definition: Cylinder 3 Deactivation/lntake Valve Control Circuit/Open
+ suggestion:
+P3418:
+ definition: Cylinder 3 Deactivation/lntake Valve Control Performance
+ suggestion:
+P3419:
+ definition: Cylinder 3 Deactivation/lntake Valve Control Circuit Low
+ suggestion:
+P3420:
+ definition: Cylinder 3 Deactivation/lntake Valve Control Circuit High
+ suggestion:
+P3421:
+ definition: Cylinder 3 Exhaust Valve Control Circuit/Open
+ suggestion:
+P3422:
+ definition: Cylinder 3 Exhaust Valve Control Performance
+ suggestion:
+P3423:
+ definition: Cylinder 3 Exhaust Valve Control Circuit Low
+ suggestion:
+P3424:
+ definition: Cylinder 3 Exhaust Valve Control Circuit High
+ suggestion:
+P3425:
+ definition: Cylinder 4 Deactivation/lntake Valve Control Circuit/Open
+ suggestion:
+P3426:
+ definition: Cylinder 4 Deactivation/lntake Valve Control Performance
+ suggestion:
+P3427:
+ definition: Cylinder 4 Deactivation/lntake Valve Control Circuit Low
+ suggestion:
+P3428:
+ definition: Cylinder 4 Deactivation/lntake Valve Control Circuit High
+ suggestion:
+P3429:
+ definition: Cylinder 4 Exhaust Valve Control Circuit/Open
+ suggestion:
+P3430:
+ definition: Cylinder 4 Exhaust Valve Control Performance
+ suggestion:
+P3431:
+ definition: Cylinder 4 Exhaust Valve Control Circuit Low
+ suggestion:
+P3432:
+ definition: Cylinder 4 Exhaust Valve Control Circuit High
+ suggestion:
+P3433:
+ definition: Cylinder 5 Deactivation/lntake Valve Control Circuit/Open
+ suggestion:
+P3434:
+ definition: Cylinder 5 Deactivation/lntake Valve Control Performance
+ suggestion:
+P3435:
+ definition: Cylinder 5 Deactivation/lntake Valve Control Circuit Low
+ suggestion:
+P3436:
+ definition: Cylinder 5 Deactivation/lntake Valve Control Circuit High
+ suggestion:
+P3437:
+ definition: Cylinder 5 Exhaust Valve Control Circuit/Open
+ suggestion:
+P3438:
+ definition: Cylinder 5 Exhaust Valve Control Performance
+ suggestion:
+P3439:
+ definition: Cylinder 5 Exhaust Valve Control Circuit Low
+ suggestion:
+P3440:
+ definition: Cylinder 5 Exhaust Valve Control Circuit High
+ suggestion:
+P3441:
+ definition: Cylinder 6 Deactivation/lntake Valve Control Circuit/Open
+ suggestion:
+P3442:
+ definition: Cylinder 6 Deactivation/lntake Valve Control Performance
+ suggestion:
+P3443:
+ definition: Cylinder 6 Deactivation/lntake Valve Control Circuit Low
+ suggestion:
+P3444:
+ definition: Cylinder 6 Deactivation/lntake Valve Control Circuit High
+ suggestion:
+P3445:
+ definition: Cylinder 6 Exhaust Valve Control Circuit/Open
+ suggestion:
+P3446:
+ definition: Cylinder 6 Exhaust Valve Control Performance
+ suggestion:
+P3447:
+ definition: Cylinder 6 Exhaust Valve Control Circuit Low
+ suggestion:
+P3448:
+ definition: Cylinder 6 Exhaust Valve Control Circuit High
+ suggestion:
+P3449:
+ definition: Cylinder 7 Deactivation/lntake Valve Control Circuit/Open
+ suggestion:
+P3450:
+ definition: Cylinder 7 Deactivation/lntake Valve Control Performance
+ suggestion:
+P3451:
+ definition: Cylinder 7 Deactivation/lntake Valve Control Circuit Low
+ suggestion:
+P3452:
+ definition: Cylinder 7 Deactivation/lntake Valve Control Circuit High
+ suggestion:
+P3453:
+ definition: Cylinder 7 Exhaust Valve Control Circuit/Open
+ suggestion:
+P3454:
+ definition: Cylinder 7 Exhaust Valve Control Performance
+ suggestion:
+P3455:
+ definition: Cylinder 7 Exhaust Valve Control Circuit Low
+ suggestion:
+P3456:
+ definition: Cylinder 7 Exhaust Valve Control Circuit High
+ suggestion:
+P3457:
+ definition: Cylinder 8 Deactivation/lntake Valve Control Circuit/Open
+ suggestion:
+P3458:
+ definition: Cylinder 8 Deactivation/lntake Valve Control Performance
+ suggestion:
+P3459:
+ definition: Cylinder 8 Deactivation/lntake Valve Control Circuit Low
+ suggestion:
+P3460:
+ definition: Cylinder 8 Deactivation/lntake Valve Control Circuit High
+ suggestion:
+P3461:
+ definition: Cylinder 8 Exhaust Valve Control Circuit/Open
+ suggestion:
+P3462:
+ definition: Cylinder 8 Exhaust Valve Control Performance
+ suggestion:
+P3463:
+ definition: Cylinder 8 Exhaust Valve Control Circuit Low
+ suggestion:
+P3464:
+ definition: Cylinder 8 Exhaust Valve Control Circuit High
+ suggestion:
+P3465:
+ definition: Cylinder 9 Deactivation/lntake Valve Control Circuit/Open
+ suggestion:
+P3466:
+ definition: Cylinder 9 Deactivation/lntake Valve Control Performance
+ suggestion:
+P3467:
+ definition: Cylinder 9 Deactivation/lntake Valve Control Circuit Low
+ suggestion:
+P3468:
+ definition: Cylinder 9 Deactivation/lntake Valve Control Circuit High
+ suggestion:
+P3469:
+ definition: Cylinder 9 Exhaust Valve Control Circuit/Open
+ suggestion:
+P3470:
+ definition: Cylinder 9 Exhaust Valve Control Performance
+ suggestion:
+P3471:
+ definition: Cylinder 9 Exhaust Valve Control Circuit Low
+ suggestion:
+P3472:
+ definition: Cylinder 9 Exhaust Valve Control Circuit High
+ suggestion:
+P3473:
+ definition: Cylinder 10 Deactivation/lntake Valve Control Circuit/Open
+ suggestion:
+P3474:
+ definition: Cylinder 10 Deactivation/lntake Valve Control Performance
+ suggestion:
+P3475:
+ definition: Cylinder 10 Deactivation/lntake Valve Control Circuit Low
+ suggestion:
+P3476:
+ definition: Cylinder 10 Deactivation/lntake Valve Control Circuit High
+ suggestion:
+P3477:
+ definition: Cylinder 10 Exhaust Valve Control Circuit/Open
+ suggestion:
+P3478:
+ definition: Cylinder 10 Exhaust Valve Control Performance
+ suggestion:
+P3479:
+ definition: Cylinder 10 Exhaust Valve Control Circuit Low
+ suggestion:
+P3480:
+ definition: Cylinder 10 Exhaust Valve Control Circuit High
+ suggestion:
+P3481:
+ definition: Cylinder 11 Deactivation/lntake Valve Control Circuit/Open
+ suggestion:
+P3482:
+ definition: Cylinder 11 Deactivation/lntake Valve Control Performance
+ suggestion:
+P3483:
+ definition: Cylinder 11 Deactivation/lntake Valve Control Circuit Low
+ suggestion:
+P3484:
+ definition: Cylinder 11 Deactivation/lntake Valve Control Circuit High
+ suggestion:
+P3485:
+ definition: Cylinder 11 Exhaust Valve Control Circuit/Open
+ suggestion:
+P3486:
+ definition: Cylinder 11 Exhaust Valve Control Performance
+ suggestion:
+P3487:
+ definition: Cylinder 11 Exhaust Valve Control Circuit Low
+ suggestion:
+P3488:
+ definition: Cylinder 11 Exhaust Valve Control Circuit High
+ suggestion:
+P3489:
+ definition: Cylinder 12 Deactivation/lntake Valve Control Circuit/Open
+ suggestion:
+P3490:
+ definition: Cylinder 12 Deactivation/lntake Valve Control Performance
+ suggestion:
+P3491:
+ definition: Cylinder 12 Deactivation/lntake Valve Control Circuit Low
+ suggestion:
+P3492:
+ definition: Cylinder 12 Deactivation/lntake Valve Control Circuit High
+ suggestion:
+P3493:
+ definition: Cylinder 12 Exhaust Valve Control Circuit/Open
+ suggestion:
+P3494:
+ definition: Cylinder 12 Exhaust Valve Control Performance
+ suggestion:
+P3495:
+ definition: Cylinder 12 Exhaust Valve Control Circuit Low
+ suggestion:
+P3496:
+ definition: Cylinder 12 Exhaust Valve Control Circuit High
+ suggestion:
+P3497:
+ definition: Cylinder Deactivation System
+ suggestion:
+U0001:
+ definition: High Speed CAN Communication Bus
+ suggestion:
+U0002:
+ definition: High Speed CAN Communication Bus (Performance)
+ suggestion:
+U0003:
+ definition: High Speed CAN Communication Bus (Open)
+ suggestion:
+U0004:
+ definition: High Speed CAN Communication Bus (Low)
+ suggestion:
+U0005:
+ definition: High Speed CAN Communication Bus (High)
+ suggestion:
+U0006:
+ definition: High Speed CAN Communication Bus (Open)
+ suggestion:
+U0007:
+ definition: High Speed CAN Communication Bus (Low)
+ suggestion:
+U0008:
+ definition: High Speed CAN Communication Bus (High)
+ suggestion:
+U0009:
+ definition: High Speed CAN Communication Bus (shorted to Bus)
+ suggestion:
+U0010:
+ definition: Medium Speed CAN Communication Bus
+ suggestion:
+U0011:
+ definition: Medium Speed CAN Communication Bus (Performance)
+ suggestion:
+U0012:
+ definition: Medium Speed CAN Communication Bus (Open)
+ suggestion:
+U0013:
+ definition: Medium Speed CAN Communication Bus (Low)
+ suggestion:
+U0014:
+ definition: Medium Speed CAN Communication Bus (High)
+ suggestion:
+U0015:
+ definition: Medium Speed CAN Communication Bus (Open)
+ suggestion:
+U0016:
+ definition: Medium Speed CAN Communication Bus (Low)
+ suggestion:
+U0017:
+ definition: Medium Speed CAN Communication Bus (High)
+ suggestion:
+U0018:
+ definition: Medium Speed CAN Communication Bus (shorted to Bus)
+ suggestion:
+U0019:
+ definition: Low Speed CAN Communication Bus
+ suggestion:
+U0020:
+ definition: Low Speed CAN Communication Bus (Performance)
+ suggestion:
+U0021:
+ definition: Low Speed CAN Communication Bus (Open)
+ suggestion:
+U0022:
+ definition: Low Speed CAN Communication Bus (Low)
+ suggestion:
+U0023:
+ definition: Low Speed CAN Communication Bus (High)
+ suggestion:
+U0024:
+ definition: Low Speed CAN Communication Bus (Open)
+ suggestion:
+U0025:
+ definition: Low Speed CAN Communication Bus (Low)
+ suggestion:
+U0026:
+ definition: Low Speed CAN Communication Bus (High)
+ suggestion:
+U0027:
+ definition: Low Speed CAN Communication Bus (shorted to Bus)
+ suggestion:
+U0028:
+ definition: Vehicle Communication Bus A
+ suggestion:
+U0029:
+ definition: Vehicle Communication Bus A (Performance)
+ suggestion:
+U0030:
+ definition: Vehicle Communication Bus A (Open)
+ suggestion:
+U0031:
+ definition: Vehicle Communication Bus A (Low)
+ suggestion:
+U0032:
+ definition: Vehicle Communication Bus A (High)
+ suggestion:
+U0033:
+ definition: Vehicle Communication Bus A (Open)
+ suggestion:
+U0034:
+ definition: Vehicle Communication Bus A (Low)
+ suggestion:
+U0035:
+ definition: Vehicle Communication Bus A (High)
+ suggestion:
+U0036:
+ definition: Vehicle Communication Bus A (shorted to Bus A)
+ suggestion:
+U0037:
+ definition: Vehicle Communication Bus B
+ suggestion:
+U0038:
+ definition: Vehicle Communication Bus B (Performance)
+ suggestion:
+U0039:
+ definition: Vehicle Communication Bus B (Open)
+ suggestion:
+U0040:
+ definition: Vehicle Communication Bus B (Low)
+ suggestion:
+U0041:
+ definition: Vehicle Communication Bus B (High)
+ suggestion:
+U0042:
+ definition: Vehicle Communication Bus B (Open)
+ suggestion:
+U0043:
+ definition: Vehicle Communication Bus B (Low)
+ suggestion:
+U0044:
+ definition: Vehicle Communication Bus B (High)
+ suggestion:
+U0045:
+ definition: Vehicle Communication Bus B (shorted to Bus B)
+ suggestion:
+U0046:
+ definition: Vehicle Communication Bus C
+ suggestion:
+U0047:
+ definition: Vehicle Communication Bus C (Performance)
+ suggestion:
+U0048:
+ definition: Vehicle Communication Bus C (Open)
+ suggestion:
+U0049:
+ definition: Vehicle Communication Bus C (Low)
+ suggestion:
+U0050:
+ definition: Vehicle Communication Bus C (High)
+ suggestion:
+U0051:
+ definition: Vehicle Communication Bus C (Open)
+ suggestion:
+U0052:
+ definition: Vehicle Communication Bus C (Low)
+ suggestion:
+U0053:
+ definition: Vehicle Communication Bus C (High)
+ suggestion:
+U0054:
+ definition: Vehicle Communication Bus C (shorted to Bus C)
+ suggestion:
+U0055:
+ definition: Vehicle Communication Bus D
+ suggestion:
+U0056:
+ definition: Vehicle Communication Bus D (Performance)
+ suggestion:
+U0057:
+ definition: Vehicle Communication Bus D (Open)
+ suggestion:
+U0058:
+ definition: Vehicle Communication Bus D (Low)
+ suggestion:
+U0059:
+ definition: Vehicle Communication Bus D (High)
+ suggestion:
+U0060:
+ definition: Vehicle Communication Bus D (Open)
+ suggestion:
+U0061:
+ definition: Vehicle Communication Bus D (Low)
+ suggestion:
+U0062:
+ definition: Vehicle Communication Bus D (High)
+ suggestion:
+U0063:
+ definition: Vehicle Communication Bus D (shorted to Bus D)
+ suggestion:
+U0064:
+ definition: Vehicle Communication Bus E
+ suggestion:
+U0065:
+ definition: Vehicle Communication Bus E (Performance)
+ suggestion:
+U0066:
+ definition: Vehicle Communication Bus E (Open)
+ suggestion:
+U0067:
+ definition: Vehicle Communication Bus E (Low)
+ suggestion:
+U0068:
+ definition: Vehicle Communication Bus E (High)
+ suggestion:
+U0069:
+ definition: Vehicle Communication Bus E (Open)
+ suggestion:
+U0070:
+ definition: Vehicle Communication Bus E (Low)
+ suggestion:
+U0071:
+ definition: Vehicle Communication Bus E (High)
+ suggestion:
+U0072:
+ definition: Vehicle Communication Bus E (shorted to Bus E)
+ suggestion:
+U0073:
+ definition: Control Module Communication Bus Off
+ suggestion:
+U0074:
+ definition: Reserved by J2012
+ suggestion:
+U0075:
+ definition: Reserved by J2012
+ suggestion:
+U0076:
+ definition: Reserved by J2012
+ suggestion:
+U0077:
+ definition: Reserved by J2012
+ suggestion:
+U0078:
+ definition: Reserved by J2012
+ suggestion:
+U0079:
+ definition: Reserved by J2012
+ suggestion:
+U0080:
+ definition: Reserved by J2012
+ suggestion:
+U0081:
+ definition: Reserved by J2012
+ suggestion:
+U0082:
+ definition: Reserved by J2012
+ suggestion:
+U0083:
+ definition: Reserved by J2012
+ suggestion:
+U0084:
+ definition: Reserved by J2012
+ suggestion:
+U0085:
+ definition: Reserved by J2012
+ suggestion:
+U0086:
+ definition: Reserved by J2012
+ suggestion:
+U0087:
+ definition: Reserved by J2012
+ suggestion:
+U0088:
+ definition: Reserved by J2012
+ suggestion:
+U0089:
+ definition: Reserved by J2012
+ suggestion:
+U0090:
+ definition: Reserved by J2012
+ suggestion:
+U0091:
+ definition: Reserved by J2012
+ suggestion:
+U0092:
+ definition: Reserved by J2012
+ suggestion:
+U0093:
+ definition: Reserved by J2012
+ suggestion:
+U0094:
+ definition: Reserved by J2012
+ suggestion:
+U0095:
+ definition: Reserved by J2012
+ suggestion:
+U0096:
+ definition: Reserved by J2012
+ suggestion:
+U0097:
+ definition: Reserved by J2012
+ suggestion:
+U0098:
+ definition: Reserved by J2012
+ suggestion:
+U0099:
+ definition: Reserved by J2012
+ suggestion:
+U0100:
+ definition: Lost Communication With ECM/PCM A
+ suggestion:
+U0101:
+ definition: Lost Communication with TCM
+ suggestion:
+U0102:
+ definition: Lost Communication with Transfer Case Control Module
+ suggestion:
+U0103:
+ definition: Lost Communication With Gear Shift Module
+ suggestion:
+U0104:
+ definition: Lost Communication With Cruise Control Module
+ suggestion:
+U0105:
+ definition: Lost Communication With Fuel Injector Control Module
+ suggestion:
+U0106:
+ definition: Lost Communication With Glow Plug Control Module
+ suggestion:
+U0107:
+ definition: Lost Communication With Throttle Actuator Control Module
+ suggestion:
+U0108:
+ definition: Lost Communication With Alternative Fuel Control Module
+ suggestion:
+U0109:
+ definition: Lost Communication With Fuel Pump Control Module
+ suggestion:
+U0110:
+ definition: Lost Communication With Drive Motor Control Module
+ suggestion:
+U0111:
+ definition: Lost Communication With Battery Energy Control Module 'A'
+ suggestion:
+U0112:
+ definition: Lost Communication With Battery Energy Control Module 'B'
+ suggestion:
+U0113:
+ definition: Lost Communication With Emissions Critical Control Information
+ suggestion:
+U0114:
+ definition: Lost Communication With Four-Wheel Drive Clutch Control Module
+ suggestion:
+U0115:
+ definition: Lost Communication With ECM/PCM B
+ suggestion:
+U0116:
+ definition: Reserved by J2012
+ suggestion:
+U0117:
+ definition: Reserved by J2012
+ suggestion:
+U0118:
+ definition: Reserved by J2012
+ suggestion:
+U0119:
+ definition: Reserved by J2012
+ suggestion:
+U0120:
+ definition: Reserved by J2012
+ suggestion:
+U0121:
+ definition: Lost Communication With Anti-Lock Brake System (ABS) Control Module
+ suggestion:
+U0122:
+ definition: Lost Communication With Vehicle Dynamics Control Module
+ suggestion:
+U0123:
+ definition: Lost Communication With Yaw Rate Sensor Module
+ suggestion:
+U0124:
+ definition: Lost Communication With Lateral Acceleration Sensor Module
+ suggestion:
+U0125:
+ definition: Lost Communication With Multi-axis Acceleration Sensor Module
+ suggestion:
+U0126:
+ definition: Lost Communication With Steering Angle Sensor Module
+ suggestion:
+U0127:
+ definition: Lost Communication With Tire Pressure Monitor Module
+ suggestion:
+U0128:
+ definition: Lost Communication With Park Brake Control Module
+ suggestion:
+U0129:
+ definition: Lost Communication With Brake System Control Module
+ suggestion:
+U0130:
+ definition: Lost Communication With Steering Effort Control Module
+ suggestion:
+U0131:
+ definition: Lost Communication With Power Steering Control Module
+ suggestion:
+U0132:
+ definition: Lost Communication With Ride Level Control Module
+ suggestion:
+U0133:
+ definition: Reserved by J2012
+ suggestion:
+U0134:
+ definition: Reserved by J2012
+ suggestion:
+U0135:
+ definition: Reserved by J2012
+ suggestion:
+U0136:
+ definition: Reserved by J2012
+ suggestion:
+U0137:
+ definition: Reserved by J2012
+ suggestion:
+U0138:
+ definition: Reserved by J2012
+ suggestion:
+U0139:
+ definition: Reserved by J2012
+ suggestion:
+U0140:
+ definition: Lost Communication With Body Control Module
+ suggestion:
+U0141:
+ definition: Lost Communication With Body Control Module 'A'
+ suggestion:
+U0142:
+ definition: Lost Communication With Body Control Module 'B'
+ suggestion:
+U0143:
+ definition: Lost Communication With Body Control Module 'C'
+ suggestion:
+U0144:
+ definition: Lost Communication With Body Control Module 'D'
+ suggestion:
+U0145:
+ definition: Lost Communication With Body Control Module 'E'
+ suggestion:
+U0146:
+ definition: Lost Communication With Gateway 'A'
+ suggestion:
+U0147:
+ definition: Lost Communication With Gateway 'B'
+ suggestion:
+U0148:
+ definition: Lost Communication With Gateway 'C'
+ suggestion:
+U0149:
+ definition: Lost Communication With Gateway 'D'
+ suggestion:
+U0150:
+ definition: Lost Communication With Gateway 'E'
+ suggestion:
+U0151:
+ definition: Lost Communication With Restraints Control Module
+ suggestion:
+U0152:
+ definition: Lost Communication With Side Restraints Control Module Left
+ suggestion:
+U0153:
+ definition: Lost Communication With Side Restraints Control Module Right
+ suggestion:
+U0154:
+ definition: Lost Communication With Restraints Occupant Sensing Control Module
+ suggestion:
+U0155:
+ definition: Lost Communication With Instrument Panel Cluster (IPC) Control Module
+ suggestion:
+U0156:
+ definition: Lost Communication With Information Center 'A'
+ suggestion:
+U0157:
+ definition: Lost Communication With Information Center 'B'
+ suggestion:
+U0158:
+ definition: Lost Communication With Head Up Display
+ suggestion:
+U0159:
+ definition: Lost Communication With Parking Assist Control Module
+ suggestion:
+U0160:
+ definition: Lost Communication With Audible Alert Control Module
+ suggestion:
+U0161:
+ definition: Lost Communication With Compass Module
+ suggestion:
+U0162:
+ definition: Lost Communication With Navigation Display Module
+ suggestion:
+U0163:
+ definition: Lost Communication With Navigation Control Module
+ suggestion:
+U0164:
+ definition: Lost Communication With HVAC Control Module
+ suggestion:
+U0165:
+ definition: Lost Communication With HVAC Control Module Rear
+ suggestion:
+U0166:
+ definition: Lost Communication With Auxiliary Heater Control Module
+ suggestion:
+U0167:
+ definition: Lost Communication With Vehicle Immobilizer Control Module
+ suggestion:
+U0168:
+ definition: Lost Communication With Vehicle Security Control Module
+ suggestion:
+U0169:
+ definition: Lost Communication With Sunroof Control Module
+ suggestion:
+U0170:
+ definition: Lost Communication With 'Restraints System Sensor A'
+ suggestion:
+U0171:
+ definition: Lost Communication With 'Restraints System Sensor B'
+ suggestion:
+U0172:
+ definition: Lost Communication With 'Restraints System Sensor C'
+ suggestion:
+U0173:
+ definition: Lost Communication With 'Restraints System Sensor D'
+ suggestion:
+U0174:
+ definition: Lost Communication With 'Restraints System Sensor E'
+ suggestion:
+U0175:
+ definition: Lost Communication With 'Restraints System Sensor F'
+ suggestion:
+U0176:
+ definition: Lost Communication With 'Restraints System Sensor G'
+ suggestion:
+U0177:
+ definition: Lost Communication With 'Restraints System Sensor H'
+ suggestion:
+U0178:
+ definition: Lost Communication With 'Restraints System Sensor I'
+ suggestion:
+U0179:
+ definition: Lost Communication With 'Restraints System Sensor J'
+ suggestion:
+U0180:
+ definition: Lost Communication With Automatic Lighting Control Module
+ suggestion:
+U0181:
+ definition: Lost Communication With Headlamp Leveling Control Module
+ suggestion:
+U0182:
+ definition: Lost Communication With Lighting Control Module Front
+ suggestion:
+U0183:
+ definition: Lost Communication With Lighting Control Module Rear
+ suggestion:
+U0184:
+ definition: Lost Communication With Radio
+ suggestion:
+U0185:
+ definition: Lost Communication With Antenna Control Module
+ suggestion:
+U0186:
+ definition: Lost Communication With Audio Amplifier
+ suggestion:
+U0187:
+ definition: Lost Communication With Digital Disc Player/Changer Module 'A'
+ suggestion:
+U0188:
+ definition: Lost Communication With Digital Disc Player/Changer Module 'B'
+ suggestion:
+U0189:
+ definition: Lost Communication With Digital Disc Player/Changer Module 'C'
+ suggestion:
+U0190:
+ definition: Lost Communication With Digital Disc Player/Changer Module 'D'
+ suggestion:
+U0191:
+ definition: Lost Communication With Television
+ suggestion:
+U0192:
+ definition: Lost Communication With Personal Computer
+ suggestion:
+U0193:
+ definition: Lost Communication With 'Digital Audio Control Module A'
+ suggestion:
+U0194:
+ definition: Lost Communication With 'Digital Audio Control Module B'
+ suggestion:
+U0195:
+ definition: Lost Communication With Subscription Entertainment Receiver Module
+ suggestion:
+U0196:
+ definition: Lost Communication With Rear Seat Entertainment Control Module
+ suggestion:
+U0197:
+ definition: Lost Communication With Telephone Control Module
+ suggestion:
+U0198:
+ definition: Lost Communication With Telematic Control Module
+ suggestion:
+U0199:
+ definition: Lost Communication With 'Door Control Module A'
+ suggestion:
+U0200:
+ definition: Lost Communication With 'Door Control Module B'
+ suggestion:
+U0201:
+ definition: Lost Communication With 'Door Control Module C'
+ suggestion:
+U0202:
+ definition: Lost Communication With 'Door Control Module D'
+ suggestion:
+U0203:
+ definition: Lost Communication With 'Door Control Module E'
+ suggestion:
+U0204:
+ definition: Lost Communication With 'Door Control Module F'
+ suggestion:
+U0205:
+ definition: Lost Communication With 'Door Control Module G'
+ suggestion:
+U0206:
+ definition: Lost Communication With Folding Top Control Module
+ suggestion:
+U0207:
+ definition: Lost Communication With Moveable Roof Control Module
+ suggestion:
+U0208:
+ definition: Lost Communication With 'Seat Control Module A'
+ suggestion:
+U0209:
+ definition: Lost Communication With 'Seat Control Module B'
+ suggestion:
+U0210:
+ definition: Lost Communication With 'Seat Control Module C'
+ suggestion:
+U0211:
+ definition: Lost Communication With 'Seat Control Module D'
+ suggestion:
+U0212:
+ definition: Lost Communication With Steering Column Control Module
+ suggestion:
+U0213:
+ definition: Lost Communication With Mirror Control Module
+ suggestion:
+U0214:
+ definition: Lost Communication With Remote Function Actuation
+ suggestion:
+U0215:
+ definition: Lost Communication With 'Door Switch A'
+ suggestion:
+U0216:
+ definition: Lost Communication With 'Door Switch B'
+ suggestion:
+U0217:
+ definition: Lost Communication With 'Door Switch C'
+ suggestion:
+U0218:
+ definition: Lost Communication With 'Door Switch D'
+ suggestion:
+U0219:
+ definition: Lost Communication With 'Door Switch E'
+ suggestion:
+U0220:
+ definition: Lost Communication With 'Door Switch F'
+ suggestion:
+U0221:
+ definition: Lost Communication With 'Door Switch G'
+ suggestion:
+U0222:
+ definition: Lost Communication With 'Door Window Motor A'
+ suggestion:
+U0223:
+ definition: Lost Communication With 'Door Window Motor B'
+ suggestion:
+U0224:
+ definition: Lost Communication With 'Door Window Motor C'
+ suggestion:
+U0225:
+ definition: Lost Communication With 'Door Window Motor D'
+ suggestion:
+U0226:
+ definition: Lost Communication With 'Door Window Motor E'
+ suggestion:
+U0227:
+ definition: Lost Communication With 'Door Window Motor F'
+ suggestion:
+U0228:
+ definition: Lost Communication With 'Door Window Motor G'
+ suggestion:
+U0229:
+ definition: Lost Communication With Heated Steering Wheel Module
+ suggestion:
+U0230:
+ definition: Lost Communication With Rear Gate Module
+ suggestion:
+U0231:
+ definition: Lost Communication With Rain Sensing Module
+ suggestion:
+U0232:
+ definition: Lost Communication With Side Obstacle Detection Control Module Left
+ suggestion:
+U0233:
+ definition: Lost Communication With Side Obstacle Detection Control Module Right
+ suggestion:
+U0234:
+ definition: Lost Communication With Convenience Recall Module
+ suggestion:
+U0235:
+ definition: Lost Communication With Cruise Control Front Distance Range Sensor
+ suggestion:
+U0300:
+ definition: Internal Control Module Software Incompatibility
+ suggestion:
+U0301:
+ definition: Software Incompatibility with ECM/PCM
+ suggestion:
+U0302:
+ definition: Software Incompatibility with Transmission Control Module
+ suggestion:
+U0303:
+ definition: Software Incompatibility with Transfer Case Control Module
+ suggestion:
+U0304:
+ definition: Software Incompatibility with Gear Shift Control Module
+ suggestion:
+U0305:
+ definition: Software Incompatibility with Cruise Control Module
+ suggestion:
+U0306:
+ definition: Software Incompatibility with Fuel Injector Control Module
+ suggestion:
+U0307:
+ definition: Software Incompatibility with Glow Plug Control Module
+ suggestion:
+U0308:
+ definition: Software Incompatibility with Throttle Actuator Control Module
+ suggestion:
+U0309:
+ definition: Software Incompatibility with Alternative Fuel Control Module
+ suggestion:
+U0310:
+ definition: Software Incompatibility with Fuel Pump Control Module
+ suggestion:
+U0311:
+ definition: Software Incompatibility with Drive Motor Control Module
+ suggestion:
+U0312:
+ definition: Software Incompatibility with Battery Energy Control Module A
+ suggestion:
+U0313:
+ definition: Software Incompatibility with Battery Energy Control Module B
+ suggestion:
+U0314:
+ definition: Software Incompatibility with Four-Wheel Drive Clutch Control Module
+ suggestion:
+U0315:
+ definition: Software Incompatibility with Anti-Lock Brake System Control Module
+ suggestion:
+U0316:
+ definition: Software Incompatibility with Vehicle Dynamics Control Module
+ suggestion:
+U0317:
+ definition: Software Incompatibility with Park Brake Control Module
+ suggestion:
+U0318:
+ definition: Software Incompatibility with Brake System Control Module
+ suggestion:
+U0319:
+ definition: Software Incompatibility with Steering Effort Control Module
+ suggestion:
+U0320:
+ definition: Software Incompatibility with Power Steering Control Module
+ suggestion:
+U0321:
+ definition: Software Incompatibility with Ride Level Control Module
+ suggestion:
+U0322:
+ definition: Software Incompatibility with Body Control Module
+ suggestion:
+U0323:
+ definition: Software Incompatibility with Instrument Panel Control Module
+ suggestion:
+U0324:
+ definition: Software Incompatibility with HVAC Control Module
+ suggestion:
+U0325:
+ definition: Software Incompatibility with Auxiliary Heater Control Module
+ suggestion:
+U0326:
+ definition: Software Incompatibility with Vehicle Immobilizer Control Module
+ suggestion:
+U0327:
+ definition: Software Incompatibility with Vehicle Security Control Module
+ suggestion:
+U0328:
+ definition: Software Incompatibility with Steering Angle Sensor Module
+ suggestion:
+U0329:
+ definition: Software Incompatibility with Steering Column Control Module
+ suggestion:
+U0330:
+ definition: Software Incompatibility with Tire Pressure Monitor Module
+ suggestion:
+U0331:
+ definition: Software Incompatibility with Body Control Module 'A'
+ suggestion:
+U0400:
+ definition: Invalid Data Received
+ suggestion:
+U0401:
+ definition: Invalid Data Received From ECM/PCM
+ suggestion:
+U0402:
+ definition: Invalid Data Received From Transmission Control Module
+ suggestion:
+U0403:
+ definition: Invalid Data Received From Transfer Case Control Module
+ suggestion:
+U0404:
+ definition: Invalid Data Received From Gear Shift Control Module
+ suggestion:
+U0405:
+ definition: Invalid Data Received From Cruise Control Module
+ suggestion:
+U0406:
+ definition: Invalid Data Received From Fuel Injector Control Module
+ suggestion:
+U0407:
+ definition: Invalid Data Received From Glow Plug Control Module
+ suggestion:
+U0408:
+ definition: Invalid Data Received From Throttle Actuator Control Module
+ suggestion:
+U0409:
+ definition: Invalid Data Received From Alternative Fuel Control Module
+ suggestion:
+U0410:
+ definition: Invalid Data Received From Fuel Pump Control Module
+ suggestion:
+U0411:
+ definition: Invalid Data Received From Drive Motor Control Module
+ suggestion:
+U0412:
+ definition: Invalid Data Received From Battery Energy Control Module A
+ suggestion:
+U0413:
+ definition: Invalid Data Received From Battery Energy Control Module B
+ suggestion:
+U0414:
+ definition: Invalid Data Received From Four-Wheel Drive Clutch Control Module
+ suggestion:
+U0415:
+ definition: Invalid Data Received From Anti-Lock Brake System Control Module
+ suggestion:
+U0416:
+ definition: Invalid Data Received From Vehicle Dynamics Control Module
+ suggestion:
+U0417:
+ definition: Invalid Data Received From Park Brake Control Module
+ suggestion:
+U0418:
+ definition: Invalid Data Received From Brake System Control Module
+ suggestion:
+U0419:
+ definition: Invalid Data Received From Steering Effort Control Module
+ suggestion:
+U0420:
+ definition: Invalid Data Received From Power Steering Control Module
+ suggestion:
+U0421:
+ definition: Invalid Data Received From Ride Level Control Module
+ suggestion:
+U0422:
+ definition: Invalid Data Received From Body Control Module
+ suggestion:
+U0423:
+ definition: Invalid Data Received From Instrument Panel Control Module
+ suggestion:
+U0424:
+ definition: Invalid Data Received From HVAC Control Module
+ suggestion:
+U0425:
+ definition: Invalid Data Received From Auxiliary Heater Control Module
+ suggestion:
+U0426:
+ definition: Invalid Data Received From Vehicle Immobilizer Control Module
+ suggestion:
+U0427:
+ definition: Invalid Data Received From Vehicle Security Control Module
+ suggestion:
+U0428:
+ definition: Invalid Data Received From Steering Angle Sensor Module
+ suggestion:
+U0429:
+ definition: Invalid Data Received From Steering Column Control Module
+ suggestion:
+U0430:
+ definition: Invalid Data Received From Tire Pressure Monitor Module
+ suggestion:
+U0431:
+ definition: Invalid Data Received From Body Control Module 'A'
+ suggestion:

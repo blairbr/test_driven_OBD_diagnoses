@@ -2,8 +2,8 @@ import unittest
 from unittest.mock import Mock
 from CarDoctor import CarDoctor
 
-
 #To-do
+#add suggestions for common error codes
 #refactor in general
 #clean up the tests so that they are fixtures that just pass in different stuff instead of all different tests
 #   https://stackoverflow.com/questions/37626662/get-yaml-key-value-in-python
@@ -34,7 +34,8 @@ class Test_Car_Doctor(unittest.TestCase):
         expected_suggestion = 'Your engine is misfiring. One or more of the cylinders is not working properly. See a mechanic.'
 
         error_300 = [("P0300", "Random/Multiple cylinder misfire detected.")]
-        actual_suggestion = CarDoctor.retrieve_troubleshooting_suggestion(self, error_300)
+        trimmed_error_code = CarDoctor.trim_dtc_code_to_four_digit_error_code(self, error_300)
+        actual_suggestion = CarDoctor.retrieve_troubleshooting_suggestion(self, trimmed_error_code)
 
         self.assertEqual(expected_suggestion, actual_suggestion)
 
@@ -42,7 +43,7 @@ class Test_Car_Doctor(unittest.TestCase):
         expected_suggestion = 'Try tightening your gas cap.'
 
         error_441 = [("P0441", "Evaporative Emission Control System Incorrect Purge Flow")]
-        actual_suggestion = CarDoctor.retrieve_troubleshooting_suggestion(self, error_441)
+        actual_suggestion = CarDoctor.retrieve_troubleshooting_suggestion(self, CarDoctor.trim_dtc_code_to_four_digit_error_code(self, error_441))
 
         self.assertEqual(expected_suggestion, actual_suggestion)
 
@@ -80,28 +81,3 @@ class Test_Car_Doctor(unittest.TestCase):
         expected = 'P0104'
         actual = CarDoctor.trim_dtc_code_to_four_digit_error_code(self, error_104)
         self.assertEqual(expected, actual)
-
-    def test_yaml_is_written(self):
-        expected =''
-        actual = CarDoctor.write_to_yaml_file(self)
-        self.assertEqual(expected, actual)
-
-    def test_format_yaml(self):
-        expected = ''
-        actual = CarDoctor.format_yaml(self)
-        self.assertEqual(expected, actual)
-
-    def test_yaml_file_can_be_read(self):
-        expected_yaml_data = {'P0104': {'definition': 'Mass or Volume Air Flow Circuit Intermittent',
-           'suggestion': 'Check for frayed wires or loose connections to your '
-                         'MAF sensor.'},
- 'P0300': {'definition': 'One or more of the cylinders is not working '
-                         'properly. See a mechanic.',
-           'suggestion': 'Your engine is misfiring. One or more of the '
-                         'cylinders is not working properly. See a mechanic.'},
- 'P0441': {'definition': 'Evaporative Emission Control System Incorrect Purge '
-                         'Flow',
-           'suggestion': 'Try tightening your gas cap.'}}
-
-        actual_yaml_data = CarDoctor.retrieve_yaml_file(self)
-        self.assertEqual(expected_yaml_data, actual_yaml_data)

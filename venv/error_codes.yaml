@@ -1,6 +1,4 @@
-P0001:
-  definition: Fuel Volume Regulator Control Circuit/Open
-  suggestion:
+P0001: Fuel Volume Regulator Control Circuit/Open
 P0002: Fuel Volume Regulator Control Circuit Range/Performance
 P0003: Fuel Volume Regulator Control Circuit Low
 P0004: Fuel Volume Regulator Control Circuit High
@@ -9,10 +7,22 @@ P0006: Fuel Shutoff Valve 'A' Control Circuit Low
 P0007: Fuel Shutoff Valve 'A' Control Circuit High
 P0008: Engine Position System Performance
 P0009: Engine Position System Performance
+P0010: '''A'' Camshaft Position Actuator Circuit'
+P0011: '''A'' Camshaft Position - Timing Over-Advanced or System Performance'
+P0012: '''A'' Camshaft Position - Timing Over-Retarded'
+P0013: '''B'' Camshaft Position - Actuator Circuit'
+P0014: '''B'' Camshaft Position - Timing Over-Advanced or System Performance'
+P0015: '''B'' Camshaft Position - Timing Over-Retarded'
 P0016: Crankshaft Position - Camshaft Position Correlation
 P0017: Crankshaft Position - Camshaft Position Correlation
 P0018: Crankshaft Position - Camshaft Position Correlation
 P0019: Crankshaft Position - Camshaft Position Correlation
+P0020: '''A'' Camshaft Position Actuator Circuit'
+P0021: '''A'' Camshaft Position - Timing Over-Advanced or System Performance'
+P0022: '''A'' Camshaft Position - Timing Over-Retarded'
+P0023: '''B'' Camshaft Position - Actuator Circuit'
+P0024: '''B'' Camshaft Position - Timing Over-Advanced or System Performance'
+P0025: '''B'' Camshaft Position - Timing Over-Retarded'
 P0026: Intake Valve Control Solenoid Circuit Range/Performance
 P0027: Exhaust Valve Control Solenoid Circuit Range/Performance
 P0028: Intake Valve Control Solenoid Circuit Range/Performance
