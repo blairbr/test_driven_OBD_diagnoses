@@ -27,6 +27,9 @@ P0008:
 P0009:
  definition: Engine Position System Performance
  suggestion:
+P0011:
+ definition: Intake Camshaft Position Timing- Over-Advanced(Bank 1)
+ suggestion: This is serious. Get your oil changed!!
 P0016:
  definition: Crankshaft Position - Camshaft Position Correlation
  suggestion:
@@ -1316,7 +1319,7 @@ P0455:
  suggestion:
 P0456:
  definition: Evaporative Emission System Leak Detected (very small leak)
- suggestion:
+ suggestion: Evap leak detected try tightening your gas cap or checking for a leaking evap hose.
 P0457:
  definition: Evaporative Emission System Leak Detected (fuel cap loose/off)
  suggestion:

@@ -2,15 +2,19 @@ import obd
 import datetime
 import logging
 import yaml
+import time
 from OBD2_codes import OBD2_codes
 
-class CarDoctor:
-    def format_yaml(self):
-        data = 'P0016: Crankshaft Position - Camshaft Position Correlation  P0017: Crankshaft  Position - Camshaft    Position   Correlation'
-        newYaml = data.replace(": ", ": suggestion: ")
-        return newYaml
 
-    def get_error_codes(self):
+class CarDoctor:
+
+
+    # def format_yaml(self):
+    #     data = 'P0016: Crankshaft Position - Camshaft Position Correlation  P0017: Crankshaft  Position - Camshaft    Position   Correlation'
+    #     newYaml = data.replace(": ", ": suggestion: ")
+    #     return newYaml
+
+    def get_error_codes(self):  #try catch?
         connection = obd.OBD()
         dtc_codes = connection.query(obd.commands.GET_DTC)
         if dtc_codes:
@@ -53,3 +57,19 @@ class CarDoctor:
         with open(r'venv/error_codes.yaml', 'w') as file:
             documents = yaml.dump(OBD2_codes.pcodes, file)
 
+def main():
+    five_minutes = 300
+    while(True):
+        print("The Car Doc is in the office")
+        cd = CarDoctor()
+        error_code = cd.get_error_codes()
+        trimmed_error_code = cd.trim_dtc_code_to_four_digit_error_code(error_code)
+        suggestion = cd.retrieve_troubleshooting_suggestion(trimmed_error_code)
+        print(suggestion)
+        time.sleep(five_minutes)
+
+        #check for nulls and stuff
+        #check if there is ever more than 1
+
+if __name__ == "__main__":
+    main()
