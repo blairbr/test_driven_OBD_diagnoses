@@ -15,17 +15,19 @@ class CarDoctor:
     #     return newYaml
 
     def get_error_codes(self):  #try catch?
-        connection = obd.OBD()
+        # The specific location of the usb port will probably need to be configurable -- it'll be different for different folk
+        connection = obd.OBD("/dev/tty.usbserial-146220")
         dtc_codes = connection.query(obd.commands.GET_DTC)
         if dtc_codes:
-            for dtc_code in dtc_codes:
+            for dtc_code in dtc_codes.value:
                 return dtc_code
         else:
             return 'no error codes found'
 
     def trim_dtc_code_to_four_digit_error_code(self, dtc):
+        # This could probably be just dtc[0] is not None
         if dtc[0][0] is not None:
-            return dtc[0][0]
+            return dtc[0]
 
     def print_timestamp(self):
         current_DT = datetime.datetime.now()
